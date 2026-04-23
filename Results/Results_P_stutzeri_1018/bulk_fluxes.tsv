@@ -1,0 +1,1421 @@
+condition	reaction_id	flux	reduced_cost	reaction_name
+bulk	rxn08094	0.8546000888475455	-5.551115123125783e-17	2-Oxogluterate dehydrogenase
+bulk	rxn01637	0.0	-0.015279003153846994	N2-Acetyl-L-ornithine:2-oxoglutarate aminotransferase
+bulk	rxn01644	0.025832606580943912	6.938893903907228e-18	L-Aspartate-4-semialdehyde hydro-lyase (adding pyruvate)
+bulk	rxn02928	0.025832606580943905	6.938893903907228e-17	2,3,4,5-Tetrahydrodipicolinate:NAD+ oxidoreductase
+bulk	rxn01652	0.0	-0.00763950157691505	S-Aminomethyldihydrolipoylprotein:(6S)-tetrahydrofolate
+bulk	rxn00684	0.0	1.1629019710328904e-15	5,6,7,8-Tetrahydrofolate:NAD+ oxidoreductase
+bulk	rxn05782	2.6561560621316946e-05	0.0	Phosphoprotein phosphohydrolase
+bulk	rxn00979	2.656156062131695e-05	2.0816681711721685e-17	glycolaldehyde:NAD+ oxidoreductase
+bulk	rxn08653	0.0	-0.0	glycolate transport via diffusion (extracellular to periplasm)
+bulk	rxn00127	0.0005300401110531186	0.0	
+bulk	EX_cpd02791_c0	0.0005300401110531269	3.080569903089526e-14	
+bulk	ADD_12dia	0.0	0.0	
+bulk	ADD_TPP1	0.0	1.3877787807814457e-17	
+bulk	rxn02484	0.0	-0.013369127759602471	
+bulk	ADD_TPP3	0.0	5.551115123125783e-17	
+bulk	ADD_TPP4	0.0	0.0	
+bulk	rxn42709	0.0	-0.6350335685811077	
+bulk	EX_cpd01042_c0	0.0	0.0	
+bulk	EX_cpd03091_c0	0.0	-0.33709300708139733	
+bulk	ADD_TPP8	0.1400311986175221	8.673617379884035e-19	
+bulk	rxn05147	0.6197244399999999	0.0	D-Glucose-ABC transport
+bulk	rxn00154	0.39106589200687564	-1.2975731600306517e-15	pyruvate:NAD+ 2-oxidoreductase (CoA-acetylating)
+bulk	rxn25164	0.0	-5.136699496896363e-16	succinyl-CoA:acetate CoA-transferase
+bulk	rxn01258	0.013252558137629298	2.7755575615628914e-17	Chorismate hydroxymutase
+bulk	rxn10880	0.005845329988748719	2.0816681711721685e-17	Phosphatidylserine syntase
+bulk	rxn10859	0.007554560459223382	-1.1102230246251565e-16	CDP-Diacylglycerol synthetase (Saureus)
+bulk	PA_syn	0.00015109120918446763	2.1316282072803006e-14	
+bulk	rxn05334	0.009367654969436996	0.0	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase
+bulk	rxn05330	0.009367654969436994	0.0	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase
+bulk	rxn05329	0.009367654969436996	0.0	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase
+bulk	rxn05333	0.0009065472551068057	2.7755575615628914e-17	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase
+bulk	Cis9_hex_syn	0.007403469250038914	-2.220446049250313e-16	
+bulk	Cis11_oct_syn	0.00256855055613595	-5.551115123125783e-17	
+bulk	rxn05332	0.004381645066349561	0.0	(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase
+bulk	rxn08392	0.004381645066349561	-1.1102230246251565e-16	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C16:0)
+bulk	rxn09542	0.0	0.0	phosphatidylglycerol phosphate phosphatase A, yeast-specific, mitochondrial
+bulk	rxn10875	3.418460940949327e-05	0.0	Phosphatidylglycerol synthase (Saureus)
+bulk	Car_syn	1.2863894830053217e-05	1.3766765505351941e-14	
+bulk	rxn10879	0.00011434573182269529	0.0	Phosphatidylserine decarboxylase (Saureus)
+bulk	rxn00642	1.5456285289455987e-16	-3.885780586188048e-16	GDPmannose 4,6-hydro-lyase
+bulk	rxn02440	0.0	-8.058458522988343e-17	GDP-6-deoxy-D-mannose:NAD+ 4-oxidoreductase
+bulk	rxn01893	0.0	0.0	2-oxopent-4-enoate hydratase
+bulk	rxn00849	0.0	3.1618797442685083e-15	D-Alanine:2-oxoglutarate aminotransferase
+bulk	rxn00499	0.0	0.0	(R)-Lactate:NAD+ oxidoreductase
+bulk	R00093	1.5573748951000657	0.0	L-glutamate:NAD+ oxidoreductase (transaminating)
+bulk	rxn05026	0.0	-1.431146867680866e-17	alpha,alpha-trehalose:phosphate alpha-D-glucosyltransferase
+bulk	R00029	0.0	-0.20244679178825542	Thiosulfate:ferricytochrome-c oxidoreductase
+bulk	rxn01827	0.0	-0.09644870740855746	4-Hydroxyphenylpyruvate:oxygen oxidoreductase
+bulk	rxn01825	0.0	0.0	Homogentisate:oxygen 1,2-oxidoreductase (decyclizing)
+bulk	rxn02276	0.0	0.0	4-Maleylacetoacetate cis-trans-isomerase
+bulk	rxn00993	0.0	1.3877787807814457e-17	4-Fumarylacetoacetate fumarylhydrola
+bulk	rxn00560	0.0	-0.007639501576915033	Urea:carbon-dioxide ligase (ADP-forming)
+bulk	rxn00120	0.0	-0.007639501576915088	UTP diphosphohydrolase
+bulk	R00274	0.0	-0.013369127759602101	Glutathione:hydrogen-peroxide oxidoreductase
+bulk	rxn00908	0.0028992930946804456	-1.1102230246251565e-16	glycine synthase
+bulk	R01668	0.0	-0.01527900315383007	dCTP nucleotidohydrolase
+bulk	rxn00383	0.0	-0.03628763249034735	Sulfite:oxygen oxidoreductase
+bulk	rxn14250	0.0	-1.2576745200831851e-17	ethylnitronate:oxygen 2-oxidoreductase (nitrite-forming)
+bulk	R00022	0.0	0.0	Hexosaminidase
+bulk	rxn13990	0.0	0.0	ATP:N-acetyl-D-glucosamine 1-phosphotransferase
+bulk	R00103	0.0	-0.4220824621243131	NAD+ phosphohydrolase
+bulk	rxn00191	0.001408803949698365	1.59146586426048e-15	L-Alanine:2-oxoglutarate aminotransferase
+bulk	rxn00342	0.0	-0.015279003153830233	L-Asparagine amidohydrolase
+bulk	rxn00962	0.0	-0.01336912775960217	4-hydroxybenzoate,NADH:oxygen oxidoreductase (3-hydroxylating)
+bulk	rxn00965	0.0	0.0	4-Hydroxybenzoyl-CoA hydrolase
+bulk	rxn04786	0.0	-0.13178140220179171	L-2,4-diaminobutyrate:2-oxoglutarate 4-aminotransferase
+bulk	rxn04787	0.0	-0.06302588800955225	L-2,4-diaminobutyrate acetyltransferase
+bulk	rxn04788	0.0	0.0	Ectoine hydro-lyase
+bulk	rxn07840	0.0	1.3877787807814457e-17	ectoine hydroxylase(ectD)
+bulk	rxn22447	0.0	0.0	N2O reductase(nosZ)
+bulk	R11337	0.0	-1.2507548761192227e-17	2-oxoglutarate reductase(serA)
+bulk	rxn00738	0.0	-2.6238144647657038e-18	1-Aminocyclopropane-1-carboxylate (ACC) deaminase
+bulk	biomass0	0.05955506865765379	-2.42861286636753e-16	
+bulk	biomass1	5.955506865765378e-06	-1.8189894035458565e-12	
+bulk	rxn12008	0.0	-0.0008185180260976385	rxn12008
+bulk	rxn00541	0.0	-0.014324065456716472	L-Threonine acetaldehyde-lyase
+bulk	rxn00225	-1.0052111422697174	-0.0	ATP:acetate phosphotransferase
+bulk	rxn01199	0.0	-0.0	ATP:D-xylulose 5-phosphotransferase
+bulk	rxn10215	0.0	-0.1107727728652802	anteisoheptadecanoyl-1-acylglycerol-3-phosphate O-acyltransferase
+bulk	rxn02483	0.0	0.0	4-Carboxymuconolactone carboxy-lyase
+bulk	rxn00802	0.0003886633075761048	3.7496882533355326e-15	N-(L-Argininosuccinate) arginie-lyase
+bulk	rxn03638	0.0004122401852482795	8.326672684688674e-17	Acetyl-CoA:D-glucosamine-1-phosphate N-acetyltransferase
+bulk	rxn08851	0.0	-1.5504307112629088e-19	Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C18:1)
+bulk	rxn06078	0.0	0.0	O-Acetyl-L-homoserine acetate-lyase (adding methanethiol)
+bulk	rxn00868	0.0	1.2109850040810631e-15	Butanoyl-CoA:(acceptor) 2,3-oxidoreductase
+bulk	rxn01675	4.17481031290153e-05	3.704430847454432e-17	dTTP:alpha-D-glucose-1-phosphate thymidylyltransferase
+bulk	rxn12636	0.0	0.0	aminopeptidase
+bulk	rxn12644	0.0	-0.0	aminopeptidase
+bulk	rxn05536	0.0	-1.2712053631958042e-14	Dipeptide transport via ABC system (met-ala)
+bulk	rxn10855	0.0	-0.0	citrate-Mg transport in via proton symport
+bulk	rxn08800	0.0	0.0	Lysophospholipase L1 (2-acylglycerophosphotidate, n-C16:1) (periplasm)
+bulk	rxn06729	8.34962062580306e-05	-5.551115123125783e-17	(R)-3-Hydroxytetradecanoly-[acyl-carrier-protein]:UDP-N-acetyl-
+bulk	rxn01387	0.9057583188702789	-2.47896331742926e-16	Isocitrate:NADP+ oxidoreductase (decarboxylating)
+bulk	rxn08823	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphotidate, n-C18:1)
+bulk	rxn05168	0.0	-0.005729626182686262	L-Valine-ABC transport
+bulk	rxn05544	0.0	3.705803025555454e-15	Dipeptide transport via ABC system (ala-leu)
+bulk	rxn03061	2.0636867329834587e-18	-0.0	(2S,3R)-3-Hydroxybutane-1,2,3-tricarboxylate hydro-lyase
+bulk	rxn05549	0.0	-0.007639501576915088	Deoxyribose transport via ABC system
+bulk	rxn03910	0.0	-0.0	2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol
+bulk	rxn05616	0.0	0.0	magnesium transport in/out via permease (no H+)
+bulk	rxn02345	0.0	0.0	(S)-3-Hydroxybutanoyl-CoA 3-epimerase
+bulk	rxn01134	0.0	3.4601014523352066e-17	Maltose alpha-D-glucosylmutase
+bulk	rxn08527	2.6561560621316943e-05	0.0	fumarate reductase
+bulk	rxn12848	0.0	-2.2551405187698492e-14	Gly-Cys ABC transporters
+bulk	rxn02212	0.01649509340576396	1.3877787807814457e-17	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate phosphate-lyase
+bulk	rxn03419	0.0	0.0	Formamidopyrimidine nucleoside triphosphate 7,8-8,9-dihydrolase
+bulk	rxn05408	0.0	0.0	2-methylpropionyl-CoA:[acyl-carrier-protein] transferase
+bulk	rxn02160	0.0018179849553597988	-1.3877787807814457e-17	L-Histidinol-phosphate phosphohydrolase
+bulk	rxn10125	0.0	-0.0038197507884570403	NAD(P) transhydrogenase
+bulk	rxn05614	0.0	-0.007639501576915088	L-methionine R-oxide transport via ABC system
+bulk	rxn03052	0.0	0.0	5-Methyltetrahydropteroyltri-L-glutamate:L-homocysteine
+bulk	rxn09692	0.0	-8.410955798798425e-19	choline transport via proton symport
+bulk	rxn00883	0.0	-1.3444106938820255e-17	1D-myo-Inositol 3-phosphate phosphahydrolase
+bulk	rxn01923	0.0	-1.1102230246251565e-16	2-Methylpropanoyl-CoA:oxygen 2,3-oxidoreductase
+bulk	rxn05734	0.0	0.0	aldehyde dehydrogenase (glyoxylate, NAD)
+bulk	rxn01302	0.0	6.562698956797509e-16	L-Homoserine:NADP+ oxidoreductase
+bulk	rxn05422	0.0	-0.0	10-methyl-3-oxo-undecanoyl-ACP:NADP+ oxidoreductase
+bulk	rxn05448	0.0	-0.013369127759601505	10-methyl-trans-undec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+bulk	rxn00048	5.955506865650891e-07	-5.551115123125783e-17	6,7-Dimethyl-8-(1-D-ribityl)lumazine:6,7-dimethyl-8-(1-D-ribityl)
+bulk	rxn03164	0.00016437198949512444	1.431146867680866e-17	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-
+bulk	rxn05298	0.0	-1.5975605881579205e-17	GLUt4i
+bulk	rxn05229	0.024999431170415757	-1.942890293094024e-16	NCAIR synthetase and NCAIR mutase
+bulk	rxn12637	0.0	0.0	aminopeptidase
+bulk	rxn09104	0.0	0.0	phosphatidylglycerol phosphate phosphatase (n-C16:0)
+bulk	rxn01416	0.0	-0.0	thiosulfate:cyanide sulfurtranserase
+bulk	rxn10011	0.0059919545677838615	0.0	acyl-CoA dehydrogenase (octanoyl-CoA)
+bulk	rxn08807	0.0	0.0	Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C16:1) (periplasm)
+bulk	rxn08297	0.0	-0.0	diacylglycerol kinase (n-C16:0)
+bulk	rxn00902	0.0	-0.049656760249953566	3-Carboxy-3-hydroxy-4-methylpentanoate 3-methyl-2-oxobutanoate-lyase
+bulk	rxn03852	0.0	-0.0	UDP-N-acetyl-D-mannosamine:N-acetyl-beta-D-
+bulk	rxn00952	0.007438428075340959	0.0	O-Acetyl-L-homoserine acetate-lyase (adding methanethiol)
+bulk	rxn08809	0.0	1.969047003303894e-17	Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C18:1) (periplasm)
+bulk	rxn00503	0.0	-0.007639501576931664	L-1-Pyrroline-5-carboxylate:NAD+ oxidoreductase
+bulk	rxn10266	0.0	0.0	anteisoheptadecanoyl-Phosphatidylglycerophosphate phosphohydrolase
+bulk	rxn03909	0.0	-6.938893903907228e-18	1-Deoxy-D-xylulose-5-phosphate pyruvate-lyase (carboxylating)
+bulk	rxn05187	0.0	-0.007639501576915088	Vitamin ABC transport
+bulk	rxn05328	0.0	-0.6818255157396961	Hexadecanoyl-[acyl-carrier protein]:malonyl-CoA
+bulk	rxn02853	0.0	-3.8163916471489756e-17	Imidazole acetaldehyde:NAD+ oxidoreductase
+bulk	rxn10230	0.0	-6.938893903907228e-18	anteisopentadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase
+bulk	rxn00999	0.0	-0.32563375471602596	Phenylpyruvate:oxygen oxidoreductase (hydroxylating,decarboxylating)
+bulk	rxn02056	0.0	0.0	S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase
+bulk	rxn05372	0.0	0.0	10-methyl-3-oxo-dodecanoyl-ACP:NADP+ oxidoreductase
+bulk	rxn00459	0.44934133165875006	0.0	2-Phospho-D-glycerate hydro-lyase
+bulk	rxn00405	0.0	-0.022918504730754484	L-Arginine carboxy-lyase
+bulk	rxn02949	0.0	0.0	(S)-3-Hydroxyisobutyryl-CoA hydro-lyase
+bulk	rxn05031	-2.836916006241185e-17	0.0	prephytoene diphosphate:geranylgeranyl-diphosphate
+bulk	rxn10225	0.0	-0.0	isohexadecanoyl-phosphatidate cytidylyltransferase
+bulk	rxn10259	0.0	-0.0	isoheptadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase
+bulk	rxn00929	-0.0211897621437907	-4.144025854911219e-17	L-Proline:NAD+ 5-oxidoreductase
+bulk	rxn08311	0.0	-0.0	CDP-diacylglycerol synthetase (n-C18:0)
+bulk	rxn01492	0.0	0.0	ATP:D-fructose-1-phosphate 6-phosphotransferase
+bulk	rxn01101	0.08895511664854086	8.647846805277704e-17	3-Phospho-D-glycerate:NAD+ 2-oxidoreductase
+bulk	rxn08844	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C18:1)
+bulk	rxn00358	0.0	-0.0	UDP-D-galactopyranose furanomutase
+bulk	rxn00302	0.0	0.0	GTP 7,8-8,9-dihydrolase
+bulk	rxn05315	0.0	-0.0	ZN2t4
+bulk	rxn05145	0.0	-0.001909875394227713	Orthophosphate-ABC transport
+bulk	rxn05341	-0.009367654969436996	-8.3263300912175e-17	(3R)-3-Hydroxyoctanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase
+bulk	rxn02944	0.0	0.0	N2-succinyl-L-ornithine:2-oxoglutarate 5-aminotransferase
+bulk	rxn02331	0.0001252443093870459	0.0	2-Dehydro-3-deoxy-D-octonate-8-phosphate
+bulk	rxn02988	0.00016258533743359634	-1.3464229731141586e-13	quinolinate synthase
+bulk	rxn05460	0.0	3.469446951953614e-18	3-Oxooctodecanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+bulk	rxn04139	0.0	-0.08498945504319676	2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen
+bulk	rxn00290	0.0	-3.082019698137818e-16	Succinyl-CoA:3-oxo-acid CoA-transferase
+bulk	rxn10199	0.00016437198949512444	0.0	Peptidoglycan subunit synthesis
+bulk	rxn03241	0.004423393169478575	0.0	(S)-3-Hydroxytetradecanoyl-CoA hydro-lyase
+bulk	rxn09200	0.0	0.0	Phosphatidylserine decarboxylase (n-C16:0)
+bulk	rxn01573	0.0	-2.417348415364878e-17	L-Isoleucine:NAD+ oxidoreductase(deaminating)
+bulk	rxn02937	0.024999431170415524	6.462343444572747e-19	2-(Formamido)-N1-(5-phosphoribosyl)acetamidine cyclo-ligase
+bulk	rxn00640	1.5456285289455987e-16	-0.0	GDP:D-mannose-1-phosphate guanylyltransferase
+bulk	rxn00649	0.0051848047222666374	0.0	O3-Acetyl-L-serine acetate-lyase (adding hydrogen sulfide)
+bulk	rxn10806	0.0	-0.0038197507884576228	cytochrome oxidase bd (menaquinol-8: 2 protons)
+bulk	rxn12851	0.0	2.7755575615628914e-17	Gly-Try ABC transporters
+bulk	rxn05153	0.0	-0.005729626182686262	Sulfate-ABC transport
+bulk	rxn05346	0.009367654969436994	2.7755575615628914e-17	butyryl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein]
+bulk	rxn01654	0.0	-5.551115123125783e-17	5-Formiminotetrahydrofolate ammonia-lyase (cyclizing)
+bulk	rxn00671	0.0	-7.274215544252635e-17	2-Methyl-3-oxopropanoate:NAD+ oxidoreductase (CoA-propanoylating)
+bulk	rxn00558	0.0	3.0700304765308734e-17	D-Glucose-6-phosphate ketol-isomerase
+bulk	rxn01406	0.0005300401110531187	4.163336342344337e-17	S-Adenosylmethioninamine:putrescine 3-aminopropyltransferase
+bulk	rxn10340	0.0	-0.0	isopentadecanoyl-cardiolipin synthase
+bulk	rxn10122	3.256734747403433	4.5536491244391186e-17	NADH dehydrogenase (ubiquinone-8 & 3.5 protons)
+bulk	rxn10113	0.0	-0.003819750788457606	cytochrome oxidase bo3 (ubiquinol-8: 2.5 protons)
+bulk	rxn06106	4.251334761611684	0.0	Ubiquinol:ferricytochrome-c oxidoreductase
+bulk	rxn10043	4.251334761611685	-4.336808689942018e-19	cytochrome-c oxidase (H+/e- = 2)
+bulk	rxn10042	10.365785697401185	-6.982261990806649e-17	ATP synthase (four protons for one ATP)
+bulk	rxn00187	0.0	-0.0076395015769151154	L-Glutamate:ammonia ligase (ADP-forming)
+bulk	rxn05305	0.0	-0.0	LYSt3r
+bulk	rxn00737	0.0	-0.042017258673030036	L-threonine ammonia-lyase
+bulk	rxn01200	0.2964621176445294	0.0	Sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate
+bulk	rxn05232	0.0010803289454498395	2.7755575615628914e-17	Ribonucleotide reductase: ATP
+bulk	rxn03841	2.656156062131695e-05	-3.3306690738754696e-16	4-amino-4-deoxychorismate pyruvate-lyase
+bulk	rxn00193	0.00016437198949512444	0.0	L-Glutamate racemase
+bulk	rxn05561	0.0	8.259678444298004e-19	fumarate transport in/out via proton symport
+bulk	rxn01834	0.0	-0.0	(R)-S-Lactoylglutathione methylglyoxal-lyase (isomerizing)
+bulk	rxn00327	0.0	-3.469446951953614e-18	Ureidoglycolate amidohydrolase (decarboxylating)
+bulk	rxn01073	0.0	0.0	sn-Glycero-3-phosphoethanolamine glycerophosphohydrolase
+bulk	rxn05175	1.7869640797881962e-17	5.551115123125783e-17	Spermidine-ABC transport
+bulk	rxn02971	0.0	0.0	2-Oxo-2,5-dihydrofuran-5-acetate delta3-delat2-isomerase
+bulk	rxn08294	0.0	-0.0	diacylglycerol kinase (n-C12:0)
+bulk	rxn00604	0.6101655537051032	0.0	D-Glucose-6-phosphate:NADP+ 1-oxoreductase
+bulk	rxn12844	0.0	0.0	Gly-Cys aminopeptidase
+bulk	rxn01678	0.0	-0.0	ATP:nucleoside-diphosphate phosphatransferase
+bulk	rxn08814	0.0	0.0	Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C16:1) (periplasm)
+bulk	rxn01332	0.01649509340576396	1.3877787807814457e-17	Phosphoenolpyruvate:D-erythrose-4-phosphate
+bulk	rxn01858	0.0	5.551115123125783e-17	Deoxyadenosine aminohydrolase
+bulk	rxn08657	0.0	-1.5817644357059685e-17	Glycolate oxidase
+bulk	rxn08816	0.0	-1.5504307112629088e-19	Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C18:1) (periplasm)
+bulk	rxn09103	1.0498012202516064e-17	0.0	phosphatidylglycerol phosphate phosphatase (n-C14:1)
+bulk	rxn09208	0.0	-6.938893903907228e-18	Phosphatidylserine syntase (n-C16:0)
+bulk	rxn05567	0.0	-0.0	Galactitol transport via PEP:Pyr PTS
+bulk	rxn10060	0.0	0.0	NAD kinase (dTTP)
+bulk	rxn05683	0.0	-0.0	butanoate transport in via proton symport
+bulk	rxn06377	0.0	-3.2827733235380393e-16	glycine:lipoylprotein oxidoreductase (decarboxylating and
+bulk	rxn00206	0.0	0.0	Superoxide:superoxide oxidoreductase
+bulk	rxn07295	0.0	-0.3447325086583191	glycine oxidase
+bulk	rxn02933	-1.4766535496166777e-17	2.0012078017907563e-16	(2S,3S)-3-hydroxy-2-methylbutanoyl-CoA:NAD+ oxidoreductase
+bulk	rxn00100	3.513749050756906e-06	5.551115123125783e-17	ATP:dephospho-CoA 3'-phosphotransferase
+bulk	rxn01018	0.018375120883632492	0.0	Carbamoyl-phosphate:L-aspartate carbamoyltransferase
+bulk	rxn00806	0.0	-3.2807766205649924e-17	L-Leucine:2-oxoglutarate aminotransferase
+bulk	rxn02834	0.001817984955359798	0.0	Phosphoribosyl-ATP pyrophosphohydrolase
+bulk	rxn10121	0.0	-0.016233940850945042	Nitrate reductase (Menaquinol-8)
+bulk	rxn00656	3.5137490507569054e-06	0.0	L-Alanine:3-oxopropanoate aminotransferase
+bulk	rxn01053	0.0	-3.3835829418111074e-17	(S)-lactaldehyde:NAD+ oxidoreductase
+bulk	rxn02341	3.513749050756906e-06	2.7755575615628914e-17	N-[(R)-4'-Phosphopantothenoyl]-L-cysteine carboxy-lyase
+bulk	rxn06022	0.0	-0.022918504730745283	[Acyl-carrier-protein] 4'-pantetheine-phosphohydrolase
+bulk	rxn09310	0.0	2.7755575615628914e-17	thiazole phosphate synthesis
+bulk	rxn03175	0.0018179849553597986	0.0	N-(5'-Phospho-D-ribosylformimino)-5-amino-1-
+bulk	rxn10945	0.0	0.0019098753942288216	EX_pro_L_e
+bulk	rxn10219	0.0	-0.1107727728652802	isohexadecanoyl-1-acylglycerol-3-phosphate O-acyltransferase
+bulk	rxn00786	0.0	-2.073410359657232e-17	D-Fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase
+bulk	rxn00605	0.0	3.0700304765308734e-17	UDPglucose:D-glucose-6-phosphate 1-alpha-D-glucosyltransferase
+bulk	rxn00379	0.012623232797607596	-1.3125644762887445e-17	ATP:sulfate adenylyltransferase
+bulk	rxn08803	0.0	0.0	Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C12:0) (periplasm)
+bulk	rxn00689	0.0	-0.8183816064270724	Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming)
+bulk	rxn05164	0.0068175	-8.326672684688674e-17	L-Histidine-ABC transport
+bulk	rxn12640	0.0	6.3706049650047425e-18	aminopeptidase
+bulk	rxn10206	0.0	-0.10122339589413734	anteisoheptadecanoyl-glycerol-3-phosphate O-acyltransferase
+bulk	rxn00567	0.0	-0.0	Ferrocytochrome-c:oxygen oxidoreductase
+bulk	rxn05376	2.3501366817038464e-17	0.0	12-methyl-3-oxo-tetra-decanoyl-ACP:NADP+ oxidoreductase
+bulk	rxn05342	-0.00016699241251606116	-0.0	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier-protein]:NADP+
+bulk	rxn06510	0.004423393169478575	0.0	Lauroyl-CoA:acetyl-CoA C-acyltransferase
+bulk	rxn05596	0.0	-0.0019098753942288027	potassium transport out via proton antiport
+bulk	rxn01489	-2.836916006241185e-17	-1.734723475976807e-18	Geranylgeranyl-diphosphate:geranylgeranyl-diphosphate
+bulk	rxn02866	0.0	1.1102230246251565e-16	3-Methylbutanoyl-CoA:(acceptor) 2,3-oxidoreductase
+bulk	rxn05733	0.0	-1.3877787807814457e-17	cysteine synthase (Thiosulfate)
+bulk	rxn05350	0.009367654969436996	6.938893903907228e-18	hexanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein]
+bulk	rxn00262	0.0	-0.013369127759601588	L-Aspartic acid:oxygen oxidoreductase (deaminating)
+bulk	rxn02404	0.0001252443093870459	0.0	3-Deoxy-D-manno-octulosonate-8-phosphate 8-phosphohydrolase
+bulk	rxn10255	0.0	-0.0	isotetradecanoyl-Diacylglycerol kinase
+bulk	rxn10114	0.0	-0.002864813091346245	formate dehydrogenase (quinone-8: 2 protons)
+bulk	rxn00704	-0.009558886294896776	-0.0	alpha-D-Glucose 1-phosphate 1,6-phosphomutase
+bulk	rxn00183	0.0	-0.007639501576931664	L-Glutamate 5-semialdehyde:NAD+ oxidoreductase
+bulk	rxn04750	0.0	0.0	(S)-3-hydroxyacyl-CoA:NAD+ oxidoreductase
+bulk	rxn02569	0.0	4.535088721222516e-18	ATP:selenide, water phosphotransferase
+bulk	rxn00710	0.018375120883632495	2.7755575615628914e-17	Orotidine-5'-phosphate carboxy-lyase
+bulk	rxn05539	2.4330980404306413e-18	4.206704429243757e-17	Dipeptide transport via ABC system (cgly)
+bulk	rxn05437	0.0	-0.013369127759601496	12-methyl-trans-tetra-dec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+bulk	rxn00717	0.0	0.0	Cytosine aminohydrolase
+bulk	rxn08840	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C14:1)
+bulk	rxn05249	0.0	1.1102230246251565e-16	FACOAL150(ISO)
+bulk	rxn02897	0.0	-3.634967899003071e-17	Nicotinate-nucleotide:dimethylbenzimidazole
+bulk	rxn09107	0.0	0.0	phosphatidylglycerol phosphate phosphatase (n-C18:1)
+bulk	rxn03409	0.0	-1.3350029005659751	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-
+bulk	rxn00330	0.11218611396392565	7.840950111415168e-16	L-Malate glyoxylate-lyase (CoA-acetylating)
+bulk	rxn03916	0.00016699241251606124	1.9155107421645764e-17	D-glycero-D-manno-hepose 1-phosphate adenyltransferase
+bulk	rxn04674	0.0	-0.06398082570667926	rxn04674
+bulk	rxn01301	-0.033404438010078	1.3672289493328142e-17	L-Homoserine:NAD+ oxidoreductase
+bulk	rxn05396	0.0	-5.551115123125783e-17	9-methyl-decanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+bulk	rxn13782	0.0	-933.2663410161169	Protein biosynthesis
+bulk	rxn10334	0.0	-0.0	palmitoyl-cardiolipin synthase
+bulk	rxn00910	-0.007451708855651613	-0.0	5-methyltetrahydrofolate:NADP+ oxidoreductase
+bulk	rxn03407	0.0	-0.007639501576915125	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-
+bulk	rxn02286	0.00016437198949512444	1.1102230246251565e-16	UDP-N-acetylmuramate:L-alanine ligase (ADP-forming)
+bulk	rxn03159	4.174810312901529e-05	1.1984575553009721e-16	UDP-2,3-bis(3-hydroxytetradecanoyl)-beta-D-glucosamine:2,3-bis-(3-
+bulk	rxn05363	2.3501366817038448e-17	0.0	4-methyl-hexanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+bulk	rxn01682	0.0	4.707741364674545e-17	(1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate
+bulk	rxn02474	-5.95550686565089e-07	6.043843892241258e-17	5-amino-6-(5-phosphoribitylamino)uracil:NADP+ 1'-oxidoreductase
+bulk	rxn05324	0.0	-5.551115123125783e-17	Dodecanoyl-[acyl-carrier protein]:malonyl-CoA
+bulk	rxn01486	-5.67383201248237e-17	2.6020852139652106e-18	trans,trans-Farnesyl-diphosphate:isopentenyl-diphosphate
+bulk	rxn05464	0.0	2.7842311789427754e-15	trans-Octodec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+bulk	rxn08822	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphotidate, n-C18:0)
+bulk	rxn05359	2.3501366817038445e-17	-1.3877787807814457e-17	4-methyl-3-oxo-hexanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+bulk	rxn00898	4.2969516926257284e-17	0.0	2,3-Dihydroxy-3-methylbutanoate hydro-lyase
+bulk	rxn10203	0.0	-0.015279003153828545	myristoyl-glycerol-3-phosphate O-acyltransferase
+bulk	rxn01069	0.025966009934737046	-1.3877787807814457e-17	O-Phospho-L-homoserine phospho-lyase (adding water)
+bulk	rxn05322	0.009367654969436994	1.3877787807814457e-17	Butyryl-[acyl-carrier protein]:malonyl-CoA
+bulk	rxn00117	0.018954353481396836	2.7755575615628914e-17	ATP:nucleoside-diphosphate phosphatransferase
+bulk	rxn01997	4.1748103129015304e-05	0.0	dTDPglucose 4,6-hydro-lyase
+bulk	rxn05458	0.0	-5.003019504476891e-17	hexadecanoyl-ACP:[acyl-carrier-protein] transferase
+bulk	rxn05453	0.0	-0.0	13-methyl-tetra-decanoyl-ACP:[acyl-carrier-protein] transferase
+bulk	rxn00555	0.0004122401852482795	0.0	L-Glutamine:D-fructose-6-phosphate aminotransferase (hexose
+bulk	rxn05541	0.0	-1.3444106938820255e-17	Dipeptide transport via ABC system (ala-glu)
+bulk	rxn08298	0.0	-1.2591576593993421e-17	diacylglycerol kinase (n-C16:1)
+bulk	rxn00260	-0.1455327102653896	-3.084236171047442e-17	L-Aspartate:2-oxoglutarate aminotransferase
+bulk	rxn05219	0.0	1.0690233420707074e-15	L-Methionine ABC transport
+bulk	rxn05337	-0.009367654969436994	-0.0	(3R)-3-Hydroxyhexanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase
+bulk	rxn03137	0.026817416125775442	-3.0282369039076593e-16	10-Formyltetrahydrofolate:5'-phosphoribosyl-5-amino-4-
+bulk	rxn05367	0.0	3.469446951953614e-17	6-methyl-octanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+bulk	rxn00527	-0.0014010994747562283	-3.026746381847197e-16	L-Tyrosine:2-oxoglutarate aminotransferase
+bulk	rxn08549	0.0	-0.6971045188935263	glycerol-3-phosphate acyltransferase (C16:0)
+bulk	rxn08126	0.0	-0.0	Amylomaltase (maltotriose)
+bulk	rxn09111	0.0	-0.0	Phosphatidylglycerol synthase (n-C16:0)
+bulk	rxn09188	0.0	3.998576426437627e-16	Proline dehydrogenase
+bulk	rxn08847	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C14:1)
+bulk	rxn01974	0.025832606580943905	2.207027498969855e-17	LL-2,6-Diaminoheptanedioate 2-epimerase
+bulk	rxn03244	-0.0059919545677838615	-0.0	(S)-Hydroxydecanoyl-CoA:NAD+ oxidoreductase
+bulk	rxn01274	0.0	0.0	S-(2-Hydroxyacyl)glutathione hydrolase
+bulk	rxn12645	0.0	-0.0	aminopeptidase
+bulk	rxn00010	0.0	-0.005729626182685356	Glyoxylate carboxy-lyase (dimerizing)
+bulk	rxn02008	0.00016437198949512444	0.0	UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase(ADP-forming)
+bulk	rxn05385	0.0	5.3285035713788796e-17	5-methyl-3-oxo-hexanoyl-ACP:NADP+ oxidoreductase
+bulk	rxn05443	0.0	-0.6971045188935211	13-methyl-trans-tetra-dec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+bulk	rxn02155	0.00016258533743376417	0.0	ATP:nicotinamide-nucleotide adenylyltransferase
+bulk	rxn00915	0.0	0.0	GMP:pyrophosphate phosphoribosyltransferase
+bulk	rxn00299	2.6561560621316946e-05	0.0	GTP 7,8-8,9-dihydrolase
+bulk	rxn00839	0.0	0.0	ATP:nucleoside-diphosphate phosphatransferase
+bulk	rxn00461	0.00016437198949512447	-1.0761185583744376e-17	Phosphoenolpyruvate:UDP-N-acetyl-D-glucosamine
+bulk	rxn03395	0.0	-0.0	2-octaprenyl-6-hydroxyphenol methylase
+bulk	rxn08089	0.0	-0.2673825551920458	1-octadec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C18:1)
+bulk	rxn05434	2.3501366817038454e-17	-1.1102230246251565e-16	6-methyl-trans-oct-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+bulk	rxn00283	0.00032874397898977525	0.0	L-Alanine racemase
+bulk	rxn10212	0.0	-1.4457756734312426	myristoyl-1-acylglycerol-3-phosphate O-acyltransferase
+bulk	rxn10337	0.0	-0.0	isoheptadecanoyl-cardiolipin synthase
+bulk	rxn10235	0.0	0.0	isopentadecanoyl-phosphatidylserine decarboxylase
+bulk	rxn00137	0.012623232797607593	2.7755575615628914e-17	Adenosine 3',5'-bisphosphate 3'(2')-phosphohydrolase
+bulk	rxn08812	1.0498012202516064e-17	0.0	Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C14:1) (periplasm)
+bulk	rxn05417	0.0	-0.08403451734606868	6-methyl-heptanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+bulk	rxn01022	0.0005300401110531187	4.271330577144509e-18	5'-Methylthioadenosine:orthophosphate
+bulk	rxn10221	0.0	-0.0	anteisoheptadecanoyl-phosphatidate cytidylyltransferase
+bulk	rxn09177	0.0	5.637161754897902e-16	phosphopantothenate-cysteine ligase
+bulk	rxn03437	0.0	-0.021008629336519515	(R)-2,3-Dihydroxy-3-methylpentanoate hydro-lyase
+bulk	rxn09199	0.0	0.0	Phosphatidylserine decarboxylase (n-C14:1)
+bulk	rxn02320	-0.0018179849553597988	-0.0	5-Amino-2-oxopentanoate:2-oxoglutarate aminotransferase
+bulk	rxn00882	0.0	-1.3444106938820255e-17	myo-Inositol 4-phosphate phosphahydrolase
+bulk	rxn10014	0.004423393169478575	-1.1102230246251565e-16	acyl-CoA dehydrogenase (tetradecanoyl-CoA)
+bulk	rxn10126	0.0	-0.005729626182686783	succinate dehyrdogenase
+bulk	rxn12405	0.0	0.0	transport of (r)-3-hydroxybutanoate [extraorganism-cytosol](passive)
+bulk	rxn08083	0.0	-0.40107383278805353	1-tetradecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C12:0)
+bulk	rxn08808	0.0	-9.324138683375338e-18	Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C18:0) (periplasm)
+bulk	rxn02507	0.0032159737075133045	-2.7755575615628914e-17	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate
+bulk	rxn03901	0.00016437198949514068	0.0	Undecaprenyl-diphosphate phosphohydrolase
+bulk	rxn03933	0.0	-0.0	UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+bulk	rxn00669	1.0288038817011769e-32	-1.3444106938820255e-17	Propanoate:CoA ligase (ADP-forming)
+bulk	rxn05297	0.0	-0.0	GLUt2
+bulk	rxn05537	0.0	1.3877787807814457e-17	Dipeptide transport via ABC system (gly-asp)
+bulk	rxn10209	0.0	-0.10122339589413734	anteisopentadecanoyl-glycerol-3-phosphate O-acyltransferase
+bulk	rxn09105	0.0	0.0	phosphatidylglycerol phosphate phosphatase (n-C16:1)
+bulk	rxn01333	-0.29662911005704534	1.1989068285757563e-17	Sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate
+bulk	rxn08806	0.0	-6.821895129556799e-18	Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C16:0) (periplasm)
+bulk	rxn05560	0.0	6.802665321320056e-18	D-fructose transport via PEP:Pyr PTS
+bulk	rxn00714	0.0	0.0	P1,P4-Bis(5'-nucleosyl)-tetraphosphate nucleotidohydrolase
+bulk	rxn08291	0.0	3.567960503590498e-15	D-Amino acid dehydrogenase
+bulk	rxn06865	4.17481031290153e-05	2.220446049250313e-16	Endotoxin Synthesis (lauroyl transferase)
+bulk	rxn00303	0.0	-2.9218826602601613e-17	ATP:GTP 3'-pyrophosphotransferase
+bulk	rxn01434	0.00038866330757612427	3.3845870286686523e-15	L-Citrulline:L-aspartate ligase (AMP-forming)
+bulk	rxn00693	0.0074384280753409535	6.209634784717915e-15	5-Methyltetrahydrofolate:L-homocysteine S-methyltransferase
+bulk	rxn00122	5.955506865650894e-07	0.0	ATP:FMN adenylyltransferase
+bulk	rxn01116	0.24723454606836157	-1.0210356977691504e-17	D-Ribulose-5-phosphate 3-epimerase
+bulk	rxn00470	0.006428836692423883	0.0	L-Ornithine carboxy-lyase
+bulk	rxn03908	0.0	-5.451387579263908e-17	ATP: 4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol
+bulk	rxn05436	0.0	-0.6837353911339336	10-methyl-trans-dodec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+bulk	rxn08551	0.0	-2.983724378680108e-16	glycerol-3-phosphate acyltransferase (C18:0)
+bulk	rxn08308	1.0498012202516064e-17	-0.0	CDP-diacylglycerol synthetase (n-C14:1)
+bulk	rxn00409	0.007679804768610439	-3.127949789081344e-17	ATP:nucleoside-diphosphate phosphatransferase
+bulk	rxn06526	0.0	0.0	NADPH:protein-disulfide oxidoreductase
+bulk	rxn08841	0.0	-6.821895129556799e-18	Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C16:0)
+bulk	rxn05207	0.03649016	1.7716325720478064e-17	Na+/malate symporter
+bulk	rxn02213	0.01649509340576396	0.0	3-Dehydroquinate hydro-lyase
+bulk	rxn08669	1.0498012202516063e-17	6.938893903907228e-18	Glycerophosphodiester phosphodiesterase (Glycerophosphoglycerol)
+bulk	rxn02200	2.656156062131695e-05	0.0	2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine:4-
+bulk	rxn00853	0.0	0.0	N-Carbamoylputrescine amidohydrolase
+bulk	rxn05397	0.0	-7.296640979944932e-17	11-methyl-3-oxo-dodecanoyl-ACP:NADP+ oxidoreductase
+bulk	rxn00616	-1.1574586269711886	1.5379140101683182e-17	sn-Glycerol-3-phosphate:(acceptor) 2-oxidoreductase
+bulk	rxn04308	1.6210948607092486e-17	1.9572017617708326e-15	di-trans,poly-cis-Decaprenyl-diphosphate:isopentenyl-diphosphate
+bulk	rxn03062	0.0	8.964259153115095e-17	3-Isopropylmalate:NAD+ oxidoreductase
+bulk	rxn01973	0.025832606580943905	0.0	N-Succinyl-LL-2,6-diaminoheptanedioate amidohydrolase
+bulk	rxn00506	0.0	-0.00763950157691526	Acetaldehyde:NAD+ oxidoreductase
+bulk	rxn01388	0.0	0.0	isocitrate hydro-lyase
+bulk	rxn05421	0.0	-0.08403451734606868	8-methyl-nonanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+bulk	rxn10214	0.0	-0.1107727728652802	isoheptadecanoyl-1-acylglycerol-3-phosphate O-acyltransferase
+bulk	rxn01791	3.513749050756906e-06	0.0	(R)-Pantoate:beta-alanine ligase (AMP-forming)
+bulk	rxn03245	0.0059919545677838615	0.0	(S)-Hydroxydecanoyl-CoA hydro-lyase
+bulk	rxn00020	0.0	0.0	beta-D-Glucoside glucohydrolase
+bulk	rxn03446	0.0	-4.336808689942018e-19	O-Phospho-4-hydroxy-L-threonine phospho-lyase (adding water)
+bulk	rxn02275	0.0	0.0	4-Guanidinobutanamide amidohydrolase
+bulk	rxn01519	0.0010803289454498397	0.0	dUTP nucleotidohydrolase
+bulk	rxn00029	0.0	0.0	5-Aminolevulinate hydro-lyase(adding 5-aminolevulinate and
+bulk	rxn03060	-2.0636867329834587e-18	0.0	2-Hydroxybutane-1,2,3-tricarboxylate hydro-lyase
+bulk	rxn00242	0.0	0.0	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+bulk	rxn02449	0.0	-0.022918504730745283	Guanosine 3'-diphosphate 5'-triphosphate 5'-phosphohydrolase
+bulk	rxn01975	-0.6101655537051032	1.5184800743717948e-17	beta-D-Glucose-6-phosphate:NADP+ 1-oxoreductase
+bulk	rxn10338	0.0	-0.0	anteisoheptadecanoyl-cardiolipin synthase
+bulk	rxn04413	0.0	0.0	rxn04413
+bulk	rxn01316	0.0	-0.33136338089871153	N-Acetylneuraminate pyruvate-lyase (pyruvate-phosphorylating)
+bulk	rxn10263	0.0	-0.0	anteisopentadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase
+bulk	rxn05647	0.0	-0.0	salicin transport via PEP:Pyr PTS
+bulk	rxn01964	0.003215973707513305	2.0816681711721685e-17	L-Serine hydro-lyase (adding indoleglycerol-phosphate)
+bulk	rxn08615	0.0	-0.0	glycogen synthase (ADPGlc)
+bulk	rxn12158	0.0	2.224841858441606e-17	
+bulk	rxn00559	-1.545628528945599e-16	-1.236265854054176e-17	D-Mannose-6-phosphate ketol-isomerase
+bulk	rxn10341	0.0	-0.0	anteisopentadecanoyl-cardiolipin synthase
+bulk	rxn00208	0.0	0.0	Pyridoxamine-5'-phosphate:oxygen oxidoreductase (deaminating)
+bulk	rxn03537	0.0	0.0	Adenosyl cobinamide phosphate guanyltransferase
+bulk	rxn10269	0.0	0.0	anteisopentadecanoyl-Phosphatidylglycerophosphate phosphohydrolase
+bulk	rxn05392	0.0	0.0	7-methyl-octanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+bulk	rxn05176	0.0	-1.3877787807814457e-17	Thiosulfate-ABC transport
+bulk	rxn00161	0.0	-0.007639501576915108	(S)-Malate:NADP+ oxidoreductase(oxaloacetate-decarboxylating)
+bulk	rxn05231	0.0	2.7755575615628914e-17	Ribonucleotide reductase: ADP
+bulk	rxn08900	0.0	-0.00572962618268698	Malate dehydrogenase (ubiquinone 8 as acceptor)
+bulk	rxn09207	0.0	-6.938893903907228e-18	Phosphatidylserine syntase (n-C14:1)
+bulk	rxn01477	0.0	1.3877787807814457e-17	6-Phospho-D-gluconate hydro-lyase
+bulk	rxn02380	0.6101655537051032	0.0	beta-D-Glucose 6-phosphate ketol-isomerase
+bulk	rxn00474	0.0	-6.938893903907228e-18	L-Serine hydro-lyase (adding indoleglycerol-phosphate)
+bulk	rxn09114	0.0	-0.0	Phosphatidylglycerol synthase (n-C18:1)
+bulk	rxn05306	0.0	1.0916958471521583e-17	PHEt6
+bulk	rxn03435	-8.129794787458074e-19	1.9700930645851312e-15	(R)-2,3-Dihydroxy-3-methylpentanoate:NADP+ oxidoreductase
+bulk	rxn00584	0.0	0.0	cis-1,2-dihydroxycyclohexa-3,5-diene-1-carboxylate:NAD+
+bulk	rxn08815	0.0	-0.0	Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C18:0) (periplasm)
+bulk	rxn01673	0.0	-0.0	ATP:nucleoside-diphosphate phosphatransferase
+bulk	rxn12845	0.0	1.864776763279407e-18	Gly-Leu aminopeptidase
+bulk	rxn00085	0.0	5.798058010713423e-16	L-Glutamate:NADP+ oxidoreductase (transaminating)
+bulk	rxn05340	-0.0009065472551068059	-0.0	(3R)-3-Hydroxydodecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase
+bulk	rxn00832	-0.02681741612577544	-0.0	IMP 1,2-hydrolase (decyclizing)
+bulk	rxn01746	0.0	0.0	Allantoate amidinohydrolase
+bulk	rxn08817	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphotidate, n-C12:0)
+bulk	rxn00251	0.0	-7.622423894675617e-17	Orthophosphate:oxaloacetate carboxyl-lyase (phosphorylating)
+bulk	rxn00295	0.0	0.0	UDP-N-acetyl-D-glucosamine 4-epimerase
+bulk	rxn00265	-1.0179178712735832	7.956572291386772e-18	Citrate oxaloacetate-lyase ((pro-3S)-CH2COO- -->acetate)
+bulk	rxn02187	0.0	0.0	2-Acetolactate methylmutase
+bulk	rxn01219	0.0	-0.0	ATP:CMP phosphotransferase
+bulk	rxn01270	0.0	3.081014987880744e-17	L-Aspartate:2-oxoglutarate aminotransferase
+bulk	rxn08799	0.0	0.0	Lysophospholipase L1 (2-acylglycerophosphotidate, n-C16:0) (periplasm)
+bulk	rxn05543	-1.1114585070277016e-17	-4.119968255444917e-17	Dipeptide transport via ABC system (ala-his)
+bulk	rxn01127	0.0	-0.0	ATP:AMP phosphotransferase
+bulk	rxn05484	0.0	0.11650239904796089	acetoacetate transport via proton symport
+bulk	rxn08309	0.0	1.6835598165818757e-17	CDP-diacylglycerol synthetase (n-C16:0)
+bulk	rxn03892	0.0	-0.0008185180260976387	PPTT
+bulk	rxn10181	0.0	0.0	NMN permease
+bulk	rxn05461	0.0	9.120801224931165e-18	3-Hydroxyoctodecanoyl-ACP:NADP+ oxidoreductase
+bulk	rxn08312	0.0	-0.0	CDP-diacylglycerol synthetase (n-C18:1)
+bulk	rxn00291	0.0	0.0	N-succinyl-L-glutamate amidohydrolase
+bulk	rxn12849	0.0	-1.4289784633358948e-15	Gly-Leu ABC transporters
+bulk	rxn00410	0.0	1.1793522280726374e-16	UTP:ammonia ligase(ADP-forming)
+bulk	rxn05160	0.0	-0.007639501576915087	D-Ribose ABC transport
+bulk	rxn05152	0.0	0.0	L-Aspartate-ABC transport
+bulk	rxn02792	0.0	0.0	(5-Glutamyl)-peptide:amino-acid 5-glutamyltransferase
+bulk	rxn05368	0.0	0.0	8-methyl-3-oxo-decanoyl-ACP:NADP+ oxidoreductase
+bulk	rxn05221	0.01102953	0.0	Na+:proline symport
+bulk	rxn00568	0.0	-0.03342281939900353	ammonium-hydroxide:NADP+ oxidoreductase
+bulk	rxn03869	0.0	0.0	Acylamide aminohydrolase
+bulk	rxn00872	0.0059919545677838615	3.3306690738754696e-16	Butanoyl-CoA:oxygen 2-oxidoreductase
+bulk	rxn09210	0.0	-0.10695302207681695	Phosphatidylserine syntase (n-C18:0)
+bulk	rxn12224	0.0	0.0	2-octaprenyl-6-methoxyphenol hydroxylase
+bulk	rxn02405	0.0001252443093870459	0.0	CTP:3-deoxy-D-manno-octulosonate cytidylyltransferase
+bulk	rxn00782	0.0	6.874564250526959e-16	D-Glyceraldehyde-3-phosphate:NADP+ oxidoreductase(phosphorylating)
+bulk	rxn00395	0.0	-0.015279003153843803	L-Arginine iminohydrolase
+bulk	rxn10256	0.0	-0.0	isopentadecanoyl-Diacylglycerol kinase
+bulk	rxn00171	0.0	-4.5463847151578967e-17	acetaldehyde:NAD+ oxidoreductase (CoA-acetylating)
+bulk	rxn01000	0.011851458662873106	0.0	Prephenate hydro-lyase (decarboxylating)
+bulk	rxn00675	0.0	-0.007639501576915017	Propinol adenylate:CoA ligase (AMP-forming)
+bulk	rxn01867	0.0	-5.538241464837038e-16	p-cumic alcohol:NAD+ oxidoreductase
+bulk	rxn02305	-3.0134526471254403e-18	0.0	2-Methyl-4-amino-5-hydroxymethylpyrimidine-diphosphate:4-methyl-5-
+bulk	rxn03384	0.0	-0.0	Uroporphyrinogen I carboxy-lyase
+bulk	rxn05551	0.0	8.410955798798425e-19	ethanolamine transport in/out via proton symport
+bulk	rxn05533	0.0	0.0	Dipeptide transport via ABC system (ala-asp)
+bulk	rxn01507	0.0	0.0	2'-Deoxyadenosine 5'-monophosphate phosphohydrolase
+bulk	rxn10211	0.0	-0.2769319321631885	palmitoyl-1-acylglycerol-3-phosphate O-acyltransferase
+bulk	rxn05063	0.0	0.0	carbamate hydro-lyase
+bulk	rxn08838	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C12:0)
+bulk	rxn12641	0.0	-0.0	aminopeptidase
+bulk	rxn10116	0.0	-0.002864813091341829	Glucose dehydrogenase (ubiquinone-8 as acceptor)
+bulk	rxn08821	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphotidate, n-C16:1)
+bulk	rxn10205	0.0	-0.10122339589413734	isoheptadecanoyl-glycerol-3-phosphate O-acyltransferase
+bulk	rxn00239	0.01362953479271616	0.0	ATP:(d)GMP phosphotransferase
+bulk	rxn00612	1.148838030782993	-1.036705179828616e-17	sn-Glycerol-3-phosphate:NADP+ 2-oxidoreductase
+bulk	rxn05418	0.0	-0.0	8-methyl-3-oxo-nonanoyl-ACP:NADP+ oxidoreductase
+bulk	rxn00711	0.0	-0.18334803784597192	UMP:pyrophosphate phosphoribosyltransferase
+bulk	rxn00991	0.0	-7.274215544252635e-17	(S)-3-Hydroxy-3-methylglutaryl-CoA acetoacetate-lyase
+bulk	rxn12633	0.0	0.0	aminopeptidase
+bulk	rxn04113	0.0	-6.801837870470521e-16	isopentenyl-diphosphate:NAD(P)+ oxidoreductase
+bulk	rxn05250	0.0	5.551115123125783e-17	FACOAL160(ISO)
+bulk	rxn06023	0.0	-0.0	CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase
+bulk	rxn00007	0.0	-0.0076395015769150885	alpha,alpha-Trehalose glucohydrolase
+bulk	rxn01315	0.0	-0.026738255519206833	L-Phenylalanine,tetrahydrobiopterin:oxygen oxidoreductase
+bulk	rxn08850	0.0	-6.976938200683091e-18	Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C18:0)
+bulk	rxn03174	0.0	0.0	2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)
+bulk	rxn00146	0.0	-0.009549376971143915	(R)-Lactate:ferricytochrome-c 2-oxidoreductase
+bulk	rxn00763	0.0	-4.73701611853555e-16	Glycerol:NAD+ oxidoreductase
+bulk	rxn10174	0.0	-0.007639501576915073	maltohexaose transport via ABC system
+bulk	rxn05393	0.0	-7.296640979944932e-17	9-methyl-3-oxo-decanoyl-ACP:NADP+ oxidoreductase
+bulk	rxn00138	0.0001625853374337642	5.551115123125783e-17	Deamino-NAD+:ammonia ligase (AMP-forming)
+bulk	rxn00338	0.00016258533743359637	-6.938893903907228e-18	L-aspartate oxidase
+bulk	rxn03397	0.0	-0.06398082570667929	UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase
+bulk	rxn03136	0.024999431170415757	4.290002280535851e-16	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole
+bulk	rxn01137	0.0	-0.007639501576914424	Adenosine aminohydrolase
+bulk	rxn00216	0.61972444	1.3877787807814457e-17	ATP:D-glucose 6-phosphotransferase
+bulk	rxn08194	0.0	2.029301998273486e-17	cob(I)alamin adenosyltransferase
+bulk	rxn05440	0.0	-2.7755575615628914e-17	7-methyl-trans-oct-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+bulk	rxn00988	0.0	-0.007639501576915272	Acetoacetate:CoA ligase (AMP-forming)
+bulk	rxn08557	0.0	-0.005729626182686883	glycerol-3-phosphate dehydrogenase (menaquinone-8)
+bulk	rxn05617	0.0	-0.0	mannitol transport via PEP:Pyr PTS
+bulk	rxn04996	0.0	-6.801837870470521e-16	dimethyallyl diphosphate:NADP+ oxidoreductase
+bulk	rxn05236	0.0010803289454498397	2.7755575615628914e-17	Ribonucleotide reductase: UTP
+bulk	rxn02835	0.0018179849553597986	0.0	1-(5-phospho-D-ribosyl)-AMP 1,6-hydrolase
+bulk	rxn02373	0.0211897621437907	7.93809462606987e-15	L-Glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphorylationg)
+bulk	rxn05581	0.0	0.0	glycerol transport in/out via diffusion reversible
+bulk	rxn00726	0.0032159737075133036	2.7755575615628914e-17	Chorismate pyruvate-lyase (amino-accepting)
+bulk	rxn05287	0.0	-0.0122777703914724	GGTT
+bulk	rxn05345	0.00016699241251606116	9.020562075079397e-17	dodecanoyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein]
+bulk	rxn02177	0.0	0.0	Isochorismate pyruvate-hydrolase
+bulk	rxn10218	0.0	-0.1107727728652802	anteisopentadecanoyl-1-acylglycerol-3-phosphate O-acyltransferase
+bulk	rxn03147	0.024999431170415524	6.106226635438361e-16	1-(5-Phosphoribosyl)-5-amino-4-carboxyimidazole:L-aspartate ligase
+bulk	rxn00095	0.0	0.0	P1,P4-Bis(5'-nucleosyl)-tetraphosphate nucleotidebisphosphohydrolase
+bulk	rxn02911	0.0059919545677838615	0.0	(S)-3-Hydroxydodecanoyl-CoA hydro-lyase
+bulk	rxn01211	0.05180177986382069	8.976123604547121e-17	5,10-Methenyltetrahydrofolate 5-hydrolase(decyclizing)
+bulk	rxn03884	0.0	0.0	2-dehydro-3-deoxy-D-gluconate-6-phosphate
+bulk	rxn08802	0.0	0.0	Lysophospholipase L1 (2-acylglycerophosphotidate, n-C18:1) (periplasm)
+bulk	rxn01602	0.0	0.0	Dihydrofolate:NADP+ oxidoreductase
+bulk	rxn00670	0.0	-1.8185538860631587e-17	acetyl-CoA:phosphate acetyltransferase
+bulk	rxn10335	0.0	-0.0	myristoyl-cardiolipin synthase
+bulk	rxn02782	0.0	0.0	2,5-Dihydro-5-oxofuran-2-acetate lyase (decyclizing)
+bulk	rxn00371	0.0	-0.000954937697117538	Formate:NAD+ oxidoreductase
+bulk	rxn00539	0.0	8.641150430935102e-19	Ethanolamine ammonia-lyase
+bulk	rxn01924	0.0	-0.013369127759601838	2-Methylpropanoyl-CoA:(acceptor) 2,3-oxidoreductase
+bulk	rxn11946	0.0	-0.0	3-demethylubiquinone-9 3-o-methyltransferase
+bulk	rxn00184	-1.8787009285826117	2.960866724205544e-16	L-Glutamate:NADP+ oxidoreductase (deaminating)
+bulk	rxn08848	0.0	-6.821895129556799e-18	Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C16:0)
+bulk	rxn05444	0.0	-0.013369127759601505	15-methyl-trans-hexa-dec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+bulk	rxn00650	0.0	-0.0	membrane alanyl aminopeptidase
+bulk	rxn01241	0.0	0.0	Dihydrolipoamide:NAD+ oxidoreductase
+bulk	rxn10229	0.0	-2.0816681711721685e-17	isopentadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase
+bulk	rxn01522	0.0	-0.11936721213930875	xanthine:NAD+ oxidoreductase
+bulk	rxn01117	-0.0001252443093870459	-1.0210356977691504e-17	D-Arabinose-5-phosphate ketol-isomerase
+bulk	rxn01107	0.0	-0.004774688485569899	D-Glucono-1,5-lactone lactonohydrolase
+bulk	rxn08300	0.0	-2.5183153187986842e-17	diacylglycerol kinase (n-C18:1)
+bulk	rxn00836	0.0	-0.015279003153831273	IMP:pyrophosphate phosphoribosyltransferase
+bulk	rxn00776	0.0	0.0	Uracil hydro-lyase (adding D-ribose 5-phosphate)
+bulk	rxn09110	1.0498012202516064e-17	-8.818131456773755e-18	Phosphatidylglycerol synthase (n-C14:1)
+bulk	rxn12646	0.0	-0.0	aminopeptidase
+bulk	rxn09296	0.0	-0.013369127759602095	hydrogen peroxide reductase (thioredoxin)
+bulk	rxn01255	0.016495093405763956	2.7755575615628914e-17	5-O-(1-Carboxyvinyl)-3-phosphoshikimate phosphate-lyase
+bulk	rxn03194	8.129794787458072e-19	-6.971633012425164e-17	(S)-2-Aceto-2-hydroxybutanoate pyruvate-lyase (carboxylating)
+bulk	rxn01360	0.0	-0.007639501576915212	(S)-Dihydroorotate:oxygen oxidoreductase
+bulk	rxn08552	0.0	-1.3877787807814457e-17	glycerol-3-phosphate acyltransferase (C18:1)
+bulk	rxn01453	0.0	4.3779845879669585e-16	(R)-3-Hydroxybutanoyl-CoA:NADP+ oxidoreductase
+bulk	rxn03958	0.0	0.0	1-Deoxy-D-xylulose-5-phosphate isomeroreductase
+bulk	rxn10267	0.0	0.0	isotetradecanoyl-Phosphatidylglycerophosphate phosphohydrolase
+bulk	rxn05433	2.3501366817038448e-17	-2.7755575615628914e-17	4-methyl-trans-hex-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+bulk	rxn10236	0.0	0.0	anteisopentadecanoyl-phosphatidylserine decarboxylase
+bulk	rxn05465	0.06770476291797331	-4.5247519543212665e-16	malonyl-ACP:[acyl-carrier-protein] transferase
+bulk	rxn05452	0.0	-0.0	14-methyl-hexa-decanoyl-ACP:[acyl-carrier-protein] transferase
+bulk	rxn10010	0.0059919545677838615	0.0	acyl-CoA dehydrogenase (hexanoyl-CoA)
+bulk	rxn10222	0.0	-0.0	isotetradecanoyl-phosphatidate cytidylyltransferase
+bulk	rxn00392	5.955506865650893e-07	0.0	ATP:riboflavin 5'-phosphotransferase
+bulk	rxn02400	0.0	-0.38579482963396505	Nicotinate D-ribonucleotide phosphohydrolase
+bulk	rxn01280	0.0	-6.385334007210483e-16	(R)-Glycerate:NAD+ oxidoreductase
+bulk	rxn00758	0.0	0.0	sn-Glycero-3-phosphocholine glycerophosphohydrolase
+bulk	rxn01729	0.0	-3.8163916471489756e-17	glutarate-semialdehyde:NAD+ oxidoreductase
+bulk	rxn00328	0.0	-0.0	4-Hydroxy-2-oxoglutarate glyoxylate-lyase
+bulk	rxn01670	0.0	-0.0076395015769150885	Nicotinamide ribonucleotide phosphohydrolase
+bulk	rxn05336	-0.00438164506634956	7.296640979944932e-17	(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein]:NADP+ oxidoreductase
+bulk	rxn02287	0.0	-0.0	S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase
+bulk	rxn02475	5.95550686565089e-07	2.7755575615628914e-17	2,5-Diamino-6-hydroxy-4-(5-phosphoribosylamino)-pyrimidine
+bulk	rxn08295	0.0	1.860573972643446e-17	diacylglycerol kinase (n-C14:0)
+bulk	rxn00147	0.0	-0.007639501576915094	ATP:pyruvate,water phosphotransferase
+bulk	rxn05312	0.0	-0.003819750788458578	PIt6
+bulk	rxn02774	0.0	-0.0	S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase
+bulk	rxn05325	0.009367654969436996	-2.7755575615628914e-17	Octanoyl-[acyl-carrier protein]:malonyl-CoA
+bulk	rxn03057	0.0005300401110531187	0.0	5-Methylthio-5-deoxy-D-ribose-1-phosphate ketol-isomerase
+bulk	rxn00646	0.0	-0.015279003153830167	L-Glutamate:L-cysteine gamma-ligase (ADP-forming)
+bulk	rxn08708	4.174810312901529e-05	0.0	LPS heptose kinase I (LPS core synthesis)
+bulk	rxn09240	0.0	-0.007639501576915142	Sulfate adenyltransferase
+bulk	rxn03408	0.00016437198949512444	9.827919077561943e-17	UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+bulk	rxn09203	0.0	0.0	Phosphatidylserine decarboxylase (n-C18:1)
+bulk	rxn05156	0.013635000000000001	0.0	L-Ornithine-ABC transport
+bulk	rxn03886	0.0	2.5422376452297718e-17	D-sorbitol-6-phosphate:NAD 2-oxidoreductase
+bulk	rxn00441	0.0	1.3877787807814457e-17	2-Oxoglutarate:Thiamin diphosphate 2-oxidoreductase(decarboxylating
+bulk	rxn01485	-0.0004122401852482795	-0.0	D-Glucosamine 1-phosphate 1,6-phosphomutase
+bulk	rxn10184	0.0	0.20531160487960426	D-sorbitol transport via PEP:Pyr PTS
+bulk	rxn05540	0.0	0.0	Dipeptide transport via ABC system (ala-gln)
+bulk	rxn00363	0.0	-0.00763950157691516	Cytidine-5'-monophosphate phosphohydrolase
+bulk	rxn04704	0.0	0.0	coproporphyrinogen-III:S-adenosyl-L-methionine
+bulk	rxn01629	0.0	0.0	(S)-4-Amino-5-oxopentanoate 4,5-aminomutase
+bulk	rxn10204	0.0	-5.093148125467906e-15	stearoyl-glycerol-3-phosphate O-acyltransferase
+bulk	rxn00269	0.0	-0.014324065456716472	Aminoacetic acid:oxygen oxidoreductase (deaminating)
+bulk	rxn05179	0.0	-0.005729626182686298	L-Isoleucine-ABC transport
+bulk	rxn05669	0.02501664258526521	0.0	L-valine transport in via proton symport
+bulk	rxn08086	0.0	-0.9587574479028844	1-hexadecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C16:0)
+bulk	rxn05151	0.0	-0.009549376971143886	L-Lysine-ABC transport
+bulk	rxn08129	0.0	-0.0	Amylomaltase (maltohexaose)
+bulk	rxn05449	0.0	-0.013369127759601505	12-methyl-trans-tridec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+bulk	rxn05459	0.0	3.039890995694939e-17	stearyl-ACP:[acyl-carrier-protein] transferase
+bulk	rxn05313	0.05887471155329135	4.867567417043664e-16	PIt8
+bulk	rxn00966	0.0	-0.24923873894686957	chorismate pyruvate-lyase (4-hydroxybenzoate-forming)
+bulk	rxn01451	-0.0059919545677838615	-1.4593281959889862e-16	(S)-3-Hydroxybutanoyl-CoA:NAD+ oxidoreductase
+bulk	rxn00785	0.0	1.3449401360922933e-16	D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde
+bulk	rxn05092	0.0	0.0	1,2-dihydroxy-5-(methylthio)pent-1-en-3-one:oxygen oxidoreductase
+bulk	rxn08127	0.0	1.8241172666133062e-17	Amylomaltase (maltotetraose)
+bulk	rxn08842	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C16:1)
+bulk	rxn05323	0.0	-8.326672684688674e-16	Tetradecanoyl-[acyl-carrier protein]:malonyl-CoA
+bulk	rxn03084	0.024999431170415524	-1.3444106938820255e-17	5'-Phosphoribosylformylglycinamide:L-glutamine amido-ligase
+bulk	rxn00011	0.0	-0.1776184116632844	pyruvate:thiamin diphosphate acetaldehydetransferase
+bulk	rxn02222	0.0	0.0	Indole-3-acetamide amidohydrolase
+bulk	rxn05252	0.0	1.1449174941446927e-16	FACOAL170(ISO)
+bulk	rxn05466	0.44495006828842	1.4741902850907967e-17	Ammonia transport via diffusion
+bulk	rxn10161	0.0	1.0685891351966568e-19	Octadecanoate transport via proton symport
+bulk	rxn00708	0.0	0.0	Uridine 5'-monophosphate phosphohydrolase
+bulk	rxn01513	0.0010803289454498395	0.0	ATP:dTMP phosphotransferase
+bulk	rxn02476	0.01649509340576396	2.1343658570273068e-17	Phosphoenolpyruvate:3-phosphoshikimate
+bulk	rxn01870	0.0	-0.0	D-Fructose 1-phosphate D-glyceraldehyde-3-phosphate-lyase
+bulk	rxn04954	0.0	-6.016255154744e-16	5-methyltetrahydrofolate:NAD+ oxidoreductase
+bulk	rxn01575	1.5213172007205726e-32	-7.710590427618604e-18	L-Isoleucine:2-oxoglutarate aminotransferase
+bulk	rxn09206	0.0	-6.938893903907228e-18	Phosphatidylserine syntase (n-C14:0)
+bulk	rxn02342	0.0	0.0	2-(alpha-Hydroxyethyl)thiamine diphosphate:lipoamide
+bulk	rxn00781	0.5382964483072908	-6.575489896879857e-16	D-Glyceraldehyde-3-phosphate:NAD+ oxidoreductase(phosphorylating)
+bulk	rxn00973	1.0179178712735832	0.0	citrate hydro-lyase
+bulk	rxn00775	0.0	0.0	ADPribose ribophosphohydrolase
+bulk	rxn00364	0.007679804768610439	3.127949789081344e-17	ATP:CMP phosphotransferase
+bulk	rxn00515	0.0	-0.0	ATP:nucleoside-diphosphate phosphatransferase
+bulk	rxn01025	0.0	0.0	5-Methylcytosine aminohydrolase
+bulk	rxn02011	0.00016437198949512444	1.1102230246251565e-16	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:meso-2,6-
+bulk	rxn02186	4.2969516926257284e-17	-1.4529825901173649e-16	2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)
+bulk	rxn10227	0.0	-1.0408340855860843e-17	anteisoheptadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase
+bulk	rxn00917	0.013629534792716159	5.551115123125783e-17	Xanthosine-5'-phosphate:L-glutamine amido-ligase (AMP-forming)
+bulk	rxn09113	0.0	1.2401935114993057e-17	Phosphatidylglycerol synthase (n-C18:0)
+bulk	rxn03536	0.0	5.4437356266459254e-17	Adenosyl cobinamide kinase
+bulk	rxn12846	0.0	-6.130881836025986e-18	Gly-Phe aminopeptidase
+bulk	rxn01218	0.0	-1.3444106938820255e-17	2'-Deoxycytidine 5'-monophosphate phosphohydrolase
+bulk	rxn05161	0.0	-0.005729626182686304	L-Leucine-ABC transport
+bulk	rxn01297	0.0	1.3813419516370731e-17	Xanthine:NAD+ oxidoreductase
+bulk	rxn05239	0.012623232797607594	-2.7755575615628914e-17	adenosine 3',5'-bisphosphate,sulfite:oxidized-thioredoxin oxidoreductase
+bulk	rxn08547	0.0	-0.015279003153828434	glycerol-3-phosphate acyltransferase (C14:0)
+bulk	rxn05201	0.0	-5.8876690591588976e-18	Hypoxanthine ion-coupled transport
+bulk	rxn10233	0.0	0.0	anteisoheptadecanoyl-phosphatidylserine decarboxylase
+bulk	rxn08976	0.0	-0.0057296261826862704	NADH dehydrogenase (demethylmenaquinone-8 & 0 protons)
+bulk	rxn02789	0.0	0.0	2-Isopropylmalate hydro-lyase
+bulk	rxn05383	0.0	5.030457090018448e-17	3-methylbutanoyl-CoA:[acyl-carrier-protein] transferase
+bulk	rxn00830	0.0	-0.0	Isopentenyl-diphosphate delta3-delta2-isomerase
+bulk	rxn08180	0.0	0.0	Biotin synthase
+bulk	rxn01331	0.0	-0.12891658911045153	D-erythrose 4-phosphate:NAD+ oxidoreductase
+bulk	rxn00800	0.01318788133305915	0.0	N6-(1,2-Dicarboxyethyl)AMP AMP-lyase
+bulk	rxn00162	0.0	-0.007639501576915035	Oxaloacetate carboxy-lyase
+bulk	rxn01520	0.0010803289454498397	1.1102230246251565e-16	5,10-Methylenetetrahydrofolate:dUMP C-methyltransferase
+bulk	rxn00189	1.4529933148849818	8.641150430935102e-19	L-Glutamine amidohydrolase
+bulk	rxn05234	0.001512698743904406	0.0	Ribonucleotide reductase: GTP
+bulk	rxn08783	0.0	-0.005729626182686312	D-lactate dehydrogenase
+bulk	rxn00322	0.0	-0.22918504730746553	L-Lysine carboxy-lyase
+bulk	rxn05441	0.0	-5.551115123125783e-17	9-methyl-trans-dec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+bulk	rxn10342	0.0	-0.0	isohexadecanoyl-cardiolipin synthase
+bulk	rxn05426	0.0	-0.0	12-methyl-3-oxo-tridecanoyl-ACP:NADP+ oxidoreductase
+bulk	rxn08818	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphotidate, n-C14:0)
+bulk	rxn02314	0.0	-0.0	ATP:D-tagatose-6-phosphate 1-phosphotransferase
+bulk	rxn00179	0.0211897621437907	0.0	ATP:L-glutamate 5-phosphotransferase
+bulk	rxn03991	0.0	-5.551115123125783e-17	nitric oxide, NADPH2:oxygen oxidoreductase
+bulk	rxn01465	-0.018375120883632492	-0.0	(S)-Dihydroorotate amidohydrolase
+bulk	rxn05654	0.0056245	-4.309440683191056e-18	succinate transporter in/out via proton symport
+bulk	rxn05364	2.3501366817038454e-17	0.0	6-methyl-3-oxo-octanoyl-ACP:NADP+ oxidoreductase
+bulk	rxn00863	0.001817984955359801	-7.618905506490137e-15	L-Histidinal:NAD+ oxidoreductase
+bulk	rxn00209	0.0	0.0	Pyridoxine 5-phosphate:oxygen oxidoreductase (deaminating)
+bulk	rxn03150	0.0	0.0	alpha-ribazole 5-phosphate phosphatase
+bulk	rxn10217	0.0	-0.1107727728652802	isopentadecanoyl-1-acylglycerol-3-phosphate O-acyltransferase
+bulk	rxn09449	0.0	-0.015279003153819953	fatty-acid--CoA ligase (octadecanoate)
+bulk	rxn02167	0.0059919545677838615	0.0	(S)-3-Hydroxybutanoyl-CoA hydro-lyase
+bulk	rxn00533	0.06770476291797321	-3.307286915764485e-17	Acetyl-CoA:carbon-dioxide ligase (ADP-forming)
+bulk	rxn01504	0.0	0.0	(S)-3-Hydroxy-3-methylglutaryl-CoA hydro-lyase
+bulk	rxn03436	8.129794787458074e-19	1.3681201837396745e-17	(S)-2-Aceto-2-hydroxybutanoate:NADP+ oxidoreductase (isomerizing)
+bulk	rxn08756	0.0	-3.426078865054194e-17	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (ipdp)
+bulk	rxn00423	0.005184804722266831	1.4016565685892601e-15	serine O-acetyltransferase
+bulk	rxn05430	0.0	-0.0	14-methyl-3-oxo-pentadecanoyl-ACP:NADP+ oxidoreductase
+bulk	rxn00615	0.0006431947415026714	0.0	ATP:glycerol 3-phosphotransferase
+bulk	rxn08810	0.0	-0.0	Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C12:0) (periplasm)
+bulk	rxn03248	0.0059919545677838615	-5.003019504476891e-17	Hexanoyl-CoA:acetyl-CoA C-acyltransferase
+bulk	rxn08307	0.0	-0.0	CDP-diacylglycerol synthetase (n-C14:0)
+bulk	rxn02201	0.0	-0.015279003153830269	2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine-
+bulk	rxn05555	0.0	-0.007639501576915108	iron (II) transport via ABC system
+bulk	rxn02159	0.0018179849553598083	-1.0150748825433321e-16	L-Histidinol:NAD+ oxidoreductase
+bulk	rxn00056	-1.488876716441345e-08	-0.0	Fe(II):oxygen oxidoreductase
+bulk	rxn00727	0.0	2.7755575615628914e-17	Chorismate pyruvate-lyase (amino-accepting)
+bulk	rxn03891	0.0	-0.0008185180260976385	trans-hexaprenyltranstransferase
+bulk	rxn06076	0.0	5.903507350644234e-17	2'-Deoxycytidine diphosphate:oxidized-thioredoxin 2'-oxidoreductase
+bulk	rxn05413	0.0	-0.08403451734606868	4-methyl-pentanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+bulk	rxn04385	0.0	0.0	L-threonine-O-3-phosphate carboxy-lyase
+bulk	rxn05348	0.000906547255106806	-2.7755575615628914e-17	Decanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein]
+bulk	rxn02914	-0.08895511664854094	-2.161961701319426e-17	3-Phosphoserine:2-oxoglutarate aminotransferase
+bulk	rxn01300	0.025966009934737046	0.0	ATP:L-homoserine O-phosphotransferase
+bulk	rxn00175	0.0	-0.0076395015769151415	Acetate:CoA ligase (AMP-forming)
+bulk	rxn10013	0.0059919545677838615	-1.1102230246251565e-16	acyl-CoA dehydrogenase (dodecanoyl-CoA)
+bulk	rxn10264	0.0	3.1004837787482642e-18	isohexadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase
+bulk	rxn10208	0.0	-0.10122339589413736	isopentadecanoyl-glycerol-3-phosphate O-acyltransferase
+bulk	rxn05445	0.0	-0.013369127759601505	4-methyl-trans-pent-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+bulk	rxn01313	0.0	5.749835873689317e-16	NADH:6,7-dihydropteridine oxidoreductase
+bulk	rxn06979	0.0	-9.130883313313006e-19	rxn06979
+bulk	rxn01146	0.0	-2.284239440006106e-17	Thymidine:orthophosphate deoxyribosyltransferase
+bulk	rxn12642	0.0	-2.154699632613491e-17	aminopeptidase
+bulk	rxn01192	0.0	0.0	Protocatechuate:oxygen 3,4-oxidoreductase (decyclizing)
+bulk	rxn00881	0.0	-1.3444106938820255e-17	myo-Inositol 1-phosphate phosphahydrolase
+bulk	rxn05247	0.0	1.1449174941446927e-16	FACOAL140(ISO)
+bulk	rxn00986	0.0	0.0	Propanoate:CoA ligase (AMP-forming)
+bulk	rxn00501	-3.5137490507569054e-06	1.363915414547369e-17	3-Oxopropanoate:NAD+ oxidoreductase (decarboxylating,
+bulk	rxn03898	0.0	-6.978989563847936e-16	rxn03898
+bulk	rxn02504	2.656156062131695e-05	-1.6917914709055534e-17	2-Amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8-
+bulk	rxn01672	0.0	-0.00763950157691512	dCTP aminohydrolase
+bulk	rxn10473	0.0	0.0	chlorideion transport out via diffusion
+bulk	rxn08975	0.0	-0.005729626182686312	NADH dehydrogenase (ubiquinone-8 )
+bulk	rxn00904	3.5137490507166337e-06	0.0	L-Valine:pyruvate aminotransferase
+bulk	rxn05534	0.0	0.0	Dipeptide transport via ABC system (gly-glu)
+bulk	rxn03918	0.00016699241251606124	0.0	D-glycero-D-manno-heptose 7-phosphate kinase
+bulk	rxn05732	0.0	-0.6741860141627813	acyl-CoA dehydrogenase (hexadecanoyl-CoA)
+bulk	rxn08556	0.0	-0.0057296261826869	glycerol-3-phosphate dehydrogenase (ubiquinone-8)
+bulk	rxn00912	3.513749050756906e-06	0.0	5,10-Methylenetetrahydrofolate:3-methyl-2-oxobutanoate
+bulk	rxn05446	0.0	-0.013369127759601505	6-methyl-trans-hept-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+bulk	rxn05435	0.0	-5.551115123125783e-17	8-methyl-trans-dec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+bulk	rxn00692	-0.057438038319292714	4.493470903498029e-16	5,10-Methylenetetrahydrofolate:glycine hydroxymethyltransferase
+bulk	rxn09108	0.0	1.763626291354751e-17	Phosphatidylglycerol synthase (n-C12:0)
+bulk	rxn03068	0.0	4.377984587966959e-16	(R)-2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase
+bulk	rxn08299	0.0	-3.1004837787482642e-18	diacylglycerol kinase (n-C18:0)
+bulk	rxn00992	0.0	0.0	(R)-3-Hydroxybutanoate:NAD+ oxidoreductase
+bulk	rxn00002	0.0	0.0	Urea-1-carboxylate amidohydrolase
+bulk	rxn08971	0.0	-0.005729626182686336	NADH dehydrogenase (menaquinone-8 & 0 protons)
+bulk	rxn01303	0.007438428075340947	0.0	Acetyl-CoA:L-homoserine O-acetyltransferase
+bulk	rxn12634	0.0	0.0	aminopeptidase
+bulk	rxn05456	0.0	-0.0	14-methyl-pentadecanoyl-ACP:[acyl-carrier-protein] transferase
+bulk	rxn10261	0.0	-0.0	isotetradecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase
+bulk	rxn10232	0.0	0.0	isoheptadecanoyl-phosphatidylserine decarboxylase
+bulk	rxn00300	5.95550686565089e-07	0.0	GTP 7,8-8,9-dihydrolase (pyrophosphate-forming)
+bulk	rxn02288	5.9555068657653805e-08	0.0	Uroporphyrinogen-III carboxy-lyase
+bulk	rxn00907	0.05180177986382032	7.98839271732983e-16	5,10-methylenetetrahydrofolate:NADP+ oxidoreductase
+bulk	rxn05410	0.0	-0.0	4-methyl-3-oxo-pentanoyl-ACP:NADP+ oxidoreductase
+bulk	rxn01269	0.0014010994747561912	-1.4988010832439613e-15	Prephenate:NADP+ oxidoreductase(decarboxylating)
+bulk	rxn06673	0.0	-2.9508000907897393e-16	Acetyl-CoA:carbon-dioxide ligase (ADP-forming)
+bulk	rxn00790	0.02499943117041553	0.0	5-Phosphoribosylamine:pyrophosphate phosphoribosyltransferase
+bulk	rxn01169	0.0	2.7755575615628914e-17	ATP:D-glucose 6-phosphotransferase
+bulk	rxn08296	0.0	-1.2591576593993421e-17	diacylglycerol kinase (n-C14:1)
+bulk	rxn05569	0.0	6.671476297414689e-18	D-glucosamine transport via PEP:Pyr PTS
+bulk	rxn08805	0.0	0.0	Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C14:1) (periplasm)
+bulk	rxn00060	0.0	0.0	Porphobilinogen ammonia-lyase (polymerizing)
+bulk	rxn00006	8.129266871679818e-05	0.0	hydrogen-peroxide:hydrogen-peroxide oxidoreductase
+bulk	rxn09202	0.0	-0.0	Phosphatidylserine decarboxylase (n-C18:0)
+bulk	rxn03239	0.0	1.0006039008953782e-16	(S)-3-Hydroxyhexadecanoyl-CoA:NAD+ oxidoreductase
+bulk	rxn02473	0.0018179849553597988	-1.3877787807814457e-17	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate hydro-lyase
+bulk	rxn08128	0.0	-0.0	Amylomaltase (maltopentaose)
+bulk	rxn00834	0.013629534792715928	5.5253678065482924e-17	IMP:NAD+ oxidoreductase
+bulk	rxn05293	0.0	-0.2436455324351987	MECDPDH
+bulk	rxn12639	0.0	1.0183057815448754e-17	aminopeptidase
+bulk	rxn03080	1.1911013731301783e-06	0.0	6,7-Dimethyl-8-(1-D-ribityl)lumazine:6,7-dimethyl-8-(1-D-ribityl)
+bulk	rxn05150	0.0	-0.009549376971143914	Zinc-ABC transport
+bulk	rxn02297	0.0	-1.951563910473908e-18	6-Carboxyhexanoyl-CoA:L-alanine C-carboxyhexanoyltransferase
+bulk	rxn05040	1.1911013731301785e-06	0.0	3,4-Dihydroxy-2-butanone 4-phosphate synthase
+bulk	rxn01204	0.0038143691783528813	0.0	4-Aminobutanoate:2-oxoglutarate aminotransferase
+bulk	rxn00350	0.0	0.0	glutathione hydralase (periplasmic)
+bulk	rxn05326	0.009367654969436994	-1.1102230246251565e-16	Hexanoyl-[acyl-carrier protein]:malonyl-CoA
+bulk	rxn08813	0.0	-6.821895129556799e-18	Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C16:0) (periplasm)
+bulk	rxn09562	0.0	-6.255899578162686e-17	guanylate kinase (GMP:dATP)
+bulk	rxn00799	-1.0147743075750473	-0.0	(S)-Malate hydro-lyase
+bulk	rxn00313	0.025668234591448777	0.0	meso-2,6-Diaminoheptanedioate carboxy-lyase
+bulk	rxn09197	0.0	-0.0	Phosphatidylserine decarboxylase (n-C12:0)
+bulk	rxn02369	0.0	0.0	2-Carboxy-2,5-dihydro-5-oxofuran-2-acetate lyase (decyclizing)
+bulk	rxn02791	0.0	-0.0	(5-Glutamyl)-peptide:amino-acid 5-glutamyltransferase
+bulk	rxn05455	0.0	-0.0	12-methyl-tridecanoyl-ACP:[acyl-carrier-protein] transferase
+bulk	rxn00086	0.0	0.0	glutathione:NADP+ oxidoreductase
+bulk	rxn01187	0.5436966637128909	1.3877787807814457e-17	D-Xylulose 5-phosphate D-glyceraldehyde-3-phosphate-lyase
+bulk	rxn11944	0.0	-0.015279003153830257	Methyltransferase
+bulk	rxn11268	0.0	-0.009549376971145959	phosphate ABC transporter permease protein
+bulk	rxn05344	0.0043816450663495595	1.1102230246251565e-16	Tetradecanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein]
+bulk	rxn00676	1.6574532810547992e-17	7.1042876963571844e-15	Propanoyl-CoA:acetyl-CoA C-acyltransferase
+bulk	rxn01281	0.0	-0.0	(R)-Glycerate:NADP+ oxidoreductase
+bulk	rxn10339	0.0	-0.0	isotetradecanoyl-cardiolipin synthase
+bulk	rxn10226	0.0	-1.3877787807814457e-17	isoheptadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase
+bulk	rxn03246	-0.0059919545677838615	-1.0006039008953782e-16	(S)-Hydroxyoctanoyl-CoA:NAD+ oxidoreductase
+bulk	rxn10237	0.0	0.0	isohexadecanoyl-phosphatidylserine decarboxylase
+bulk	rxn05248	0.0	1.6653345369377348e-16	FACOAL150(anteiso)
+bulk	rxn08901	0.0	-0.00572962618268697	Malate dehydrogenase (menaquinone 8 as acceptor)
+bulk	rxn08796	0.0	0.0	Lysophospholipase L1 (2-acylglycerophosphotidate, n-C12:0) (periplasm)
+bulk	rxn03433	0.0	-5.551115123125783e-17	(S)-3-Hydroxyisobutyryl-CoA hydrolase
+bulk	rxn03242	-0.0059919545677838615	-1.0006039008953782e-16	(S)-3-Hydroxydodecanoyl-CoA:NAD+ oxidoreductase
+bulk	rxn10223	0.0	-0.0	isopentadecanoyl-phosphatidate cytidylyltransferase
+bulk	rxn01459	0.0	6.846647310393593e-16	4-Aminobutyraldehyde:NAD+ oxidoreductase
+bulk	rxn10210	0.0	-0.10122339589413736	isohexadecanoyl-glycerol-3-phosphate O-acyltransferase
+bulk	rxn08618	4.17481031290153e-05	0.0	glucosyltransferase I (LPS core synthesis)
+bulk	rxn00256	0.0	-0.007639501576915052	Citrate oxaloacetate-lyase ((pro-3S)-CH2COO- -> acetyl-CoA)
+bulk	rxn02503	0.0	-3.022846844652567e-17	ATP:2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine
+bulk	rxn09101	0.0	-0.1336912775960218	phosphatidylglycerol phosphate phosphatase (n-C14:0)
+bulk	rxn05349	0.009367654969436994	0.0	acetyl-CoA:[acyl-carrier-protein] S-acetyltransferase
+bulk	rxn00131	-0.0005300401110531186	-0.0	AMP phosphoribohydrolase
+bulk	rxn00285	-0.828767303601396	2.3257833833169647e-16	Succinate:CoA ligase (ADP-forming)
+bulk	rxn00547	0.0	0.0	ATP:D-fructose 6-phosphotransferase
+bulk	rxn08845	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C12:0)
+bulk	rxn08655	0.0	-1.214306433183765e-17	Glycolate oxidase
+bulk	rxn00250	0.0	-6.236371680497893e-17	Pyruvate:carbon-dioxide ligase (ADP-forming)
+bulk	rxn01334	0.0	-6.3630332988241625e-18	Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase
+bulk	rxn08087	0.0	-0.2578331782209007	1-hexadec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C16:1)
+bulk	rxn03146	8.34962062580306e-05	6.36525783310942e-17	UDP-3-O-acetylglucosamine deacetylase
+bulk	rxn00770	0.0485710960543549	-1.6860727431433858e-17	ATP:D-ribose-5-phosphate pyrophosphotransferase
+bulk	rxn00192	0.0	-0.007639501576915036	Acetyl-CoA:L-glutamate N-acetyltransferase
+bulk	rxn00611	0.0	-5.939770392039414e-16	sn-Glycerol-3-phosphate:NAD+ 2-oxidoreductase
+bulk	rxn00588	0.0	0.0	Catechol:oxygen 1,2-oxidoreductase(decyclizing)
+bulk	rxn00182	0.0	2.9483805701815934e-17	L-Glutamate:NAD+ oxidoreductase (deaminating)
+bulk	rxn00289	-2.0636867329834587e-18	2.386971687416032e-17	(2S,3R)-3-Hydroxybutane-1,2,3-tricarboxylate pyruvate-lyase
+bulk	rxn03393	0.0	-8.673617379884035e-19	Octaprenyl-hydroxybenzoate decarboxylase
+bulk	rxn05388	0.0	2.7755575615628914e-17	5-methyl-hexanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+bulk	rxn04783	2.8348212681012084e-05	1.431146867680866e-17	glycinamide ribonucleotide transformylase
+bulk	rxn08849	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C16:1)
+bulk	rxn05429	0.0	-0.07066538958646645	12-methyl-tridecanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+bulk	rxn01739	0.01649509340576396	0.0	ATP:shikimate 3-phosphotransferase
+bulk	rxn00543	0.0	-0.0	Ethanol:NAD+ oxidoreductase
+bulk	rxn00347	0.0	6.088997735397165e-16	L-Aspartate ammonia-lyase
+bulk	rxn10052	0.0	-3.85058800184631e-18	adenylate kinase (Inorganic triphosphate)
+bulk	rxn05206	0.0	0.0	Potassium uptake
+bulk	rxn00102	-0.09270419408838898	-0.0	Carbonic acid hydro-lyase
+bulk	rxn03236	0.0	-0.0	4a-hydroxytetrahydrobiopterin hydro-lyase
+bulk	rxn00804	0.0	-7.248742938680761e-17	L-leucine:NAD+ oxidoreductase(deaminating)
+bulk	rxn05235	0.0015126987439044058	0.0	Ribonucleotide reductase: CTP
+bulk	rxn01521	0.0	0.0	5'-nucleotidase (dUMP)
+bulk	rxn00097	0.10369105305302749	0.0	ATP:AMP phosphotransferase
+bulk	rxn06591	0.0	-0.0	L-glutamate-semialdehyde: NADP+
+bulk	rxn00126	0.0005300401110531187	5.551115123125783e-17	ATP:L-methione S-adenosyltransferase
+bulk	rxn00414	0.0	-0.007639501576915115	Carbon-dioxide:L-glutamine amido-ligase (ADP-forming,
+bulk	rxn05547	0.0	0.0	Dipeptide transport via ABC system (gly-gln)
+bulk	rxn06937	0.0	-0.16806903469213985	L-Glutamate:tRNA(Glu) ligase (AMP-forming)
+bulk	rxn05937	0.0	0.0	Ferredoxin:NADP+ oxidoreductase
+bulk	rxn00980	0.0	4.336808689942018e-19	2-Phosphoglycolate phosphohydrolase
+bulk	rxn05244	0.01268522962408027	-7.386183224645577e-18	Branched chain amino acid:H+ symporter (Isoleucine)
+bulk	rxn03445	0.0	0.0	O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase
+bulk	rxn01868	0.0	5.551115123125783e-17	p-Cumic alcohol:NADP+ oxidoreductase
+bulk	rxn05546	0.0	0.0	Dipeptide transport via ABC system (gly-asn)
+bulk	rxn02508	0.0032159737075133036	0.0	N-(5-Phospho-beta-D-ribosyl)anthranilate ketol-isomerase
+bulk	rxn05638	0.0	0.0	L-proline transport in via proton symport
+bulk	rxn08801	0.0	2.479993349058771e-18	Lysophospholipase L1 (2-acylglycerophosphotidate, n-C18:0) (periplasm)
+bulk	rxn01108	0.0	-6.630441367857951e-16	beta-D-Glucose:NAD+ 1-oxoreductase
+bulk	rxn05251	0.0	1.1449174941446927e-16	FACOAL170(anteiso)
+bulk	rxn05516	0.0	-0.005729626182686262	cadmium transport out via ABC system
+bulk	rxn05608	0.0	-0.6063854376676688	Maltotriose transport via ABC system
+bulk	rxn02938	0.0	-0.007639501576914651	1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate carboxy-lyase
+bulk	rxn05439	0.0	-5.551115123125783e-17	5-methyl-trans-hex-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+bulk	rxn05339	-0.009367654969436994	-0.0	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]:NADP+ oxidoreductase
+bulk	rxn10268	0.0	0.0	isopentadecanoyl-Phosphatidylglycerophosphate phosphohydrolase
+bulk	rxn05644	0.0	-0.007639501576915087	D-ribose transport out via ABC system
+bulk	rxn00224	5.955506865765379e-08	0.0	Protoporphyrin ferro-lyase
+bulk	rxn00569	0.0	-0.03342281939900534	ammonium-hydroxide:NAD(P)+ oxidoreductase
+bulk	rxn00139	0.0	-0.015279003153830205	AMP:pyrophosphate phosphoribosyltransferase
+bulk	rxn05451	0.0	-0.0	12-methyl-tetra-decanoyl-ACP:[acyl-carrier-protein] transferase
+bulk	rxn05736	0.0	-7.216449660063518e-16	fatty-acid--CoA ligase (tetradecanoate)
+bulk	rxn05527	0.0	0.0	cytosine transport in via proton symport
+bulk	rxn10253	0.0	-0.0	isoheptadecanoyl-Diacylglycerol kinase
+bulk	rxn00931	0.0	6.446766818390674e-16	L-Proline:NADP+ 5-oxidoreductase
+bulk	rxn03904	0.00016437198949512444	0.0	UDPMurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala):undecaprenyl-
+bulk	rxn02465	-1.0592873424756635e-17	-1.6653345369377348e-16	N-Acetyl-L-glutamate-5-semialdehyde:NADP+ 5-oxidoreductase
+bulk	rxn08335	0.018375120883632492	6.938893903907228e-18	dihydoorotic acid dehydrogenase (quinone8)
+bulk	rxn09205	0.0	-0.09931352049990186	Phosphatidylserine syntase (n-C12:0)
+bulk	rxn08711	4.17481031290153e-05	0.0	heptosyltransferase II (LPS core synthesis)
+bulk	rxn05957	0.0	0.0	O-Succinyl-L-homoserine succinate-lyase (adding cysteine)
+bulk	rxn00549	0.0	-0.010504314668260984	D-Fructose-1,6-bisphosphate 1-phosphohydrolase
+bulk	rxn08820	0.0	9.651912868240819e-19	Lysophospholipase L2 (2-acylglycerophosphotidate, n-C16:0)
+bulk	rxn01871	0.0	-0.1776184116632818	acetyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-acetyltransferase
+bulk	rxn01257	2.656156062131695e-05	0.0	chorismate:L-glutamine aminotransferase
+bulk	rxn05029	0.0	7.869735371245888e-18	ATP:cobinamide Cobeta-adenosyltransferase
+bulk	rxn01045	0.0	3.246153586347122e-15	L-Valine:NAD+ oxidoreductase(deaminating)
+bulk	rxn05604	0.0	-0.0019098753942287851	malate-H+/Na+-lactate antiporter
+bulk	rxn05401	0.0	-7.296640979944932e-17	13-methyl-3-oxo-tetra-decanoyl-ACP:NADP+ oxidoreductase
+bulk	rxn05613	0.0	-1.7342897951078129e-15	L-methionine S-oxide transport via ABC system
+bulk	rxn01265	0.0	0.0	Nicotinate D-ribonucleotide:pyrophosphate phosphoribosyltransferase
+bulk	rxn03535	0.0	-0.0	ATP:cob(I)yrinic acid-a,c-diamide Cobeta-adenosyltransferase
+bulk	rxn01740	-0.01649509340576396	5.833411065872869e-17	Shikimate:NADP+ 5-oxidoreductase
+bulk	rxn08548	0.0	-0.21199616875941385	glycerol-3-phosphate acyltransferase (C14:1)
+bulk	rxn08546	0.0	-0.7467612791434852	glycerol-3-phosphate acyltransferase (C12:0)
+bulk	rxn12847	0.0	-0.0	Gly-Try aminopeptidase
+bulk	rxn03130	4.17481031290153e-05	-1.1102230246251565e-16	UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine diphosphatase
+bulk	rxn03250	0.0059919545677838615	0.0	(S)-Hydroxyhexanoyl-CoA hydro-lyase
+bulk	rxn05371	0.0	0.0	8-methyl-decanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+bulk	rxn00083	0.0	-6.093352977149617e-16	NADPH:NAD+ oxidoreductase (B-specific)
+bulk	rxn05347	0.009367654969436994	-6.938893903907228e-18	Acyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein]
+bulk	rxn05338	-0.009367654969436996	-0.0	(3R)-3-Hydroxydecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase
+bulk	rxn00416	0.014590991821125176	1.3877787807814457e-17	L-aspartate:L-glutamine amido-ligase (AMP-forming)
+bulk	rxn00165	0.0	-0.007639501576915279	L-serine ammonia-lyase
+bulk	rxn09112	0.0	-0.0	Phosphatidylglycerol synthase (n-C16:1)
+bulk	rxn00903	0.0	3.18293172852096e-15	L-Valine:2-oxoglutarate aminotransferase
+bulk	rxn00947	0.0	5.551115123125783e-17	Palmitate:CoA ligase (AMP-forming)
+bulk	rxn03394	0.0	-0.06589070110090664	rxn03394
+bulk	rxn05400	0.0	-2.7755575615628914e-17	11-methyl-dodecanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+bulk	rxn08088	0.0	-0.12032214983642203	1-octadecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C18:0)
+bulk	rxn10343	0.0	-0.007639501576915088	Mercury (Hg+2) ABC transporter
+bulk	rxn05154	0.0	0.0	L-Arginine-ABC transport
+bulk	rxn05233	0.0	8.679064912207126e-17	Ribonucleotide reductase: GDP
+bulk	rxn05442	0.0	0.0	11-methyl-trans-dodec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+bulk	rxn08819	0.0	6.938893903907228e-18	Lysophospholipase L2 (2-acylglycerophosphotidate, n-C14:1)
+bulk	rxn00838	0.013187881333059148	-5.551115123125783e-17	IMP:L-aspartate ligase (GDP-forming)
+bulk	rxn10265	0.0	0.0	isoheptadecanoyl-Phosphatidylglycerophosphate phosphohydrolase
+bulk	rxn00065	0.0	3.0531133177191805e-16	ATP pyrophosphate-lyase (cyclizing)
+bulk	rxn00141	0.0	0.0	S-Adenosyl-L-homocysteine hydrolase
+bulk	rxn05651	0.012623232797607596	0.0	sulfate transport in via proton symport
+bulk	rxn01806	0.0	-6.388706526321463e-17	Nitrous-oxide:(acceptor) oxidoreductase (NO-forming)
+bulk	rxn09102	0.0	0.0	phosphatidylglycerol phosphate phosphatase (n-C14:0)
+bulk	rxn03990	0.0	5.425444208716393e-16	nitric oxide, NAD(P)H2:oxygen oxidoreductase
+bulk	rxn05425	0.0	-0.07066538958646645	10-methyl-undecanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+bulk	rxn10234	0.0	0.0	isotetradecanoyl-phosphatidylserine decarboxylase
+bulk	rxn01314	0.0	-0.0	NADPH:6,7-dihydropteridine oxidoreductase
+bulk	rxn10202	0.0	-0.015279003153830257	palmitoyl-glycerol-3-phosphate O-acyltransferase
+bulk	rxn00337	0.05923704459102192	1.0792968331845485e-17	ATP:L-aspartate 4-phosphotransferase
+bulk	rxn01445	0.0	0.0	2'-Deoxyguanosine 5'-monophosphate phosphohydrolase
+bulk	rxn02945	0.0	0.0	prephytoene diphosphate:geranylgeranyl-diphosphate
+bulk	rxn00777	0.24736098147912136	0.0	D-Ribose-5-phosphate ketol-isomerase
+bulk	rxn02889	0.0	-5.3894266295420394e-17	3-Methylcrotonoyl-CoA:carbon-dioxide ligase (ADP-forming)
+bulk	rxn05602	0.0	-3.474592210291219e-18	L-lactate reversible transport via proton symport
+bulk	rxn01512	0.0011220770485788547	3.195353853932669e-17	ATP:nucleoside-diphosphate phosphatransferase
+bulk	rxn01466	-5.67383201248237e-17	-8.673617379884035e-19	Geranyl-diphosphate:isopentenyl-diphosphate geranyltrans-transferase
+bulk	rxn02185	-4.2969516926257284e-17	4.540570594116765e-18	2-Acetolactate pyruvate-lyase (carboxylating)
+bulk	rxn03406	0.0	-0.007639501576915131	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-
+bulk	rxn00500	0.0	0.0	(R)-Lactate:NAD+ oxidoreductase
+bulk	rxn05358	2.3501366817038445e-17	0.0	2-methylbutanoyl-CoA:[acyl-carrier-protein] transferase
+bulk	rxn01106	-0.44934133165875006	-0.0	2-Phospho-D-glycerate 2,3-phosphomutase
+bulk	rxn08811	0.0	-1.9845513104165236e-17	Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C14:0) (periplasm)
+bulk	rxn00361	0.012623232797607594	0.0	ATP:adenylylsulfate 3'-phosphotransferase
+bulk	rxn02804	0.0	-0.0	myristoyl-CoA:acetylCoA C-myristoyltransferase
+bulk	rxn10162	0.0	1.0685891351966568e-19	Hexadecanoate transport via proton symport
+bulk	rxn00293	0.0004122401852482795	0.0	UTP:N-acetyl-alpha-D-glucosamine-1-phosphate uridylyltransferase
+bulk	rxn05542	0.0	0.0	Dipeptide transport via ABC system (ala-gly)
+bulk	rxn01480	0.0	9.092769430315793e-18	3-Hydroxy-2-methylpropanoate:NAD+ oxidoreductase
+bulk	rxn05740	-0.009171480573278684	5.826966772108968e-18	cpd00155 phosphorylase
+bulk	rxn03181	4.174810312901529e-05	-2.3969151106019443e-16	ATP:2,3,2',3'-tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-beta-
+bulk	rxn00974	0.0	0.0	citrate hydro-lyase
+bulk	rxn05108	0.0	-0.0	2-keto-4-methylthiobutyrate transamination
+bulk	rxn05485	0.0	0.0	N-Acetyl-D-glucosamine transport via PEP:Pyr PTS
+bulk	rxn04070	0.0	0.0	pyridoxine 5'-phosphate synthase
+bulk	rxn02004	0.0	-0.015279003153830146	Trehalose-6-phosphate phosphohydrolase
+bulk	rxn03004	0.024971082957734515	0.0	10-Formyltetrahydrofolate:5'-phosphoribosylglycinamide
+bulk	rxn00202	0.0	-0.18907766402865822	2-Hydroxybutane-1,2,4-tricarboxylate 2-oxoglutarate-lyase
+bulk	rxn11544	0.0	-0.0	Hydrogenobyrinate  <=> Hydrogenobyrinate a,c diamide
+bulk	rxn02925	0.0	-0.0	L-Alanine:3-oxopropanoate aminotransferase
+bulk	rxn02277	0.0	1.431146867680866e-17	7,8-Diaminononanoate:carbon-dioxide cyclo-ligase
+bulk	rxn10147	0.0	-0.007639501576915088	Cob(1)alamin transport via ABC system
+bulk	rxn05735	0.0	-4.5102810375396984e-17	aldehyde dehydrogenase (aminoacetaldehyde, NAD)
+bulk	rxn00691	0.0	-0.007639501576915064	10-Formyltetrahydrofolate amidohydrolase
+bulk	rxn12638	0.0	-1.3877787807814457e-17	aminopeptidase
+bulk	rxn01843	0.0	-0.0	2-phenylacetamide amidohydrolase
+bulk	rxn12643	0.0	0.0	aminopeptidase
+bulk	rxn10207	0.0	-0.10122339589413734	isotetradecanoyl-glycerol-3-phosphate O-acyltransferase
+bulk	rxn05663	0.0	0.0	L-tryptophan transport in via proton symport
+bulk	rxn08558	0.0	-0.0057296261826869106	glycerol-3-phosphate dehydrogenase (demethylmenaquinone-8)
+bulk	rxn11650	0.0	0.0	cob(II)yrinic acid-a,c-diamide:FMN oxidoreductase
+bulk	rxn02264	5.955506865765381e-08	0.0	Hydroxymethylbilane hydro-lyase(cyclizing)
+bulk	rxn01225	0.0	4.579669976578771e-16	Guanine aminohydrolase
+bulk	rxn04989	0.0	-0.026738255519206833	L-phenylalanine,tetrahydrobiopterin:oxygen
+bulk	rxn03903	0.0	-0.0	UDPMurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala):undecaprenyl-
+bulk	rxn00985	-1.0288038817011769e-32	2.1244176783670197e-17	ATP:acetate phosphotransferase
+bulk	rxn03897	0.0	0.0	benzoate 1,2-dioxygenase
+bulk	rxn00623	-0.012623232797607594	-0.0	hydrogen-sulfide:NADP+ oxidoreductase
+bulk	rxn05627	0.0	-0.0	nitrate transport in via proton symport
+bulk	rxn05447	0.0	-0.013369127759601505	8-methyl-trans-non-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+bulk	rxn02046	0.0	-6.938893903907228e-18	D-O-Phosphoserine phosphohydrolase
+bulk	rxn08352	0.0	-9.04341276908113e-17	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (dmpp)
+bulk	rxn05209	-0.22414382465987406	-0.0	Proton sodium antiport
+bulk	rxn08306	0.0	-0.0	CDP-diacylglycerol synthetase (n-C12:0)
+bulk	rxn05535	1.0259984060909153e-17	1.3877787807814457e-16	Dipeptide transport via ABC system (gly-met)
+bulk	rxn05360	2.3501366817038445e-17	0.0	4-methyl-3-oxo-hexanoyl-ACP:NADP+ oxidoreductase
+bulk	rxn03031	-0.02583260658094391	-1.1102230246251565e-16	Succinyl-CoA:2,3,4,5-tetrahydropyridine-2,6-dicarboxylate
+bulk	rxn00148	0.41606152854834005	-6.938893903907228e-18	ATP:pyruvate O2-phosphotransferase
+bulk	rxn08804	0.0	0.0	Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C14:0) (periplasm)
+bulk	rxn00913	0.0	0.0	Guanosine 5'-monophosphate phosphohydrolase
+bulk	rxn00214	0.0	-0.0	UDPglucose 4-epimerase
+bulk	rxn00874	0.0059919545677838615	0.0	Acetyl-CoA:acetyl-CoA C-acetyltransferase
+bulk	rxn05197	0.0	0.0	Uracil ion-coupled transport
+bulk	rxn06600	0.0	-1.0408340855860843e-17	S-aminomethyldihydrolipoylprotein:(6S)-tetrahydrofolate
+bulk	rxn05438	0.0	-0.013369127759601505	14-methyl-trans-hexa-dec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+bulk	rxn08085	1.0498012202516063e-17	-1.9012569296705806e-15	1-tetradec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C14:1)
+bulk	rxn09109	0.0	-0.0	Phosphatidylglycerol synthase (n-C14:0)
+bulk	rxn08839	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C14:0)
+bulk	rxn10258	0.0	1.860573972643446e-17	isohexadecanoyl-Diacylglycerol kinase
+bulk	rxn00022	0.0	-0.0076395015769150885	alpha-D-Glucoside glucohydrolase
+bulk	rxn05289	0.017809288176316083	0.0	TRDR
+bulk	rxn02000	4.17481031290153e-05	0.0	dTDP-4-dehydro-6-deoxy-D-glucose 3,5-epimerase
+bulk	rxn10228	0.0	-6.938893903907228e-18	isotetradecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase
+bulk	rxn01977	0.0	6.140060953061747e-17	alpha-D-Glucose 6-phosphate ketol-isomerase
+bulk	rxn03249	-0.0059919545677838615	-0.0	(S)-Hydroxyhexanoyl-CoA:NAD+ oxidoreductase
+bulk	rxn09448	0.0	3.8272336688738307e-17	fatty-acid--CoA ligase (octadecenoate)
+bulk	rxn01851	0.003814369178352881	2.7755575615628914e-17	4-aminobutanal:NAD+ 1-oxidoreductase
+bulk	rxn03421	0.0	-0.0	GTP 7,8-8,9-dihydrolase
+bulk	rxn08843	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C18:0)
+bulk	rxn12635	0.0	0.0	aminopeptidase
+bulk	rxn00213	0.0003456576184890226	0.0	UTP:alpha-D-glucose-1-phosphate uridylyltransferase
+bulk	rxn05409	0.0	0.0	2-methylpropionyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+bulk	rxn02934	2.3501366817038445e-17	0.0	(2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA hydro-liase
+bulk	rxn10131	0.0068175000000000015	0.0	arginine/ornithine antiporter
+bulk	rxn01145	0.0	0.0	Thymidylate 5'-phosphohydrolase
+bulk	rxn00493	-0.011851458662873104	-0.0	L-Phenylalanine:2-oxoglutarate aminotransferase
+bulk	rxn00173	0.14839027509401717	-1.1365961787894742e-18	Acetyl-CoA:orthophosphate acetyltransferase
+bulk	rxn08528	0.0	0.0	fumarate reductase
+bulk	rxn01509	0.0	-0.0	ATP:(d)GMP phosphotransferase
+bulk	rxn03240	0.0	-0.0	(S)-3-Hydroxyhexadecanoyl-CoA hydro-lyase
+bulk	rxn05414	0.0	-0.0	6-methyl-3-oxo-heptanoyl-ACP:NADP+ oxidoreductase
+bulk	rxn00789	0.0018179849553597986	5.551115123125783e-17	1-(5-Phospho-D-ribosyl)-ATP:pyrophosphate phosphoribosyl-transferase
+bulk	rxn10481	0.0	-0.007639501576915088	Copper transport via ABC system
+bulk	rxn06077	0.0	1.5639748945406715e-17	L-methionine:oxidized-thioredoxin S-oxidoreductase
+bulk	rxn02895	0.024999431170415528	-1.3444106938820255e-17	5-Phospho-D-ribosylamine:glycine ligase (ADP-forming)
+bulk	rxn10216	0.0	-0.1107727728652802	isotetradecanoyl-1-acylglycerol-3-phosphate O-acyltransferase
+bulk	rxn09211	0.0	-2.0816681711721685e-17	Phosphatidylserine syntase (n-C18:1)
+bulk	rxn02312	0.0	-0.0	S-Adenosyl-L-methionine:8-amino-7-oxononanoate aminotransferase
+bulk	rxn06075	0.0	0.0	2'-Deoxyuridine 5'-diphosphate:oxidized-thioredoxin
+bulk	rxn00438	-3.01345264712544e-18	-0.0	ATP:thiamin-phosphate phosphotransferase
+bulk	rxn05405	0.0	-0.0	15-methyl-3-oxo-hexa-decanoyl-ACP:NADP+ oxidoreductase
+bulk	rxn01109	0.0	-0.0	beta-D-Glucose:NADP+ 1-oxoreductase
+bulk	rxn00679	2.0636867329834587e-18	3.6371077721263173e-17	2-Methylcitrate oxaloacetate-lyase
+bulk	rxn03951	0.0	0.0	NAD-dependent threonine 4-phosphate dehydrogenase
+bulk	rxn05327	0.0009065472551068057	-2.7755575615628914e-17	Decanoyl-[acyl-carrier protein]:malonyl-CoA
+bulk	rxn10344	0.0	-0.007639501576915088	Lead (Pb+2) ABC transporter
+bulk	rxn12206	0.0	-3.469446951953614e-18	malonate decarboxylase
+bulk	rxn10474	0.0	0.0	cobalt transport in/out via permease (no H+)
+bulk	rxn05404	0.0	-0.08403451734606854	13-methyl-tetra-decanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+bulk	rxn08798	-1.0498012202516063e-17	6.938893903907228e-18	Lysophospholipase L1 (2-acylglycerophosphotidate, n-C14:1) (periplasm)
+bulk	rxn08797	0.0	-1.3801702116500986e-17	Lysophospholipase L1 (2-acylglycerophosphotidate, n-C14:0) (periplasm)
+bulk	rxn01102	0.0	0.0	ATP:(R)-glycerate 3-phosphotransferase
+bulk	rxn08550	0.0	0.0	glycerol-3-phosphate acyltransferase (C16:1)
+bulk	rxn02144	0.0	0.0	4-Carboxymethylbut-3-en-4-olide enol-lactonohydrolase
+bulk	rxn10336	0.0	-0.0	stearoyl-cardiolipin synthase
+bulk	rxn01643	0.05923704459102192	-5.551115123125783e-17	L-Aspartate-4-semialdehyde:NADP+ oxidoreductase (phosphorylating)
+bulk	rxn01275	0.0	0.0	ATP:D-Gluconate 6-phosphotransferase
+bulk	rxn10257	0.0	-0.0	anteisopentadecanoyl-Diacylglycerol kinase
+bulk	rxn09209	0.0	-6.938893903907228e-18	Phosphatidylserine syntase (n-C16:1)
+bulk	rxn02005	0.0	0.3991639573938358	trehalose transport via PEP:Pyr PTS
+bulk	rxn01653	0.0	-5.551115123125783e-17	5-Formyltetrahydrofolate cyclo-ligase (ADP-forming)
+bulk	rxn08656	2.6561560621316943e-05	3.469446951953614e-18	Glycolate oxidase
+bulk	rxn01029	0.0	8.641150430935102e-19	Agmatine iminohydrolase
+bulk	rxn09198	0.0	0.0	Phosphatidylserine decarboxylase (n-C14:0)
+bulk	rxn01671	0.0	-0.0	ATP:N-ribosylnicotinamide 5'-phosphotransferase
+bulk	rxn01362	0.018375120883632495	0.0	Orotidine-5'-phosphate:pyrophosphate phosphoribosyltransferase
+bulk	rxn00231	0.0	0.0	Acetamide amidohydrolase
+bulk	rxn09106	0.0	-0.14133077917293685	phosphatidylglycerol phosphate phosphatase (n-C18:0)
+bulk	rxn10270	0.0	0.0	isohexadecanoyl-Phosphatidylglycerophosphate phosphohydrolase
+bulk	rxn08846	0.0	-0.0	Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C14:0)
+bulk	rxn05450	0.0	-0.013369127759601505	14-methyl-trans-pentadec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+bulk	rxn06493	0.0	0.0	dihydrolipoylprotein:NAD+ oxidoreductase
+bulk	rxn02402	0.00016258533743376417	2.7755575615628914e-17	Nicotinate-nucleotide:pyrophosphate phosphoribosyltransferase
+bulk	rxn03243	0.0059919545677838615	0.0	Decanoyl-CoA:acetyl-CoA C-acyltransferase
+bulk	rxn05375	2.3501366817038464e-17	0.0	10-methyl-dodecanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+bulk	rxn10224	0.0	-0.0	anteisopentadecanoyl-phosphatidate cytidylyltransferase
+bulk	rxn00351	0.0	-1.3444106938820255e-17	gamma-L-Glutamyl-L-cysteine:glycine ligase (ADP-forming)
+bulk	rxn10231	0.0	-2.0816681711721685e-17	isohexadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase
+bulk	rxn02811	0.0	1.3351311543480687e-19	3-Isopropylmalate hydro-lyase
+bulk	rxn00333	0.0	-0.007639501576915224	(S)-2-Hydroxy-acid:oxygen 2-oxidoreductase
+bulk	rxn10262	0.0	-0.0	isopentadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase
+bulk	rxn01286	0.0	-0.007639501576916512	D-Glyceraldehyde:NAD+ oxidoreductase
+bulk	rxn00199	0.9057583188702789	1.3877787807814457e-17	Oxalosuccinate:NADP+ oxidoreductase (decarboxylating)
+bulk	rxn01019	0.00038866330757610817	-2.200378440689937e-15	Carbamoyl-phosphate:L-ornithine carbamoyltransferase
+bulk	rxn00412	0.009016637394768781	8.326672684688674e-17	UTP:ammonia ligase(ADP-forming)
+bulk	rxn05457	-0.004423393169478575	-0.0	tetradecanoyl-ACP:[acyl-carrier-protein] transferase
+bulk	rxn10094	0.0	-0.06398082570667932	S-adenosylmethione:2-demethylmenaquinone methyltransferase
+bulk	rxn08310	0.0	-0.0	CDP-diacylglycerol synthetase (n-C16:1)
+bulk	rxn03917	0.00016699241251606122	0.0	sedoheptulose 7-phosphate isomerase
+bulk	rxn03135	0.0018179849553597986	-8.326672684688674e-17	Imidazole-glycerol-3-phosphate synthase
+bulk	rxn00469	0.0	-0.0	N2-Acetyl-L-ornithine amidohydrolase
+bulk	rxn05655	0.0	-0.0	sucrose transport via PEP:Pyr PTS
+bulk	rxn12512	3.513749050756906e-06	2.7755575615628914e-16	(R)-4'-Phosphopantothenate:L-cysteine ligase
+bulk	rxn09272	0.9762248933246175	-4.9728576821167335e-18	succinate dehydrogenase (irreversible)
+bulk	rxn00686	-0.0011068905060711565	-0.0	5,6,7,8-Tetrahydrofolate:NADP+ oxidoreductase
+bulk	rxn00791	0.0032159737075133036	1.3877787807814457e-17	N-(5-Phospho-D-ribosyl)anthranilate:pyrophosphate
+bulk	rxn09201	0.0	0.0	Phosphatidylserine decarboxylase (n-C16:1)
+bulk	rxn12432	0.0	-0.0	transport of malonate [extraorganism-cytosol](secondary symport)
+bulk	rxn08084	0.0	-1.4457756734312424	1-tetradecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C14:0)
+bulk	rxn10120	0.0	-0.016233940850945025	Nitrate reductase (Ubiquinol-8)
+bulk	rxn01636	-1.0592873424756633e-17	0.0	N2-Acetyl-L-ornithine:L-glutamate N-acetyltransferase
+bulk	rxn05170	0.0	1.431146867680866e-17	Maltose-ABC transport
+bulk	rxn02303	5.9555068657653805e-08	0.0	Coproporphyrinogen:oxygen oxidoreductase(decarboxylating)
+bulk	rxn12850	0.0	1.431146867680866e-17	Gly-Phe ABC transporters
+bulk	rxn03843	0.0	-0.011459252365374758	Farnesyl diphosphate:Isopentenyl diphosphate farnesyl transferase
+bulk	rxn10260	0.0	-0.0	anteisoheptadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase
+bulk	rxn06672	0.0	-4.332596010101544e-18	biotin-carboxyl-carrier-protein:carbon-dioxide ligase (ADP-forming)
+bulk	rxn03087	-0.025832606580943905	-0.0	N-Succinyl-L-2,6-diaminoheptanedioate:2-ocoglytarate
+bulk	rxn01329	1.5456285289455987e-16	-0.0	D-Mannose 6-phosphate 1,6-phosphomutase
+bulk	rxn01353	0.0	-0.0	ATP:nucleoside-diphosphate phosphatransferase
+bulk	rxn00077	3.156418638999549e-05	0.0	ATP:NAD+ 2'-phosphotransferase
+bulk	rxn00247	0.0	-0.007639501576915007	ATP:oxaloacetate carboxy-lyase (transphosphorylating)
+bulk	rxn05379	0.0	-0.08403451734606854	12-methyl-tetra-decanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+bulk	rxn05667	0.0	-0.0	Urea transport via facilitate diffusion
+bulk	rxn09450	0.0	1.1102230246251565e-16	fatty-acid--CoA ligase (hexadecenoate), peroxisomal
+bulk	rxn01213	0.0	-0.0032740721043905577	Dimethylallyl-diphosphate:isopentenyl-diphosphate
+bulk	rxn05384	0.0	6.938893903907228e-18	3-methylbutanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+bulk	rxn01917	-1.0592873424756635e-17	0.0	ATP:N-acetyl-L-glutamate 5-phosphotransferase
+bulk	rxn01100	-0.5382964483072908	-0.0	ATP:3-phospho-D-glycerate 1-phosphotransferase
+bulk	rxn01631	0.0	0.0	5-Aminopentanoate:2-oxoglutarate aminotransferase
+bulk	rxn05389	0.0	0.0	7-methyl-3-oxo-octanoyl-ACP:NADP+ oxidoreductase
+bulk	rxn05163	0.0	0.0	Putrescine-ABC transport
+bulk	rxn01603	2.6561560621316946e-05	5.551115123125783e-17	7,8-dihydropteroate:L-glutamate ligase (ADP-forming)
+bulk	rxn05515	0.0	-0.007639501576915088	Cobalamin uptake in via ABC transport
+bulk	rxn03247	0.0059919545677838615	0.0	(S)-Hydroxyoctanoyl-CoA hydro-lyase
+bulk	rxn05607	0.0	-1.2369319689612171e-17	maltose transport via PEP:Pyr PTS
+bulk	rxn06777	-0.004423393169478575	-0.0	(S)-3-Hydroxytetradecanoyl-CoA:NAD+ oxidoreductase
+bulk	rxn02939	0.0	-3.595056875674301e-17	4-phospho-D-erythronate:NAD+ 2-oxidoreductase
+bulk	rxn00178	0.0059919545677838615	7.274215544252635e-17	Acetyl-CoA:acetyl-CoA C-acetyltransferase
+bulk	rxn01015	0.0	0.0	Hydroxypyruvate ketol-isomerase
+bulk	rxn10254	0.0	-0.0	anteisoheptadecanoyl-Diacylglycerol kinase
+bulk	rxn05545	0.0	-1.3877787807814457e-17	Dipeptide transport via ABC system (ala-thr)
+bulk	rxn02339	0.0	0.0	4-Hydroxy-L-glutamate:2-oxoglutarate aminotransferase
+bulk	rxn02175	3.5137490507569054e-06	0.0	ATP:pantetheine-4'-phosphate adenylyltransferase
+bulk	rxn10163	0.0	2.1051205963374138e-17	Tetradecanoate transport via proton symport
+bulk	rxn01544	0.0	-0.015279003153831242	XMP:pyrophosphate phosphoribosyltransferase
+bulk	rxn00288	0.0	-0.0057296261826867215	Succinate:(acceptor) oxidoreductase
+bulk	rxn10012	0.0059919545677838615	0.0	acyl-CoA dehydrogenase (decanoyl-CoA)
+bulk	rxn00132	0.0	0.0	Adenosine 5'-monophosphate phosphohydrolase
+bulk	rxn05183	0.0	-0.007639501576915088	D-Methionine-ABC transport
+bulk	rxn01790	-3.5137490507569063e-06	-4.437995954072127e-17	(R)-Pantoate:NADP+ 2-oxidoreductase
+bulk	rxn00935	1.1634505815389726	-6.920613045757432e-17	(S)-Malate:(acceptor) oxidoreductase
+bulk	rxn05528	0.0	-0.007639501576915088	Copper export via ATPase
+bulk	rxn00747	0.008783181525629062	0.0	D-Glyceraldehyde-3-phosphate ketol-isomerase
+bulk	rxn01872	0.0	-0.0	succinyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-succinyltransferase
+bulk	rxn05538	0.0	-1.3877787807814457e-17	Dipeptide transport via ABC system (gly-pro-L)
+bulk	rxn02359	0.0	0.0	trans-4-Hydroxy-L-proline:NAD+ oxidoreductase
+bulk	rxn00629	0.0	0.0	D-Mannitol:NAD+ 2-oxidoreductase
+bulk	rxn00707	0.0	-0.0	ITP:cytidine 5'-phosphotransferase
+bulk	rxn03893	0.0	0.0	Hydroxybenzoate octaprenyltransferase
+bulk	rxn02270	2.3501366817038445e-17	0.0	(S)-2-methylbutanoyl-CoA:acceptor 2,3-oxidoreductase
+bulk	rxn02285	-0.00016437198949512447	6.261053430542183e-17	UDP-N-acetylmuramate:NADP+ oxidoreductase
+bulk	rxn08710	4.1748103129015304e-05	0.0	heptosyltransferase I (LPS core synthesis)
+bulk	rxn05146	0.0	-0.005729626182686292	L-Glutamate-ABC transport
+bulk	rxn10213	0.0	-0.12032214983643172	stearoyl-1-acylglycerol-3-phosphate O-acyltransferase
+bulk	rxn05380	0.0	-0.0	14-methyl-3-oxo-hexa-decanoyl-ACP:NADP+ oxidoreductase
+bulk	rxn00237	0.026817416125775158	2.7755575615628914e-17	ATP:nucleoside-diphosphate phosphatransferase
+bulk	rxn05517	0.0	-0.0	cadminum transport out via antiport
+bulk	rxn00548	0.3131242034628094	9.71445146547012e-17	D-Fructose-6-phosphate D-erythrose-4-phosphate-lyase
+bulk	rxn00114	0.0187637841912086	0.0	ATP:carbamate phosphotransferase
+bulk	rxn00420	0.08895511664854096	-6.938893903907228e-18	L-O-Phosphoserine phosphohydrolase
+bulk	rxn00001	0.0	8.673617379884035e-19	Pyrophosphate phosphohydrolase
+bulk	rxn01476	0.0	-0.00477468848557	6-Phospho-D-glucono-1,5-lactone lactonohydrolase
+bulk	rxn00058	0.0	-0.007639501576915212	Ferrocytochrome-c:oxygen oxidoreductase
+bulk	rxn02003	-4.17481031290153e-05	-6.594062350490573e-17	dTDP-6-deoxy-L-mannose:NADP+ 4-oxidoreductase
+bulk	rxn11937	0.0	-0.009549376971143917	Nitrogen:(NAD) oxidoreductase (N2O-forming)
+bulk	rxn06723	8.349620625803058e-05	0.0	UDP-3-O-(3-hydroxymyristoyl)glucosamine acyltransferase
+bulk	rxn01268	0.0	-3.697291012368649e-15	Prephenate:NAD+ oxidoreductase(decarboxylating)
+bulk	rxn07438	0.0	0.0	peptide-methionine:thioredoxin-disulfide S-oxidoreductase
+bulk	rxn08336	0.0	1.3877787807814457e-17	dihydroorotic acid (menaquinone-8)
+bulk	rxn01961	0.0	-1.3444106938820255e-17	Xanthosine 5'-phosphate phosphohydrolase
+bulk	rxn10770	0.0	0.0	choline dehydrogenase
+bulk	rxn01210	0.0	-0.8403451734607064	10-Formyltetrahydrofolate:L-glutamate ligase (ADP-forming)
+bulk	rxn05501	0.0	-0.0	arbutin transport via PEP:Pyr PTS
+bulk	rxn10220	0.0	-0.0	isoheptadecanoyl-phosphatidate cytidylyltransferase
+bulk	rxn03907	0.0	-0.0	CTP: 2-C-Methyl-D-erythritol 4-phosphate cytidylyltransferase
+bulk	rxn00851	0.00016437198949512444	-1.3444106938820255e-17	D-AlanineD-Alanine ligase (ADP-forming)
+bulk	rxn02268	0.0	-0.026738255519203794	(S)-2-methylbutanoyl-CoA:oxygen 2,3-oxidoreductase
+bulk	rxn00346	0.0	-0.007639501576920789	L-Aspartate 1-carboxy-lyase
+bulk	rxn00831	0.0	-1.3444106938820255e-17	Inosine 5'-monophosphate phosphohydrolase
+bulk	rxn00827	0.0	0.0	CTP:N-acylneuraminate cytidylyltransferase
+bulk	rxn00407	0.0	-0.0076395015769152065	CTP aminohydrolase
+bulk	rxn05454	0.0	-0.0	15-methyl-hexa-decanoyl-ACP:[acyl-carrier-protein] transferase
+bulk	rxn05625	0.0	-0.0	nitrite transport in via proton symport
+bulk	rxn00101	0.0	5.896761140363187e-17	Urea amidohydrolase
+bulk	rxn02376	0.0	-7.617336821844311e-17	3-Carboxy-1-hydroxypropyl-ThPP:lipoamde
+bulk	rxn02680	0.0059919545677838615	0.0	Octanoyl-CoA:acetyl-CoA C-acyltransferase
+bulk	rxn03839	0.0	0.0	AMID5
+bulk	rxn05301	0.0068175	0.0	TYRt6
+bulk	rxn05343	0.009367654969436996	0.0	Octanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein]
+bulk	rxn00336	0.11215955240330433	0.0	Isocitrate glyoxylate-lyase
+bulk	rxn05208	0.0	8.858162860239032e-18	Na+ lactate / malate H+ antiporter
+bulk	rxn05243	0.025489569385475617	-4.039318950978053e-18	Branched chain amino acid:H+ symporter (Leucine)
+bulk	rxn10571	0.0	-0.007639501576915087	magnesium transport via ABC system
+bulk	rxn05195	0.0	-0.007639501576915088	Fe3+-ABC transport
+bulk	rxn00062	4.98	-0.007639501576915097	ATP phosphohydrolase (protein-secreting)
+bulk	rxn01208	0.0	0.0	2-Oxo-4-methyl-3-carboxypentanoate decarboxylation
+bulk	rxn04132	0.0	0.0	rxn04132
+bulk	rxn04133	0.0	0.0	rxn04133
+bulk	rxn05319	3.459716742680121	0.0	H2Ot5
+bulk	rxn05467	-2.183911370840437	-0.0	CO2 transport via diffusion
+bulk	rxn05468	2.125748807473463	0.0	O2 transport via diffusion
+bulk	rxn02374	0.021189762143790702	0.0	L-glutamate 5-semialdehyde dehydratase (spontaneous)
+bulk	rxn05116	0.0	-0.16806903469214424	rxn05116
+bulk	rxn03012	0.0	0.0	rxn03012
+bulk	rxn05064	0.0	3.0814879110195774e-33	carbamate hydro-lyase
+bulk	rxn02666	0.0	0.0	L-2-amino-3-oxobutanoate decarboxylation (spontaneous)
+bulk	rxn04457	0.0	0.0	rxn04457
+bulk	rxn04456	0.0	0.0	rxn04456
+bulk	rxn01664	0.0	0.0	2-Aminoadipate 6-semialdehyde
+bulk	rxn02916	0.0	0.0	6-Amino-2-oxohexanoate cyclation
+bulk	rxn05361	2.3501366817038448e-17	-2.7755575615628914e-17	4-methyl-3-hydroxy-hexanoyl-ACP hydro-lyase
+bulk	rxn05398	0.0	0.0	11-methyl-3-hydroxy-dodecanoyl-ACP hydro-lyase
+bulk	rxn00119	0.018581240976256633	-2.7755575615628914e-17	ATP:nucleoside-phosphate phosphotransferase
+bulk	rxn02304	2.97775343288269e-08	0.0	Protoporphyrinogen-IX:oxygen oxidoreductase
+bulk	rxn12664	0.0	-3.469446951953614e-18	Menaquinone transport
+bulk	rxn05267	0.0	7.806255641895632e-18	DHNAOT7
+bulk	rxn05514	0.0	0.0	calcium transport in/out via proton antiporter
+bulk	rxn12510	3.513749050756906e-06	1.3877787807814457e-17	ATP:pantothenate 4'-phosphotransferase
+bulk	rxn08333	0.0	0.0	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+bulk	rxn05386	0.0	2.7755575615628914e-17	5-methyl-3-hydroxy-hexanoyl-ACP hydro-lyase
+bulk	rxn06848	4.17481031290153e-05	-4.440892098500626e-16	Endotoxin Synthesis (myristoyl transferase)
+bulk	rxn05402	0.0	0.0	13-methyl-3-hydroxy-tetra-decanoyl-ACP hydro-lyase
+bulk	rxn09225	4.17481031290153e-05	-5.551115123125783e-17	rhamnosyltransferase I (LPS core biosynthesis)
+bulk	rxn08712	4.17481031290153e-05	0.0	heptosyltransferase III (LPS core synthesis)
+bulk	rxn08954	4.17481031290153e-05	0.0	3-deoxy-D-manno-octulosonic acid transferase III (LPS core biosynthesis)
+bulk	rxn03511	0.00016699241251606122	0.0	ADP-D-glycero-D-manno-heptose 6-epimerase
+bulk	rxn05394	0.0	2.7755575615628914e-17	9-methyl-3-hydroxy-decanoyl-ACP hydro-lyase
+bulk	rxn03182	4.1748103129015304e-05	0.0	3-deoxy-D-manno-octulosonic acid transferase
+bulk	rxn05365	2.3501366817038454e-17	0.0	6-methyl-3-hydroxy-octanoyl-ACP hydro-lyase
+bulk	rxn08583	4.1748103129015304e-05	0.0	galactosyltransferase I (LPS core synthesis)
+bulk	rxn08619	4.1748103129015304e-05	-1.6653345369377348e-16	glucosyltransferase II (LPS core synthesis)
+bulk	rxn05373	0.0	5.551115123125783e-17	10-methyl-3-hydroxy-dodecanoyl-ACP hydro-lyase
+bulk	rxn05390	0.0	0.0	7-methyl-3-hydroxy-octanoyl-ACP hydro-lyase
+bulk	rxn05039	5.95550686565089e-07	2.7755575615628914e-17	pyrimidine phosphatase
+bulk	rxn03439	4.17481031290153e-05	0.0	3-deoxy-D-manno-octulosonic acid transferase
+bulk	rxn08713	4.1748103129015304e-05	3.608224830031759e-16	heptosyltransferase IV (LPS core synthesis)
+bulk	rxn13661	0.0	5.551115123125783e-17	S-adenosylmethione:2-demthylmenaquinone methyltransferase (menaquinone 7)
+bulk	rxn01541	0.0	-2.7755575615628914e-17	Cytidine ribohydrolase
+bulk	rxn05722	0.0	-0.013369127759603566	Trimetaphosphate transport in via proton symport
+bulk	rxn05381	0.0	0.0	14-methyl-3-hydroxy-hexa-decanoyl-ACP hydro-lyase
+bulk	rxn08620	4.1748103129015304e-05	2.7755575615628914e-16	glucosyltransferase III (LPS core synthesis)
+bulk	rxn12933	0.0015685613983052855	1.1102230246251565e-16	[Acyl-carrier-protein] acetyltransferase
+bulk	rxn05369	0.0	-2.7755575615628914e-17	8-methyl-3-hydroxy-decanoyl-ACP hydro-lyase
+bulk	rxn03919	0.00016699241251606124	-1.3877787807814457e-17	D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase
+bulk	rxn08709	4.17481031290153e-05	-4.440892098500626e-16	LPS heptose kinase II (LPS core synthesis)
+bulk	rxn05406	0.0	0.0	15-methyl-3-hydroxy-hexa-decanoyl-ACP hydro-lyase
+bulk	rxn05255	0.0	-5.551115123125783e-17	FOLt
+bulk	rxn03538	0.0	-5.551115123125783e-17	Adenosylcobalamin 5'-phosphate synthase
+bulk	rxn05618	0.0	-0.0019098753942288027	manganese transport in via proton symport
+bulk	rxn05377	0.0	0.0	12-methyl-3-hydroxy-tetra-decanoyl-ACP hydro-lyase
+bulk	EX_Biomass	0.05955506865765383	1.061296708451963e-16	
+bulk	EX_cpd11590_e0	0.0	-0.3485522594468031	
+bulk	EX_cpd16062_e0	0.0	0.0	
+bulk	EX_cpd00156_e0	-0.02501664258526521	1.628422582808581e-16	
+bulk	EX_cpd11583_e0	0.0	-0.08403451734606117	
+bulk	EX_cpd01242_e0	0.0	0.0	
+bulk	EX_cpd00254_e0	0.0	0.0	
+bulk	EX_cpd15603_e0	0.0	-0.21104123106233819	
+bulk	EX_cpd11576_e0	0.0	0.0	
+bulk	EX_cpd00098_e0	0.0	-0.024828380124974802	
+bulk	EX_cpd00971_e0	-6.027721135158774e-18	0.0	
+bulk	EX_cpd00023_e0	0.0	-0.1375110283844787	
+bulk	EX_cpd03424_e0	0.0	0.0	
+bulk	EX_cpd00205_e0	0.0	0.0	
+bulk	EX_cpd00034_e0	0.0	0.0	
+bulk	EX_cpd00009_e0	-0.05887471155329135	0.0	
+bulk	EX_cpd15606_e0	0.0	-0.366696075691944	
+bulk	EX_cpd00048_e0	-0.012623232797607596	0.0	
+bulk	EX_cpd00039_e0	0.0	-0.2310949227016943	
+bulk	EX_cpd00106_e0	0.0	-0.09549376971144477	
+bulk	EX_cpd00264_e0	0.0	-0.6063854376677231	
+bulk	EX_cpd01171_e0	0.0	0.0	
+bulk	EX_cpd00211_e0	0.0	0.0	
+bulk	EX_cpd00129_e0	-0.01102953	-0.17188878548061345	
+bulk	EX_cpd00119_e0	-0.0068175	-0.2072214802738182	
+bulk	EX_cpd01017_e0	0.0	-0.21104123106229303	
+bulk	EX_cpd11586_e0	0.0	-0.22154554573054713	
+bulk	EX_cpd00060_e0	0.0	-0.2587881159180209	
+bulk	EX_cpd00797_e0	0.0	-0.1317814022017912	
+bulk	EX_cpd00027_e0	-0.61972444	-0.18430297554308775	
+bulk	EX_cpd11589_e0	0.0	-0.13846596608159417	
+bulk	EX_cpd00082_e0	0.0	-0.1948072902113487	
+bulk	EX_cpd00130_e0	-0.03649016	-0.09549376971144476	
+bulk	EX_cpd01030_e0	0.0	0.0	
+bulk	EX_cpd15302_c0	0.0	0.0	
+bulk	EX_cpd00268_e0	0.0	-0.09549376971144145	
+bulk	EX_cpd00066_e0	0.0	-0.3370930070813987	
+bulk	EX_cpd11584_e0	0.0	-0.29698562380257293	
+bulk	EX_cpd00142_e0	0.0	0.0	
+bulk	EX_cpd00355_e0	0.0	0.0	
+bulk	EX_cpd15604_e0	0.0	-0.04297219637015304	
+bulk	EX_cpd00105_e0	0.0	0.0	
+bulk	EX_cpd00041_e0	0.0	-0.0897641435287579	
+bulk	EX_cpd00162_e0	0.0	-0.07448514037492523	
+bulk	EX_cpd11593_e0	0.0	-0.1795282870575126	
+bulk	EX_cpd00001_e0	3.459716742680121	0.0	
+bulk	EX_cpd00222_e0	0.0	-0.17188878548060194	
+bulk	EX_cpd01329_e0	0.0	0.0	
+bulk	EX_cpd00314_e0	0.0	0.0	
+bulk	EX_cpd00100_e0	0.0	-0.11077277286527644	
+bulk	EX_cpd00064_e0	-0.0068175	-0.15088015614406397	
+bulk	EX_cpd11587_e0	0.0	-0.2215455457305471	
+bulk	EX_cpd00322_e0	-0.012685229624080254	-3.25453698335946e-17	
+bulk	EX_cpd00013_e0	-0.44495006828842	0.0	
+bulk	EX_cpd01080_e0	0.0	0.0	
+bulk	EX_cpd00107_e0	-0.025489569385475724	-1.0883079345063726e-16	
+bulk	EX_cpd00226_e0	0.0	-0.144195592264283	
+bulk	EX_cpd00036_e0	-0.0056245	-0.10313327128836002	
+bulk	EX_cpd10515_e0	0.0	0.0	
+bulk	EX_cpd00099_e0	0.0	0.0	
+bulk	EX_cpd11592_e0	0.0	-0.18048322475462875	
+bulk	EX_cpd00276_e0	0.0	-0.19194247712000279	
+bulk	EX_cpd00012_e0	0.0	0.0	
+bulk	EX_cpd11580_e0	0.0	-0.18048322475462872	
+bulk	EX_cpd11581_e0	0.0	-0.15374496923542447	
+bulk	EX_cpd01012_e0	0.0	0.0	
+bulk	EX_cpd01262_e0	0.0	0.0	
+bulk	EX_cpd00307_e0	0.0	-0.27884180755741617	
+bulk	EX_cpd00159_e0	0.0	-0.08785426813452898	
+bulk	EX_cpd01914_e0	0.0	-0.2454189881584244	
+bulk	EX_cpd00531_e0	0.0	0.0	
+bulk	EX_cpd00051_e0	-0.0068175	-0.17379866087481852	
+bulk	EX_cpd00214_e0	0.0	0.0	
+bulk	EX_cpd11585_e0	0.0	-0.1308264645046759	
+bulk	EX_cpd00122_e0	0.0	-0.24732886355264005	
+bulk	EX_cpd00635_e0	0.0	0.0	
+bulk	EX_cpd00065_e0	0.0	-0.40966827206209494	
+bulk	EX_cpd00209_e0	0.0	0.0	
+bulk	EX_cpd11591_e0	0.0	-0.3074899384708591	
+bulk	EX_cpd00092_e0	0.0	-0.27884180755741605	
+bulk	EX_cpd00058_e0	0.0	0.0	
+bulk	EX_cpd04097_e0	0.0	0.0	
+bulk	EX_cpd00149_e0	0.0	0.0	
+bulk	EX_cpd00794_e0	0.0	0.0	
+bulk	EX_cpd00076_e0	0.0	0.0	
+bulk	EX_cpd00308_e0	0.0	-0.053476511038408434	
+bulk	EX_cpd00179_e0	0.0	-0.38388495424000557	
+bulk	EX_cpd15605_e0	0.0	-0.38006520345154876	
+bulk	EX_cpd00073_e0	0.0	0.0	
+bulk	EX_cpd00118_e0	0.0	-0.15088015614406397	
+bulk	EX_cpd00423_e0	0.0	0.0	
+bulk	EX_cpd11582_e0	0.0	-0.22154554573054636	
+bulk	EX_cpd03847_e0	0.0	-0.5844218706340277	
+bulk	EX_cpd00637_e0	0.0	0.0	
+bulk	EX_cpd11588_e0	0.0	-0.21486098185076352	
+bulk	EX_cpd03696_e0	0.0	0.0	
+bulk	EX_cpd00528_c0	0.0	-0.0076395015769145785	
+bulk	EX_cpd00069_e0	-0.0068175	-0.32372387932179403	
+bulk	EX_cpd00221_e0	0.0	-0.08785426813452905	
+bulk	EX_cpd10516_e0	0.0	0.0	
+bulk	EX_cpd00011_e0	2.183911370840437	0.0	
+bulk	EX_cpd00007_e0	-2.125748807473463	0.0	
+bulk	EX_cpd11416_c0	0.0	0.0	
+bulk	EX_cpd11606_e0	0.0	-0.05061169794707767	
+bulk	EX_cpd00063_e0	0.0	0.0	
+bulk	EX_cpd00793_e0	0.0	0.0	
+bulk	EX_cpd00393_e0	0.0	-0.6426730701580168	
+bulk	EX_cpd00030_e0	0.0	0.0	
+bulk	EX_cpd00141_e0	0.0	-0.08785426813452991	
+bulk	EX_cpd00029_e0	0.0	-0.05347651103840842	
+bulk	EX_cpd00137_e0	0.0	-0.13751102838447982	
+bulk	EX_cpd00139_e0	0.0	-0.040107383278806204	
+bulk	EX_cpd00024_e0	0.0	-0.12414190062487715	
+bulk	EX_cpd03561_e0	0.0	0.0	
+bulk	EX_cpd00047_e0	0.0	-0.012414190062490258	
+bulk	EX_cpd00386_e0	0.0	-0.08785426813452901	
+bulk	EX_cpd00067_e0	-15.0	-0.0019098753942288027	
+bulk	EX_cpd00067_c0	15.206593884285285	0.0	
+bulk	ADDitrate	0.0	-5.8876690591588976e-18	
+bulk	ADD_acetate	0.0	-0.0	
+bulk	ADD_propionate	0.0	0.0	
+bulk	ADD_2_Oxoglutarate	0.0	1.1771014795847007e-18	
+bulk	ADD_gluconate	0.0	1.3877787807814457e-17	
+bulk	ADD_formate	0.0	0.0	
+bulk	ADD_D_Malate	0.0	-3.010093479242728e-18	
+bulk	rxn00160	0.0	2.0816681711721685e-17	
+bulk	rxn00741	0.0	1.3877787807814457e-17	
+bulk	R00993	1.0288038817011769e-32	-1.457167719820518e-15	
+bulk	ADD_ex-2-hydrobut	0.0	0.11077277286527817	
+bulk	EX_cpd20885_e0	0.0	-0.3762454526630906	
+bulk	ADD_Tur2	0.0	1.431146867680866e-17	
+bulk	ADD_Tur3	0.0	-2.7755575615628914e-17	
+bulk	EX_cpd29840_e0	0.0	-0.38388495424000557	
+bulk	ADD_Melibiose2	0.0	0.0	
+bulk	ADD_Melibiose3	0.0	1.3877787807814457e-17	R01101
+bulk	EX_cpd26818_e0	0.0	-0.19194247712000279	
+bulk	ADD_Galactose2	0.0	-1.3877787807814457e-17	
+bulk	ADD_Galactose3	0.0	0.0	R10619
+bulk	rxn15121	0.0	-2.7755575615628914e-17	R01092
+bulk	rxn00355	0.0	0.0	R00502
+bulk	rxn01484	0.0	-2.7755575615628914e-17	R02059
+bulk	rxn00552	0.0	0.0	R00765
+bulk	EX_cpd00492_e0	0.0	-0.2473288635526401	
+bulk	ADD_ManNAc2	0.0	0.0	
+bulk	rxn01951	0.0	0.0	R02705
+bulk	rxn01506	0.0	-0.0	R02087
+bulk	EX_cpd00750_e0	0.0	-0.1928974148171173	
+bulk	ADD_D_Fuc2	0.0	-1.3877787807814457e-17	
+bulk	ADD_D_Fuc3	0.0	1.3877787807814457e-17	
+bulk	ADD_D_Fuc4	0.0	0.0	
+bulk	rxn02608	0.0	0.0	R03671
+bulk	rxn02210	0.0	2.0816681711721685e-17	R03081
+bulk	ADD_D_Fuc7	0.0	8.458957354527768e-18	R01735
+bulk	EX_cpd00751_e0	0.0	-0.20053691639403373	
+bulk	ADD_L_Fuc2	0.0	0.0	
+bulk	rxn02263	0.0	0.0	R03163
+bulk	rxn02319	0.0	-1.3877787807814457e-17	R03241
+bulk	rxn01620	0.0	0.0	R02262
+bulk	EX_cpd01307_e0	0.0	-0.17379866087482815	
+bulk	ADD_D_Ara2	0.0	0.0	
+bulk	rxn03883	0.0	0.0	R05604
+bulk	EX_cpd00121_e0	0.0	-0.18716778863442987	
+bulk	ADD_L_Ino2	0.0	0.0	
+bulk	rxn00879	0.0	-5.5253678065482924e-17	R01183
+bulk	rxn02007	0.0	-1.3877787807814457e-17	R02782
+bulk	rxn12147	0.0	0.0	R08603
+bulk	rxn12146	0.0	0.0	R08503
+bulk	rxn03932	0.0	0.0	R05661
+bulk	rxn01176	0.0	-6.938893903907228e-18	R05378
+bulk	EX_cpd00550_e0	0.0	-0.07639501576915639	
+bulk	ADD_D_Ser2	0.0	-6.938893903907228e-18	
+bulk	rxn00166	0.0	0.0	R00221
+bulk	EX_cpd01293_e0	0.0	-0.1317814022017924	
+bulk	ADD_5oxpro2	0.0	0.0	
+bulk	ADD_5oxpro3	0.0	0.0	R00251
+bulk	EX_cpd02143_e0	0.0	-0.17379866087483076	
+bulk	ADD_D_Gal14_lac2	0.0	-1.3877787807814457e-17	
+bulk	rxn02174	0.0	0.0	R03034
+bulk	rxn02173	0.0	0.0	R03033
+bulk	rxn40366	0.0	0.0	R10616
+bulk	EX_cpd00281_e0	0.0	-0.13178140220177928	
+bulk	ADD_GABA2	0.0	0.0	
+bulk	ADD_GABA3	0.0038143691783528813	6.286637876939949e-15	R00713
+bulk	rxn14077	0.0038143691783528813	0.0	R08714
+bulk	EX_cpd05262_e0	0.0	-0.15279003153830956	
+bulk	ADD_GALA2	0.0	-1.3877787807814457e-17	
+bulk	rxn47419	0.0	1.3877787807814457e-17	R10841
+bulk	rxn41414	0.0	0.0	R10846
+bulk	rxn46941	0.0	0.0	R10847
+bulk	rxn01634	0.0	-0.0	R02279
+bulk	ADD_GALA7	0.0	0.0	R00264
+bulk	EX_cpd00164_e0	0.0	-0.1604295331152253	
+bulk	ADD_D_Glucopyranuronate2	0.0	0.0	
+bulk	ADD_D_Glucopyranuronate3	0.0	0.0	
+bulk	ADD_D_Glucopyranuronate4	0.0	0.0	R01481
+bulk	rxn01913	0.0	0.0	R02640
+bulk	rxn01393	0.0	0.0	R01905
+bulk	rxn01392	0.0	0.0	R01904
+bulk	rxn01385	0.0	1.824160244986233e-17	R01896
+bulk	EX_cpd00072_e0	0.0	-0.20531160487960526	
+bulk	ADD_transport_cpd00072	0.0	0.0	
+bulk	EX_cpd00117_e0	0.0	-0.08785426813452588	
+bulk	ADD_transport_cpd00117	0.0	0.0	
+bulk	EX_cpd00246_e0	0.0	-0.3141745023506525	
+bulk	ADD_Inosine2	0.0	-2.7755575615628914e-17	
+bulk	rxn01358	0.0	-1.5631883706742012e-17	
+bulk	rxn00778	0.0	1.094231859471941e-15	
+bulk	EX_cpd00035_e0	-0.02780553	-0.08976414352875468	
+bulk	ADD_cpd00035	0.02780553	0.0	
+bulk	EX_cpd00132_e0	0.0	-0.11268264825950326	
+bulk	ADD_cpd00132	0.0	0.0	
