@@ -1,0 +1,1421 @@
+condition	reaction_id	flux	reduced_cost	reaction_name
+rhizosphere	rxn08094	0.5487441825091107	5.551115123125783e-17	2-Oxogluterate dehydrogenase
+rhizosphere	rxn01637	0.0	-0.013899119376700554	N2-Acetyl-L-ornithine:2-oxoglutarate aminotransferase
+rhizosphere	rxn01644	0.018341001605059012	6.938893903907228e-18	L-Aspartate-4-semialdehyde hydro-lyase (adding pyruvate)
+rhizosphere	rxn02928	0.018341001605059012	2.7755575615628914e-17	2,3,4,5-Tetrahydrodipicolinate:NAD+ oxidoreductase
+rhizosphere	rxn01652	0.0	-0.006949559688363756	S-Aminomethyldihydrolipoylprotein:(6S)-tetrahydrofolate
+rhizosphere	rxn00684	0.0	3.875481659557052e-16	5,6,7,8-Tetrahydrofolate:NAD+ oxidoreductase
+rhizosphere	rxn05782	1.8858554767272903e-05	0.0	Phosphoprotein phosphohydrolase
+rhizosphere	rxn00979	1.8858554767272903e-05	3.469446951953614e-17	glycolaldehyde:NAD+ oxidoreductase
+rhizosphere	rxn08653	0.0	-0.0	glycolate transport via diffusion (extracellular to periplasm)
+rhizosphere	rxn00127	0.0003763254202439717	-5.551115123125783e-17	
+rhizosphere	EX_cpd02791_c0	0.0003763254202439717	0.0	
+rhizosphere	ADD_12dia	0.0	0.0	
+rhizosphere	ADD_TPP1	0.0	0.0	
+rhizosphere	rxn02484	0.0	-0.012161729454636682	
+rhizosphere	ADD_TPP3	0.0	0.0	
+rhizosphere	ADD_TPP4	0.0	0.0	
+rhizosphere	rxn42709	0.0	-0.26408326815782557	
+rhizosphere	EX_cpd01042_c0	0.0	0.0	
+rhizosphere	EX_cpd03091_c0	0.0	-0.30664932124905553	
+rhizosphere	ADD_TPP8	0.09431927994506989	0.0	
+rhizosphere	rxn05147	0.04098397	2.7755575615628914e-17	D-Glucose-ABC transport
+rhizosphere	rxn00154	0.6519412408256909	1.3877787807814457e-17	pyruvate:NAD+ 2-oxidoreductase (CoA-acetylating)
+rhizosphere	rxn25164	0.0	-2.225903115321757e-16	succinyl-CoA:acetate CoA-transferase
+rhizosphere	rxn01258	0.011910435463170617	2.7755575615628914e-17	Chorismate hydroxymutase
+rhizosphere	rxn10880	0.004150150561454587	4.85722573273506e-17	Phosphatidylserine syntase
+rhizosphere	rxn10859	0.005363694332353687	0.0	CDP-Diacylglycerol synthetase (Saureus)
+rhizosphere	PA_syn	0.00010727388664707373	-2.842170943040401e-14	
+rhizosphere	rxn05334	0.006650980972118572	0.0	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase
+rhizosphere	rxn05330	0.00665098097211857	0.0	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase
+rhizosphere	rxn05329	0.006650980972118571	1.3877787807814457e-17	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase
+rhizosphere	rxn05333	0.0006436433198824424	2.7755575615628914e-17	(3R)-3-Hydroxybutanoyl-[acyl-carrier-protein] hydro-lyase
+rhizosphere	Cis9_hex_syn	0.005256420445706613	-2.220446049250313e-16	
+rhizosphere	Cis11_oct_syn	0.0018236560730002535	-1.1102230246251565e-16	
+rhizosphere	rxn05332	0.003110942712765138	0.0	(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein] hydro-lyase
+rhizosphere	rxn08392	0.003110942712765138	-5.551115123125783e-17	enoyl-[acyl-carrier-protein] reductase (NADH) (n-C16:0)
+rhizosphere	rxn09542	0.0	0.0	phosphatidylglycerol phosphate phosphatase A, yeast-specific, mitochondrial
+rhizosphere	rxn10875	2.4270875417981994e-05	0.0	Phosphatidylglycerol synthase (Saureus)
+rhizosphere	Car_syn	9.133291098055944e-06	-1.4654943925052066e-14	
+rhizosphere	rxn10879	8.118480976049726e-05	0.0	Phosphatidylserine decarboxylase (Saureus)
+rhizosphere	rxn00642	0.0	0.0	GDPmannose 4,6-hydro-lyase
+rhizosphere	rxn02440	0.0	4.0292292614941715e-17	GDP-6-deoxy-D-mannose:NAD+ 4-oxidoreductase
+rhizosphere	rxn01893	0.0	0.0	2-oxopent-4-enoate hydratase
+rhizosphere	rxn00849	0.00011670316403071484	-6.938893903907228e-18	D-Alanine:2-oxoglutarate aminotransferase
+rhizosphere	rxn00499	0.0	-1.4824926763909202e-17	(R)-Lactate:NAD+ oxidoreductase
+rhizosphere	R00093	1.6602178460750838	-4.85722573273506e-17	L-glutamate:NAD+ oxidoreductase (transaminating)
+rhizosphere	rxn05026	0.0	-0.013899119376727706	alpha,alpha-trehalose:phosphate alpha-D-glucosyltransferase
+rhizosphere	R00029	0.0	-0.1841633317416431	Thiosulfate:ferricytochrome-c oxidoreductase
+rhizosphere	rxn01827	0.0	-0.09468775075395766	4-Hydroxyphenylpyruvate:oxygen oxidoreductase
+rhizosphere	rxn01825	0.0	0.0	Homogentisate:oxygen 1,2-oxidoreductase (decyclizing)
+rhizosphere	rxn02276	0.0	0.0	4-Maleylacetoacetate cis-trans-isomerase
+rhizosphere	rxn00993	0.0	6.938893903907228e-18	4-Fumarylacetoacetate fumarylhydrola
+rhizosphere	rxn00560	0.0	-0.006949559688363872	Urea:carbon-dioxide ligase (ADP-forming)
+rhizosphere	rxn00120	0.0	-0.006949559688363853	UTP diphosphohydrolase
+rhizosphere	R00274	0.0	-0.012161729454636803	Glutathione:hydrogen-peroxide oxidoreductase
+rhizosphere	rxn00908	0.0019445491965787893	0.0	glycine synthase
+rhizosphere	R01668	0.0	-0.013899119376727744	dCTP nucleotidohydrolase
+rhizosphere	rxn00383	0.0	-0.0330104085197285	Sulfite:oxygen oxidoreductase
+rhizosphere	rxn14250	0.0	-1.1275702593849246e-17	ethylnitronate:oxygen 2-oxidoreductase (nitrite-forming)
+rhizosphere	R00022	0.0	0.0	Hexosaminidase
+rhizosphere	rxn13990	0.0	2.7755575615628914e-17	ATP:N-acetyl-D-glucosamine 1-phosphotransferase
+rhizosphere	R00103	0.0	-0.3770136130937378	NAD+ phosphohydrolase
+rhizosphere	rxn00191	0.0	-2.758540831384832e-14	L-Alanine:2-oxoglutarate aminotransferase
+rhizosphere	rxn00342	0.0	-0.013899119376727746	L-Asparagine amidohydrolase
+rhizosphere	rxn00962	0.0	-0.23889111428750692	4-hydroxybenzoate,NADH:oxygen oxidoreductase (3-hydroxylating)
+rhizosphere	rxn00965	0.0	0.0	4-Hydroxybenzoyl-CoA hydrolase
+rhizosphere	rxn04786	0.0	-0.11293034493591246	L-2,4-diaminobutyrate:2-oxoglutarate 4-aminotransferase
+rhizosphere	rxn04787	0.0	-0.05733386742900155	L-2,4-diaminobutyrate acetyltransferase
+rhizosphere	rxn04788	0.0	0.0	Ectoine hydro-lyase
+rhizosphere	rxn07840	0.0	1.3877787807814457e-17	ectoine hydroxylase(ectD)
+rhizosphere	rxn22447	0.0	0.0	N2O reductase(nosZ)
+rhizosphere	R11337	0.0	0.0	2-oxoglutarate reductase(serA)
+rhizosphere	rxn00738	0.0	-0.0	1-Aminocyclopropane-1-carboxylate (ACC) deaminase
+rhizosphere	biomass0	0.042283755083592334	-5.620504062164855e-16	
+rhizosphere	biomass1	4.228375508359233e-06	8.185452315956354e-12	
+rhizosphere	rxn12008	0.0	0.0	rxn12008
+rhizosphere	rxn00541	0.0	-0.006080864727318848	L-Threonine acetaldehyde-lyase
+rhizosphere	rxn00225	-0.5555263704467701	-0.0	ATP:acetate phosphotransferase
+rhizosphere	rxn01199	0.0	-3.204413145069831e-17	ATP:D-xylulose 5-phosphotransferase
+rhizosphere	rxn10215	0.0	0.0	anteisoheptadecanoyl-1-acylglycerol-3-phosphate O-acyltransferase
+rhizosphere	rxn02483	0.0	0.0	4-Carboxymuconolactone carboxy-lyase
+rhizosphere	rxn00802	-0.004370385634885327	1.973520133334491e-17	N-(L-Argininosuccinate) arginie-lyase
+rhizosphere	rxn03638	0.00029268815268862616	-2.7755575615628914e-17	Acetyl-CoA:D-glucosamine-1-phosphate N-acetyltransferase
+rhizosphere	rxn08851	0.0	-9.922756552082617e-18	Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C18:1)
+rhizosphere	rxn06078	0.0	-1.3877787807814457e-17	O-Acetyl-L-homoserine acetate-lyase (adding methanethiol)
+rhizosphere	rxn00868	0.0	5.551115123125783e-17	Butanoyl-CoA:(acceptor) 2,3-oxidoreductase
+rhizosphere	rxn01675	2.9640912313598223e-05	0.0	dTTP:alpha-D-glucose-1-phosphate thymidylyltransferase
+rhizosphere	rxn12636	0.0	0.0	aminopeptidase
+rhizosphere	rxn12644	0.0	-0.0	aminopeptidase
+rhizosphere	rxn05536	0.0	0.0	Dipeptide transport via ABC system (met-ala)
+rhizosphere	rxn10855	0.0	-0.0	citrate-Mg transport in via proton symport
+rhizosphere	rxn08800	0.0	0.0	Lysophospholipase L1 (2-acylglycerophosphotidate, n-C16:1) (periplasm)
+rhizosphere	rxn06729	5.928182462719645e-05	-5.551115123125783e-17	(R)-3-Hydroxytetradecanoly-[acyl-carrier-protein]:UDP-N-acetyl-
+rhizosphere	rxn01387	0.5645669332699279	0.0	Isocitrate:NADP+ oxidoreductase (decarboxylating)
+rhizosphere	rxn08823	0.0	6.86358248408236e-18	Lysophospholipase L2 (2-acylglycerophosphotidate, n-C18:1)
+rhizosphere	rxn05168	0.0	-0.005212169766272935	L-Valine-ABC transport
+rhizosphere	rxn05544	0.0	-8.673617379884035e-18	Dipeptide transport via ABC system (ala-leu)
+rhizosphere	rxn03061	0.0	-0.0	(2S,3R)-3-Hydroxybutane-1,2,3-tricarboxylate hydro-lyase
+rhizosphere	rxn05549	0.0	-0.006949559688363882	Deoxyribose transport via ABC system
+rhizosphere	rxn03910	0.0	-0.0	2-Phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol
+rhizosphere	rxn05616	0.0	0.0	magnesium transport in/out via permease (no H+)
+rhizosphere	rxn02345	0.0	0.0	(S)-3-Hydroxybutanoyl-CoA 3-epimerase
+rhizosphere	rxn01134	0.0	3.4601014523352066e-17	Maltose alpha-D-glucosylmutase
+rhizosphere	rxn08527	1.8858554767272903e-05	7.956572291386774e-18	fumarate reductase
+rhizosphere	rxn12848	0.0	0.0	Gly-Cys ABC transporters
+rhizosphere	rxn02212	0.014212616792451883	1.3877787807814457e-17	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate phosphate-lyase
+rhizosphere	rxn03419	0.0	-0.0	Formamidopyrimidine nucleoside triphosphate 7,8-8,9-dihydrolase
+rhizosphere	rxn05408	0.0	-7.274215544252635e-17	2-methylpropionyl-CoA:[acyl-carrier-protein] transferase
+rhizosphere	rxn02160	0.0010628944871208875	-1.3877787807814457e-17	L-Histidinol-phosphate phosphohydrolase
+rhizosphere	rxn10125	0.0	-0.0034747798441815162	NAD(P) transhydrogenase
+rhizosphere	rxn05614	0.0	-0.006949559688363882	L-methionine R-oxide transport via ABC system
+rhizosphere	rxn03052	0.0	0.0	5-Methyltetrahydropteroyltri-L-glutamate:L-homocysteine
+rhizosphere	rxn09692	0.0	8.410955798798425e-19	choline transport via proton symport
+rhizosphere	rxn00883	0.0	5.204170427930421e-18	1D-myo-Inositol 3-phosphate phosphahydrolase
+rhizosphere	rxn01923	0.0	0.0	2-Methylpropanoyl-CoA:oxygen 2,3-oxidoreductase
+rhizosphere	rxn05734	0.0	0.0	aldehyde dehydrogenase (glyoxylate, NAD)
+rhizosphere	rxn01302	0.0	3.2813494783987546e-16	L-Homoserine:NADP+ oxidoreductase
+rhizosphere	rxn05422	0.0	-0.0	10-methyl-3-oxo-undecanoyl-ACP:NADP+ oxidoreductase
+rhizosphere	rxn05448	0.0	0.0	10-methyl-trans-undec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+rhizosphere	rxn00048	4.228375508353705e-07	0.0	6,7-Dimethyl-8-(1-D-ribityl)lumazine:6,7-dimethyl-8-(1-D-ribityl)
+rhizosphere	rxn03164	0.00011670316403071486	-6.418476861114186e-17	UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-
+rhizosphere	rxn05298	0.0	-3.195121176315841e-17	GLUt4i
+rhizosphere	rxn05229	0.01774945187144367	2.7755575615628914e-17	NCAIR synthetase and NCAIR mutase
+rhizosphere	rxn12637	0.0	0.0	aminopeptidase
+rhizosphere	rxn09104	0.0	0.0	phosphatidylglycerol phosphate phosphatase (n-C16:0)
+rhizosphere	rxn01416	0.0	-6.362851828030612e-18	thiosulfate:cyanide sulfurtranserase
+rhizosphere	rxn10011	0.00425425316647039	1.1102230246251565e-16	acyl-CoA dehydrogenase (octanoyl-CoA)
+rhizosphere	rxn08807	0.0	0.0	Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C16:1) (periplasm)
+rhizosphere	rxn08297	0.0	-0.0	diacylglycerol kinase (n-C16:0)
+rhizosphere	rxn00902	0.015065167175777517	-5.551115123125783e-17	3-Carboxy-3-hydroxy-4-methylpentanoate 3-methyl-2-oxobutanoate-lyase
+rhizosphere	rxn03852	0.0	-0.0	UDP-N-acetyl-D-mannosamine:N-acetyl-beta-D-
+rhizosphere	rxn00952	0.005281241009940683	-1.3877787807814457e-17	O-Acetyl-L-homoserine acetate-lyase (adding methanethiol)
+rhizosphere	rxn08809	0.0	9.922756552082617e-18	Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C18:1) (periplasm)
+rhizosphere	rxn00503	0.0	-0.006949559688364058	L-1-Pyrroline-5-carboxylate:NAD+ oxidoreductase
+rhizosphere	rxn10266	0.0	1.0234868508263162e-16	anteisoheptadecanoyl-Phosphatidylglycerophosphate phosphohydrolase
+rhizosphere	rxn03909	0.0	-6.938893903907228e-18	1-Deoxy-D-xylulose-5-phosphate pyruvate-lyase (carboxylating)
+rhizosphere	rxn05187	0.0	-0.006949559688363882	Vitamin ABC transport
+rhizosphere	rxn05328	0.0	-0.6202482021864697	Hexadecanoyl-[acyl-carrier protein]:malonyl-CoA
+rhizosphere	rxn02853	0.0	-3.122502256758253e-17	Imidazole acetaldehyde:NAD+ oxidoreductase
+rhizosphere	rxn10230	0.0	-1.734723475976807e-16	anteisopentadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase
+rhizosphere	rxn00999	0.0	-0.2962249817165082	Phenylpyruvate:oxygen oxidoreductase (hydroxylating,decarboxylating)
+rhizosphere	rxn02056	0.0	0.0	S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase
+rhizosphere	rxn05372	0.0	0.0	10-methyl-3-oxo-dodecanoyl-ACP:NADP+ oxidoreductase
+rhizosphere	rxn00459	-0.08214645287305528	-0.0	2-Phospho-D-glycerate hydro-lyase
+rhizosphere	rxn00405	0.0	-0.020848679065091632	L-Arginine carboxy-lyase
+rhizosphere	rxn02949	0.0	0.0	(S)-3-Hydroxyisobutyryl-CoA hydro-lyase
+rhizosphere	rxn05031	0.0	0.0	prephytoene diphosphate:geranylgeranyl-diphosphate
+rhizosphere	rxn10225	0.0	-1.984309618398889e-16	isohexadecanoyl-phosphatidate cytidylyltransferase
+rhizosphere	rxn10259	0.0	-2.4803870229986114e-17	isoheptadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase
+rhizosphere	rxn00929	-0.022875511500223454	-5.5253678065482924e-17	L-Proline:NAD+ 5-oxidoreductase
+rhizosphere	rxn08311	0.0	0.0	CDP-diacylglycerol synthetase (n-C18:0)
+rhizosphere	rxn01492	0.0	0.0	ATP:D-fructose-1-phosphate 6-phosphotransferase
+rhizosphere	rxn01101	0.06304368733351665	5.404904253298565e-18	3-Phospho-D-glycerate:NAD+ 2-oxidoreductase
+rhizosphere	rxn08844	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C18:1)
+rhizosphere	rxn00358	0.0	-0.0	UDP-D-galactopyranose furanomutase
+rhizosphere	rxn00302	0.0	0.0	GTP 7,8-8,9-dihydrolase
+rhizosphere	rxn05315	0.0	-0.0	ZN2t4
+rhizosphere	rxn05145	0.0	-0.0017373899220910873	Orthophosphate-ABC transport
+rhizosphere	rxn05341	-0.006650980972118571	1.248949513682625e-16	(3R)-3-Hydroxyoctanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase
+rhizosphere	rxn02944	0.0	0.0	N2-succinyl-L-ornithine:2-oxoglutarate 5-aminotransferase
+rhizosphere	rxn02331	8.892273694079467e-05	0.0	2-Dehydro-3-deoxy-D-octonate-8-phosphate
+rhizosphere	rxn02988	0.00011543465137940805	-6.938893903907228e-18	quinolinate synthase
+rhizosphere	rxn05460	0.0	1.3877787807814457e-17	3-Oxooctodecanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+rhizosphere	rxn04139	0.0	-1.1102230246251565e-16	2-Octaprenyl-3-methyl-6-methoxy-1,4-benzoquinone ,NADPH2:oxygen
+rhizosphere	rxn00290	0.0	3.4244663312642425e-17	Succinyl-CoA:3-oxo-acid CoA-transferase
+rhizosphere	rxn10199	0.00011670316403071483	0.0	Peptidoglycan subunit synthesis
+rhizosphere	rxn03241	0.003140583625078735	0.0	(S)-3-Hydroxytetradecanoyl-CoA hydro-lyase
+rhizosphere	rxn09200	0.0	0.0	Phosphatidylserine decarboxylase (n-C16:0)
+rhizosphere	rxn01573	0.0	-1.9338787322919024e-16	L-Isoleucine:NAD+ oxidoreductase(deaminating)
+rhizosphere	rxn02937	0.017749451871443674	5.137563038435334e-16	2-(Formamido)-N1-(5-phosphoribosyl)acetamidine cyclo-ligase
+rhizosphere	rxn00640	0.0	3.73355928756547e-17	GDP:D-mannose-1-phosphate guanylyltransferase
+rhizosphere	rxn00649	0.0036811814338224657	4.163336342344337e-17	O3-Acetyl-L-serine acetate-lyase (adding hydrogen sulfide)
+rhizosphere	rxn10806	0.0	-0.0034747798441817786	cytochrome oxidase bd (menaquinol-8: 2 protons)
+rhizosphere	rxn12851	0.0	0.0	Gly-Try ABC transporters
+rhizosphere	rxn05153	0.0	-0.005212169766272935	Sulfate-ABC transport
+rhizosphere	rxn05346	0.00665098097211857	-1.3877787807814457e-17	butyryl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein]
+rhizosphere	rxn01654	0.0	0.0	5-Formiminotetrahydrofolate ammonia-lyase (cyclizing)
+rhizosphere	rxn00671	0.0	-1.454843108850527e-16	2-Methyl-3-oxopropanoate:NAD+ oxidoreductase (CoA-propanoylating)
+rhizosphere	rxn00558	0.0	-3.0700304765308734e-17	D-Glucose-6-phosphate ketol-isomerase
+rhizosphere	rxn01406	0.0003763254202439717	2.7755575615628914e-17	S-Adenosylmethioninamine:putrescine 3-aminopropyltransferase
+rhizosphere	rxn10340	0.0	-0.0	isopentadecanoyl-cardiolipin synthase
+rhizosphere	rxn10122	2.803930982292208	0.0	NADH dehydrogenase (ubiquinone-8 & 3.5 protons)
+rhizosphere	rxn10113	0.0	-0.003474779844181872	cytochrome oxidase bo3 (ubiquinol-8: 2.5 protons)
+rhizosphere	rxn06106	3.4989585465302615	0.0	Ubiquinol:ferricytochrome-c oxidoreductase
+rhizosphere	rxn10043	3.4989585465302624	-4.336808689942018e-19	cytochrome-c oxidase (H+/e- = 2)
+rhizosphere	rxn10042	9.079444353539332	6.418476861114186e-17	ATP synthase (four protons for one ATP)
+rhizosphere	rxn00187	0.0	-0.006949559688363884	L-Glutamate:ammonia ligase (ADP-forming)
+rhizosphere	rxn05305	0.0	0.0	LYSt3r
+rhizosphere	rxn00737	0.007143749832805166	0.0	L-threonine ammonia-lyase
+rhizosphere	rxn01200	0.009727391823329531	5.994534142878783e-18	Sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate
+rhizosphere	rxn05232	0.0007670273172163648	2.7755575615628914e-17	Ribonucleotide reductase: ATP
+rhizosphere	rxn03841	1.8858554767272906e-05	0.0	4-amino-4-deoxychorismate pyruvate-lyase
+rhizosphere	rxn00193	0.0	2.756842987839755e-14	L-Glutamate racemase
+rhizosphere	rxn05561	0.0	2.615564840694368e-18	fumarate transport in/out via proton symport
+rhizosphere	rxn01834	0.0	-0.0	(R)-S-Lactoylglutathione methylglyoxal-lyase (isomerizing)
+rhizosphere	rxn00327	0.0	0.0	Ureidoglycolate amidohydrolase (decarboxylating)
+rhizosphere	rxn01073	0.0	0.0	sn-Glycero-3-phosphoethanolamine glycerophosphohydrolase
+rhizosphere	rxn05175	0.0	5.551115123125783e-17	Spermidine-ABC transport
+rhizosphere	rxn02971	0.0	0.0	2-Oxo-2,5-dihydrofuran-5-acetate delta3-delat2-isomerase
+rhizosphere	rxn08294	0.0	-0.0	diacylglycerol kinase (n-C12:0)
+rhizosphere	rxn00604	0.03419721589030801	0.0	D-Glucose-6-phosphate:NADP+ 1-oxoreductase
+rhizosphere	rxn12844	0.0	0.0	Gly-Cys aminopeptidase
+rhizosphere	rxn01678	0.0	-0.0	ATP:nucleoside-diphosphate phosphatransferase
+rhizosphere	rxn08814	0.0	0.0	Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C16:1) (periplasm)
+rhizosphere	rxn01332	0.014212616792451883	-2.7755575615628914e-17	Phosphoenolpyruvate:D-erythrose-4-phosphate
+rhizosphere	rxn01858	0.0	2.7755575615628914e-17	Deoxyadenosine aminohydrolase
+rhizosphere	rxn08657	0.0	2.3075945232098224e-17	Glycolate oxidase
+rhizosphere	rxn08816	0.0	-9.922756552082617e-18	Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C18:1) (periplasm)
+rhizosphere	rxn09103	0.0	0.0	phosphatidylglycerol phosphate phosphatase (n-C14:1)
+rhizosphere	rxn09208	0.0	-2.0816681711721685e-17	Phosphatidylserine syntase (n-C16:0)
+rhizosphere	rxn05567	0.0	-0.0	Galactitol transport via PEP:Pyr PTS
+rhizosphere	rxn10060	0.0	0.0	NAD kinase (dTTP)
+rhizosphere	rxn05683	0.0	-0.0	butanoate transport in via proton symport
+rhizosphere	rxn06377	0.0	-1.1856573201048437e-16	glycine:lipoylprotein oxidoreductase (decarboxylating and
+rhizosphere	rxn00206	0.0	0.0	Superoxide:superoxide oxidoreductase
+rhizosphere	rxn07295	0.0	0.0	glycine oxidase
+rhizosphere	rxn02933	0.0	-0.0	(2S,3S)-3-hydroxy-2-methylbutanoyl-CoA:NAD+ oxidoreductase
+rhizosphere	rxn00100	2.4947415499337423e-06	0.0	ATP:dephospho-CoA 3'-phosphotransferase
+rhizosphere	rxn01018	0.013046229793491574	0.0	Carbamoyl-phosphate:L-aspartate carbamoyltransferase
+rhizosphere	rxn00806	0.0	2.8374284285967505e-17	L-Leucine:2-oxoglutarate aminotransferase
+rhizosphere	rxn02834	0.001062894487120887	0.0	Phosphoribosyl-ATP pyrophosphohydrolase
+rhizosphere	rxn10121	0.0	-0.014767814337773005	Nitrate reductase (Menaquinol-8)
+rhizosphere	rxn00656	-0.0025046676561198125	-0.0	L-Alanine:3-oxopropanoate aminotransferase
+rhizosphere	rxn01053	0.0	-8.458957354527768e-18	(S)-lactaldehyde:NAD+ oxidoreductase
+rhizosphere	rxn02341	2.4947415499337423e-06	0.0	N-[(R)-4'-Phosphopantothenoyl]-L-cysteine carboxy-lyase
+rhizosphere	rxn06022	0.0	-0.020848679065091733	[Acyl-carrier-protein] 4'-pantetheine-phosphohydrolase
+rhizosphere	rxn09310	0.0	-2.7755575615628914e-17	thiazole phosphate synthesis
+rhizosphere	rxn03175	0.001062894487120887	0.0	N-(5'-Phospho-D-ribosylformimino)-5-amino-1-
+rhizosphere	rxn10945	0.0	0.0017373899220909372	EX_pro_L_e
+rhizosphere	rxn10219	0.0	5.551115123125783e-17	isohexadecanoyl-1-acylglycerol-3-phosphate O-acyltransferase
+rhizosphere	rxn00786	0.0	0.0	D-Fructose-1,6-bisphosphate D-glyceraldehyde-3-phosphate-lyase
+rhizosphere	rxn00605	0.0	-0.0	UDPglucose:D-glucose-6-phosphate 1-alpha-D-glucosyltransferase
+rhizosphere	rxn00379	0.00896242244376315	-5.706802070820628e-19	ATP:sulfate adenylyltransferase
+rhizosphere	rxn08803	0.0	0.0	Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C12:0) (periplasm)
+rhizosphere	rxn00689	0.0	0.0	Tetrahydrofolate:L-glutamate gamma-ligase (ADP-forming)
+rhizosphere	rxn05164	0.00506825	-1.3877787807814457e-17	L-Histidine-ABC transport
+rhizosphere	rxn12640	0.0	-6.3706049650047425e-18	aminopeptidase
+rhizosphere	rxn10206	0.0	-3.469446951953614e-17	anteisoheptadecanoyl-glycerol-3-phosphate O-acyltransferase
+rhizosphere	rxn00567	0.0	-0.0	Ferrocytochrome-c:oxygen oxidoreductase
+rhizosphere	rxn05376	0.0	-7.296640979944932e-17	12-methyl-3-oxo-tetra-decanoyl-ACP:NADP+ oxidoreductase
+rhizosphere	rxn05342	-0.00011856364925439287	-0.0	(3R)-3-Hydroxytetradecanoyl-[acyl-carrier-protein]:NADP+
+rhizosphere	rxn06510	0.003140583625078735	0.0	Lauroyl-CoA:acetyl-CoA C-acyltransferase
+rhizosphere	rxn05596	0.0	-0.0017373899220909375	potassium transport out via proton antiport
+rhizosphere	rxn01489	0.0	1.734723475976807e-18	Geranylgeranyl-diphosphate:geranylgeranyl-diphosphate
+rhizosphere	rxn02866	0.0	-0.7427341916938834	3-Methylbutanoyl-CoA:(acceptor) 2,3-oxidoreductase
+rhizosphere	rxn05733	0.0	7.692750609453857e-17	cysteine synthase (Thiosulfate)
+rhizosphere	rxn05350	0.0066509809721185705	6.938893903907228e-18	hexanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein]
+rhizosphere	rxn00262	0.0	-0.01216172945463686	L-Aspartic acid:oxygen oxidoreductase (deaminating)
+rhizosphere	rxn02404	8.892273694079467e-05	0.0	3-Deoxy-D-manno-octulosonate-8-phosphate 8-phosphohydrolase
+rhizosphere	rxn10255	0.0	-0.0	isotetradecanoyl-Diacylglycerol kinase
+rhizosphere	rxn10114	0.0	-0.0026060848831364614	formate dehydrogenase (quinone-8: 2 protons)
+rhizosphere	rxn00704	-0.0067867541096919915	-0.0	alpha-D-Glucose 1-phosphate 1,6-phosphomutase
+rhizosphere	rxn00183	0.0	-0.006949559688364058	L-Glutamate 5-semialdehyde:NAD+ oxidoreductase
+rhizosphere	rxn04750	0.0	0.0	(S)-3-hydroxyacyl-CoA:NAD+ oxidoreductase
+rhizosphere	rxn02569	0.0	1.4109164910470052e-17	ATP:selenide, water phosphotransferase
+rhizosphere	rxn00710	0.013046229793491576	2.7755575615628914e-17	Orotidine-5'-phosphate carboxy-lyase
+rhizosphere	rxn05539	0.0	-8.673617379884035e-18	Dipeptide transport via ABC system (cgly)
+rhizosphere	rxn05437	0.0	-5.551115123125783e-17	12-methyl-trans-tetra-dec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+rhizosphere	rxn00717	0.0	0.0	Cytosine aminohydrolase
+rhizosphere	rxn08840	0.0	1.3877787807814457e-17	Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C14:1)
+rhizosphere	rxn05249	0.0	-5.551115123125783e-17	FACOAL150(ISO)
+rhizosphere	rxn02897	0.0	-0.0	Nicotinate-nucleotide:dimethylbenzimidazole
+rhizosphere	rxn09107	0.0	0.0	phosphatidylglycerol phosphate phosphatase (n-C18:1)
+rhizosphere	rxn03409	0.0	0.0	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-
+rhizosphere	rxn00330	0.0	-0.006949559688363798	L-Malate glyoxylate-lyase (CoA-acetylating)
+rhizosphere	rxn03916	0.00011856364925439289	1.9155107421645764e-17	D-glycero-D-manno-hepose 1-phosphate adenyltransferase
+rhizosphere	rxn04674	0.0	-5.551115123125783e-17	rxn04674
+rhizosphere	rxn01301	-0.0308607080591921	5.4689157973312567e-17	L-Homoserine:NAD+ oxidoreductase
+rhizosphere	rxn05396	0.0	-2.7755575615628914e-17	9-methyl-decanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+rhizosphere	rxn13782	0.0	0.0	Protein biosynthesis
+rhizosphere	rxn10334	0.0	-0.0	palmitoyl-cardiolipin synthase
+rhizosphere	rxn00910	-0.005290670287324322	4.2973251105314287e-17	5-methyltetrahydrofolate:NADP+ oxidoreductase
+rhizosphere	rxn03407	0.0	-0.0069495596883638825	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-
+rhizosphere	rxn02286	0.00011670316403071486	5.551115123125783e-17	UDP-N-acetylmuramate:L-alanine ligase (ADP-forming)
+rhizosphere	rxn03159	2.9640912313598217e-05	-1.1984575553009721e-16	UDP-2,3-bis(3-hydroxytetradecanoyl)-beta-D-glucosamine:2,3-bis-(3-
+rhizosphere	rxn05363	0.0	2.7755575615628914e-17	4-methyl-hexanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+rhizosphere	rxn01682	0.0	-0.0	(1S,2R)-1-C-(indol-3-yl)glycerol 3-phosphate
+rhizosphere	rxn02474	-4.228375508353704e-07	-4.0292292614941715e-17	5-amino-6-(5-phosphoribitylamino)uracil:NADP+ 1'-oxidoreductase
+rhizosphere	rxn05324	0.0	-5.551115123125783e-17	Dodecanoyl-[acyl-carrier protein]:malonyl-CoA
+rhizosphere	rxn01486	0.0	0.0	trans,trans-Farnesyl-diphosphate:isopentenyl-diphosphate
+rhizosphere	rxn05464	0.0	0.0	trans-Octodec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+rhizosphere	rxn08822	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphotidate, n-C18:0)
+rhizosphere	rxn05359	0.0	1.3877787807814457e-17	4-methyl-3-oxo-hexanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+rhizosphere	rxn00898	0.029448009052436233	0.0	2,3-Dihydroxy-3-methylbutanoate hydro-lyase
+rhizosphere	rxn10203	0.0	-0.013899119376727748	myristoyl-glycerol-3-phosphate O-acyltransferase
+rhizosphere	rxn01069	0.02557946704925142	-1.3877787807814457e-17	O-Phospho-L-homoserine phospho-lyase (adding water)
+rhizosphere	rxn05322	0.0066509809721185705	0.0	Butyryl-[acyl-carrier protein]:malonyl-CoA
+rhizosphere	rxn00117	0.013457481595434598	0.0	ATP:nucleoside-diphosphate phosphatransferase
+rhizosphere	rxn01997	2.9640912313598223e-05	0.0	dTDPglucose 4,6-hydro-lyase
+rhizosphere	rxn05458	0.0	-0.0	hexadecanoyl-ACP:[acyl-carrier-protein] transferase
+rhizosphere	rxn05453	0.0	0.0	13-methyl-tetra-decanoyl-ACP:[acyl-carrier-protein] transferase
+rhizosphere	rxn00555	0.00029268815268862616	0.0	L-Glutamine:D-fructose-6-phosphate aminotransferase (hexose
+rhizosphere	rxn05541	0.0	-8.673617379884035e-18	Dipeptide transport via ABC system (ala-glu)
+rhizosphere	rxn08298	0.0	-1.2591576593993421e-17	diacylglycerol kinase (n-C16:1)
+rhizosphere	rxn00260	-0.07604852803946437	-7.40216681051386e-17	L-Aspartate:2-oxoglutarate aminotransferase
+rhizosphere	rxn05219	0.0	1.9081958235744878e-17	L-Methionine ABC transport
+rhizosphere	rxn05337	-0.0066509809721185705	-0.0	(3R)-3-Hydroxyhexanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase
+rhizosphere	rxn03137	0.01881234635856456	-5.047061506512766e-17	10-Formyltetrahydrofolate:5'-phosphoribosyl-5-amino-4-
+rhizosphere	rxn05367	0.0	3.469446951953614e-17	6-methyl-octanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+rhizosphere	rxn00527	-0.003495968201535743	2.161961701319426e-17	L-Tyrosine:2-oxoglutarate aminotransferase
+rhizosphere	rxn08549	0.0	-0.6341473215631974	glycerol-3-phosphate acyltransferase (C16:0)
+rhizosphere	rxn08126	0.0	3.6482345332266124e-17	Amylomaltase (maltotriose)
+rhizosphere	rxn09111	0.0	2.5441693918313465e-17	Phosphatidylglycerol synthase (n-C16:0)
+rhizosphere	rxn09188	0.0	-3.0758280203366364e-17	Proline dehydrogenase
+rhizosphere	rxn08847	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C14:1)
+rhizosphere	rxn01974	0.01834100160505901	0.0	LL-2,6-Diaminoheptanedioate 2-epimerase
+rhizosphere	rxn03244	-0.00425425316647039	-0.0	(S)-Hydroxydecanoyl-CoA:NAD+ oxidoreductase
+rhizosphere	rxn01274	0.0	2.7755575615628914e-17	S-(2-Hydroxyacyl)glutathione hydrolase
+rhizosphere	rxn12645	0.0	-0.0	aminopeptidase
+rhizosphere	rxn00010	0.0	-0.005212169766273154	Glyoxylate carboxy-lyase (dimerizing)
+rhizosphere	rxn02008	0.00011670316403071484	0.0	UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase(ADP-forming)
+rhizosphere	rxn05385	0.0	0.0	5-methyl-3-oxo-hexanoyl-ACP:NADP+ oxidoreductase
+rhizosphere	rxn05443	0.0	-1.3877787807814457e-17	13-methyl-trans-tetra-dec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+rhizosphere	rxn02155	0.00011543465137940805	-2.2587572977541407e-16	ATP:nicotinamide-nucleotide adenylyltransferase
+rhizosphere	rxn00915	0.0	-1.3877787807814457e-17	GMP:pyrophosphate phosphoribosyltransferase
+rhizosphere	rxn00299	1.88585547672729e-05	0.0	GTP 7,8-8,9-dihydrolase
+rhizosphere	rxn00839	0.0	-0.0	ATP:nucleoside-diphosphate phosphatransferase
+rhizosphere	rxn00461	0.00011670316403071487	2.690296395936094e-17	Phosphoenolpyruvate:UDP-N-acetyl-D-glucosamine
+rhizosphere	rxn03395	0.0	0.0	2-octaprenyl-6-hydroxyphenol methylase
+rhizosphere	rxn08089	0.0	-0.4847317882633757	1-octadec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C18:1)
+rhizosphere	rxn05434	0.0	0.0	6-methyl-trans-oct-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+rhizosphere	rxn00283	0.00035010949209214457	0.0	L-Alanine racemase
+rhizosphere	rxn10212	0.0	-1.1102230246251565e-16	myristoyl-1-acylglycerol-3-phosphate O-acyltransferase
+rhizosphere	rxn10337	0.0	-0.0	isoheptadecanoyl-cardiolipin synthase
+rhizosphere	rxn10235	0.0	0.0	isopentadecanoyl-phosphatidylserine decarboxylase
+rhizosphere	rxn00137	0.008962422443763149	-2.7755575615628914e-17	Adenosine 3',5'-bisphosphate 3'(2')-phosphohydrolase
+rhizosphere	rxn08812	0.0	0.0	Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C14:1) (periplasm)
+rhizosphere	rxn05417	0.0	0.0	6-methyl-heptanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+rhizosphere	rxn01022	0.00037632542024397173	5.8730795435737e-18	5'-Methylthioadenosine:orthophosphate
+rhizosphere	rxn10221	0.0	0.0	anteisoheptadecanoyl-phosphatidate cytidylyltransferase
+rhizosphere	rxn09177	0.0	-6.488301287210655e-16	phosphopantothenate-cysteine ligase
+rhizosphere	rxn03437	0.007143749832805167	1.3877787807814457e-17	(R)-2,3-Dihydroxy-3-methylpentanoate hydro-lyase
+rhizosphere	rxn09199	0.0	0.0	Phosphatidylserine decarboxylase (n-C14:1)
+rhizosphere	rxn02320	-0.0010628944871208872	2.4673889368379535e-17	5-Amino-2-oxopentanoate:2-oxoglutarate aminotransferase
+rhizosphere	rxn00882	0.0	5.204170427930421e-18	myo-Inositol 4-phosphate phosphahydrolase
+rhizosphere	rxn10014	0.003140583625078735	0.0	acyl-CoA dehydrogenase (tetradecanoyl-CoA)
+rhizosphere	rxn10126	0.0	-0.005212169766272982	succinate dehyrdogenase
+rhizosphere	rxn12405	0.0	0.0	transport of (r)-3-hydroxybutanoate [extraorganism-cytosol](passive)
+rhizosphere	rxn08083	0.0	-2.7755575615628914e-17	1-tetradecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C12:0)
+rhizosphere	rxn08808	0.0	1.3877787807814457e-17	Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C18:0) (periplasm)
+rhizosphere	rxn02507	0.002283322774513985	-5.551115123125783e-17	1-(2-Carboxyphenylamino)-1-deoxy-D-ribulose-5-phosphate
+rhizosphere	rxn03901	0.00011670316403071486	-4.336808689942018e-19	Undecaprenyl-diphosphate phosphohydrolase
+rhizosphere	rxn03933	0.0	-2.4569797693904858e-17	UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+rhizosphere	rxn00669	0.0	3.149348543771589e-17	Propanoate:CoA ligase (ADP-forming)
+rhizosphere	rxn05297	0.028330200000000003	0.0	GLUt2
+rhizosphere	rxn05537	0.0	6.938893903907228e-18	Dipeptide transport via ABC system (gly-asp)
+rhizosphere	rxn10209	0.0	-5.551115123125783e-17	anteisopentadecanoyl-glycerol-3-phosphate O-acyltransferase
+rhizosphere	rxn09105	0.0	0.0	phosphatidylglycerol phosphate phosphatase (n-C16:1)
+rhizosphere	rxn01333	-0.009845955472583922	-5.994534142878782e-17	Sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate
+rhizosphere	rxn08806	0.0	2.1706029957680724e-18	Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C16:0) (periplasm)
+rhizosphere	rxn05560	0.0	0.0	D-fructose transport via PEP:Pyr PTS
+rhizosphere	rxn00714	0.0	0.0	P1,P4-Bis(5'-nucleosyl)-tetraphosphate nucleotidohydrolase
+rhizosphere	rxn08291	0.0	-2.7682452183029726e-14	D-Amino acid dehydrogenase
+rhizosphere	rxn06865	2.964091231359822e-05	-2.220446049250313e-16	Endotoxin Synthesis (lauroyl transferase)
+rhizosphere	rxn00303	0.0	-2.9218826602601613e-17	ATP:GTP 3'-pyrophosphotransferase
+rhizosphere	rxn01434	-0.004370385634885327	-1.973520133334491e-17	L-Citrulline:L-aspartate ligase (AMP-forming)
+rhizosphere	rxn00693	0.005281241009940683	0.0	5-Methyltetrahydrofolate:L-homocysteine S-methyltransferase
+rhizosphere	rxn00122	4.228375508353705e-07	5.551115123125783e-17	ATP:FMN adenylyltransferase
+rhizosphere	rxn01116	-0.024996035586906454	-0.0	D-Ribulose-5-phosphate 3-epimerase
+rhizosphere	rxn00470	0.012687505634885327	0.0	L-Ornithine carboxy-lyase
+rhizosphere	rxn03908	0.0	-0.0	ATP: 4-(Cytidine 5'-diphospho)-2-C-methyl-D-erythritol
+rhizosphere	rxn05436	0.0	0.0	10-methyl-trans-dodec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+rhizosphere	rxn08551	0.0	-0.013899119376727737	glycerol-3-phosphate acyltransferase (C18:0)
+rhizosphere	rxn08308	0.0	-0.0	CDP-diacylglycerol synthetase (n-C14:1)
+rhizosphere	rxn00409	0.005452617069294478	0.0	ATP:nucleoside-diphosphate phosphatransferase
+rhizosphere	rxn06526	0.0	0.0	NADPH:protein-disulfide oxidoreductase
+rhizosphere	rxn08841	0.0	2.1706029957680724e-18	Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C16:0)
+rhizosphere	rxn05207	0.7941359600000001	0.0	Na+/malate symporter
+rhizosphere	rxn02213	0.014212616792451883	0.0	3-Dehydroquinate hydro-lyase
+rhizosphere	rxn08669	0.0	0.0	Glycerophosphodiester phosphodiesterase (Glycerophosphoglycerol)
+rhizosphere	rxn02200	1.8858554767272906e-05	0.0	2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine:4-
+rhizosphere	rxn00853	0.0	0.0	N-Carbamoylputrescine amidohydrolase
+rhizosphere	rxn05397	0.0	0.0	11-methyl-3-oxo-dodecanoyl-ACP:NADP+ oxidoreductase
+rhizosphere	rxn00616	-1.4943587042650366	-3.0758280203366364e-17	sn-Glycerol-3-phosphate:(acceptor) 2-oxidoreductase
+rhizosphere	rxn04308	0.0	-0.005212169766272777	di-trans,poly-cis-Decaprenyl-diphosphate:isopentenyl-diphosphate
+rhizosphere	rxn03062	0.015065167175777517	3.8698993983093836e-17	3-Isopropylmalate:NAD+ oxidoreductase
+rhizosphere	rxn01973	0.018341001605059012	0.0	N-Succinyl-LL-2,6-diaminoheptanedioate amidohydrolase
+rhizosphere	rxn00506	0.0	-0.00694955968836387	Acetaldehyde:NAD+ oxidoreductase
+rhizosphere	rxn01388	0.0	0.0	isocitrate hydro-lyase
+rhizosphere	rxn05421	0.0	0.0	8-methyl-nonanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+rhizosphere	rxn10214	0.0	2.7755575615628914e-17	isoheptadecanoyl-1-acylglycerol-3-phosphate O-acyltransferase
+rhizosphere	rxn01791	2.4947415499337423e-06	-2.7755575615628914e-17	(R)-Pantoate:beta-alanine ligase (AMP-forming)
+rhizosphere	rxn03245	0.00425425316647039	0.0	(S)-Hydroxydecanoyl-CoA hydro-lyase
+rhizosphere	rxn00020	0.0	0.0	beta-D-Glucoside glucohydrolase
+rhizosphere	rxn03446	0.0	-4.336808689942018e-19	O-Phospho-4-hydroxy-L-threonine phospho-lyase (adding water)
+rhizosphere	rxn02275	0.0	0.0	4-Guanidinobutanamide amidohydrolase
+rhizosphere	rxn01519	0.000767027317216365	0.0	dUTP nucleotidohydrolase
+rhizosphere	rxn00029	0.0	0.0	5-Aminolevulinate hydro-lyase(adding 5-aminolevulinate and
+rhizosphere	rxn03060	0.0	0.0	2-Hydroxybutane-1,2,3-tricarboxylate hydro-lyase
+rhizosphere	rxn00242	0.0	0.0	Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase
+rhizosphere	rxn02449	0.0	-0.02084867906509158	Guanosine 3'-diphosphate 5'-triphosphate 5'-phosphohydrolase
+rhizosphere	rxn01975	-0.03419721589030801	1.5184800743717948e-17	beta-D-Glucose-6-phosphate:NADP+ 1-oxoreductase
+rhizosphere	rxn10338	0.0	-8.2881121486425e-17	anteisoheptadecanoyl-cardiolipin synthase
+rhizosphere	rxn04413	0.0	0.0	rxn04413
+rhizosphere	rxn01316	0.0	-0.3014371514827809	N-Acetylneuraminate pyruvate-lyase (pyruvate-phosphorylating)
+rhizosphere	rxn10263	0.0	-9.921548091994446e-17	anteisopentadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase
+rhizosphere	rxn05647	0.0	-0.0	salicin transport via PEP:Pyr PTS
+rhizosphere	rxn01964	0.0022833227745139855	2.0816681711721685e-17	L-Serine hydro-lyase (adding indoleglycerol-phosphate)
+rhizosphere	rxn08615	0.0	-0.0	glycogen synthase (ADPGlc)
+rhizosphere	rxn12158	0.0	-3.072400661657456e-17	
+rhizosphere	rxn00559	0.0	0.0	D-Mannose-6-phosphate ketol-isomerase
+rhizosphere	rxn10341	0.0	-8.2881121486425e-17	anteisopentadecanoyl-cardiolipin synthase
+rhizosphere	rxn00208	0.0	0.0	Pyridoxamine-5'-phosphate:oxygen oxidoreductase (deaminating)
+rhizosphere	rxn03537	0.0	0.0	Adenosyl cobinamide phosphate guanyltransferase
+rhizosphere	rxn10269	0.0	-8.673617379884035e-18	anteisopentadecanoyl-Phosphatidylglycerophosphate phosphohydrolase
+rhizosphere	rxn05392	0.0	0.0	7-methyl-octanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+rhizosphere	rxn05176	0.0	0.0	Thiosulfate-ABC transport
+rhizosphere	rxn00161	0.0	5.551115123125783e-17	(S)-Malate:NADP+ oxidoreductase(oxaloacetate-decarboxylating)
+rhizosphere	rxn05231	0.0	0.0	Ribonucleotide reductase: ADP
+rhizosphere	rxn08900	0.0	-0.005212169766273093	Malate dehydrogenase (ubiquinone 8 as acceptor)
+rhizosphere	rxn09207	0.0	-2.0816681711721685e-17	Phosphatidylserine syntase (n-C14:1)
+rhizosphere	rxn01477	0.0	0.0	6-Phospho-D-gluconate hydro-lyase
+rhizosphere	rxn02380	0.03419721589030801	0.0	beta-D-Glucose 6-phosphate ketol-isomerase
+rhizosphere	rxn00474	0.0	5.0240065240937594e-17	L-Serine hydro-lyase (adding indoleglycerol-phosphate)
+rhizosphere	rxn09114	0.0	-0.0	Phosphatidylglycerol synthase (n-C18:1)
+rhizosphere	rxn05306	0.0	-4.962253850691629e-19	PHEt6
+rhizosphere	rxn03435	-0.007143749832805166	4.8157830467636545e-15	(R)-2,3-Dihydroxy-3-methylpentanoate:NADP+ oxidoreductase
+rhizosphere	rxn00584	0.0	0.0	cis-1,2-dihydroxycyclohexa-3,5-diene-1-carboxylate:NAD+
+rhizosphere	rxn08815	0.0	-0.0	Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C18:0) (periplasm)
+rhizosphere	rxn01673	0.0	-0.0	ATP:nucleoside-diphosphate phosphatransferase
+rhizosphere	rxn12845	0.0	-0.0	Gly-Leu aminopeptidase
+rhizosphere	rxn00085	0.0	2.097178599360338e-16	L-Glutamate:NADP+ oxidoreductase (transaminating)
+rhizosphere	rxn05340	-0.0006436433198824424	-0.0	(3R)-3-Hydroxydodecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase
+rhizosphere	rxn00832	-0.018812346358564557	-0.0	IMP 1,2-hydrolase (decyclizing)
+rhizosphere	rxn01746	0.0	0.0	Allantoate amidinohydrolase
+rhizosphere	rxn08817	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphotidate, n-C12:0)
+rhizosphere	rxn00251	0.0	-0.006949559688363863	Orthophosphate:oxaloacetate carboxyl-lyase (phosphorylating)
+rhizosphere	rxn00295	0.0	0.0	UDP-N-acetyl-D-glucosamine 4-epimerase
+rhizosphere	rxn00265	-0.5645480747151613	-1.1934858437080159e-17	Citrate oxaloacetate-lyase ((pro-3S)-CH2COO- -->acetate)
+rhizosphere	rxn02187	0.0	0.0	2-Acetolactate methylmutase
+rhizosphere	rxn01219	0.0	-3.127949789081344e-17	ATP:CMP phosphotransferase
+rhizosphere	rxn01270	0.0	0.0	L-Aspartate:2-oxoglutarate aminotransferase
+rhizosphere	rxn08799	0.0	0.0	Lysophospholipase L1 (2-acylglycerophosphotidate, n-C16:0) (periplasm)
+rhizosphere	rxn05543	0.0	1.9081958235744878e-17	Dipeptide transport via ABC system (ala-his)
+rhizosphere	rxn01127	0.0	-3.127949789081343e-17	ATP:AMP phosphotransferase
+rhizosphere	rxn05484	0.0	0.10598078524754782	acetoacetate transport via proton symport
+rhizosphere	rxn08309	0.0	-0.0	CDP-diacylglycerol synthetase (n-C16:0)
+rhizosphere	rxn03892	0.0	8.673617379884035e-19	PPTT
+rhizosphere	rxn10181	0.0	0.0	NMN permease
+rhizosphere	rxn05461	0.0	-1.824160244986233e-17	3-Hydroxyoctodecanoyl-ACP:NADP+ oxidoreductase
+rhizosphere	rxn08312	0.0	-0.0	CDP-diacylglycerol synthetase (n-C18:1)
+rhizosphere	rxn00291	0.0	0.0	N-succinyl-L-glutamate amidohydrolase
+rhizosphere	rxn12849	0.0	-8.673617379884035e-18	Gly-Leu ABC transporters
+rhizosphere	rxn00410	0.0	5.896761140363187e-17	UTP:ammonia ligase(ADP-forming)
+rhizosphere	rxn05160	0.0	-3.903127820947816e-18	D-Ribose ABC transport
+rhizosphere	rxn05152	0.03205557	0.0	L-Aspartate-ABC transport
+rhizosphere	rxn02792	0.0	0.0	(5-Glutamyl)-peptide:amino-acid 5-glutamyltransferase
+rhizosphere	rxn05368	0.0	0.0	8-methyl-3-oxo-decanoyl-ACP:NADP+ oxidoreductase
+rhizosphere	rxn05221	-0.9195380763965759	-9.088651207872758e-18	Na+:proline symport
+rhizosphere	rxn00568	0.0	-0.03040432363659125	ammonium-hydroxide:NADP+ oxidoreductase
+rhizosphere	rxn03869	0.0	0.0	Acylamide aminohydrolase
+rhizosphere	rxn00872	0.00425425316647039	0.0	Butanoyl-CoA:oxygen 2-oxidoreductase
+rhizosphere	rxn09210	0.0	-6.938893903907228e-18	Phosphatidylserine syntase (n-C18:0)
+rhizosphere	rxn12224	0.0	0.0	2-octaprenyl-6-methoxyphenol hydroxylase
+rhizosphere	rxn02405	8.892273694079467e-05	2.7755575615628914e-17	CTP:3-deoxy-D-manno-octulosonate cytidylyltransferase
+rhizosphere	rxn00782	0.01910276553953862	-5.551115123125783e-17	D-Glyceraldehyde-3-phosphate:NADP+ oxidoreductase(phosphorylating)
+rhizosphere	rxn00395	0.0	-0.013899119376727748	L-Arginine iminohydrolase
+rhizosphere	rxn10256	0.0	-0.0	isopentadecanoyl-Diacylglycerol kinase
+rhizosphere	rxn00171	0.0	-2.727830829094738e-17	acetaldehyde:NAD+ oxidoreductase (CoA-acetylating)
+rhizosphere	rxn01000	0.008414467261634875	0.0	Prephenate hydro-lyase (decarboxylating)
+rhizosphere	rxn00675	0.0	-0.006949559688363806	Propinol adenylate:CoA ligase (AMP-forming)
+rhizosphere	rxn01867	0.0	-3.322944878902223e-16	p-cumic alcohol:NAD+ oxidoreductase
+rhizosphere	rxn02305	0.0	0.0	2-Methyl-4-amino-5-hydroxymethylpyrimidine-diphosphate:4-methyl-5-
+rhizosphere	rxn03384	0.0	-0.0	Uroporphyrinogen I carboxy-lyase
+rhizosphere	rxn05551	0.0	7.569860218918583e-18	ethanolamine transport in/out via proton symport
+rhizosphere	rxn05533	0.0	0.0	Dipeptide transport via ABC system (ala-asp)
+rhizosphere	rxn01507	0.0	0.0	2'-Deoxyadenosine 5'-monophosphate phosphohydrolase
+rhizosphere	rxn10211	0.0	-0.2519215387031894	palmitoyl-1-acylglycerol-3-phosphate O-acyltransferase
+rhizosphere	rxn05063	0.0	0.0	carbamate hydro-lyase
+rhizosphere	rxn08838	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C12:0)
+rhizosphere	rxn12641	0.0	5.091031243397109e-18	aminopeptidase
+rhizosphere	rxn10116	0.0	-0.002606084883136578	Glucose dehydrogenase (ubiquinone-8 as acceptor)
+rhizosphere	rxn08821	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphotidate, n-C16:1)
+rhizosphere	rxn10205	0.0	-6.245004513516506e-17	isoheptadecanoyl-glycerol-3-phosphate O-acyltransferase
+rhizosphere	rxn00239	0.009676891053410597	-2.831774564129425e-17	ATP:(d)GMP phosphotransferase
+rhizosphere	rxn00612	1.4882381307166868	3.110115539485848e-17	sn-Glycerol-3-phosphate:NADP+ 2-oxidoreductase
+rhizosphere	rxn05418	0.0	-0.0	8-methyl-3-oxo-nonanoyl-ACP:NADP+ oxidoreductase
+rhizosphere	rxn00711	0.0	-0.15983987283236817	UMP:pyrophosphate phosphoribosyltransferase
+rhizosphere	rxn00991	0.0	-7.274215544252635e-17	(S)-3-Hydroxy-3-methylglutaryl-CoA acetoacetate-lyase
+rhizosphere	rxn12633	0.0	0.0	aminopeptidase
+rhizosphere	rxn04113	0.0	-2.7763993594551243e-16	isopentenyl-diphosphate:NAD(P)+ oxidoreductase
+rhizosphere	rxn05250	0.0	0.0	FACOAL160(ISO)
+rhizosphere	rxn06023	4.300924962160194e-22	1.8185538860631587e-17	CoA:apo-[acyl-carrier-protein] pantetheinephosphotransferase
+rhizosphere	rxn00007	0.0	-0.020848679065091587	alpha,alpha-Trehalose glucohydrolase
+rhizosphere	rxn01315	0.0	-0.024323458909273912	L-Phenylalanine,tetrahydrobiopterin:oxygen oxidoreductase
+rhizosphere	rxn08850	0.0	-9.922756552082618e-18	Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C18:0)
+rhizosphere	rxn03174	0.0	-5.885571037512084e-17	2-Amino-4-hydroxy-6-(erythro-1,2,3-trihydroxypropyl)
+rhizosphere	rxn00146	0.0	-0.008686949610454594	(R)-Lactate:ferricytochrome-c 2-oxidoreductase
+rhizosphere	rxn00763	0.0	-2.0301497650866642e-16	Glycerol:NAD+ oxidoreductase
+rhizosphere	rxn10174	0.0	-0.006949559688363883	maltohexaose transport via ABC system
+rhizosphere	rxn05393	0.0	0.0	9-methyl-3-oxo-decanoyl-ACP:NADP+ oxidoreductase
+rhizosphere	rxn00138	0.00011543465137940806	1.1102230246251565e-16	Deamino-NAD+:ammonia ligase (AMP-forming)
+rhizosphere	rxn00338	0.00011543465137940805	6.938893903907228e-18	L-aspartate oxidase
+rhizosphere	rxn03397	0.0	-5.551115123125783e-17	UDP-L-rhamnose:flavonol-3-O-D-glucoside L-rhamnosyltransferase
+rhizosphere	rxn03136	0.01774945187144367	0.0	1-(5'-Phosphoribosyl)-5-amino-4-(N-succinocarboxamide)-imidazole
+rhizosphere	rxn01137	0.0	-0.0069495596883637906	Adenosine aminohydrolase
+rhizosphere	rxn00216	0.04098397	1.3877787807814457e-17	ATP:D-glucose 6-phosphotransferase
+rhizosphere	rxn08194	0.0	2.029301998273486e-17	cob(I)alamin adenosyltransferase
+rhizosphere	rxn05440	0.0	0.0	7-methyl-trans-oct-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+rhizosphere	rxn00988	0.0	-0.006949559688363751	Acetoacetate:CoA ligase (AMP-forming)
+rhizosphere	rxn08557	0.0	-0.00521216976627315	glycerol-3-phosphate dehydrogenase (menaquinone-8)
+rhizosphere	rxn05617	0.0	-0.0	mannitol transport via PEP:Pyr PTS
+rhizosphere	rxn04996	0.0	-2.7763993594551243e-16	dimethyallyl diphosphate:NADP+ oxidoreductase
+rhizosphere	rxn05236	0.000767027317216365	0.0	Ribonucleotide reductase: UTP
+rhizosphere	rxn02835	0.001062894487120887	0.0	1-(5-phospho-D-ribosyl)-AMP 1,6-hydrolase
+rhizosphere	rxn02373	0.022875511500223454	-5.551115123125783e-17	L-Glutamate-5-semialdehyde:NADP+ 5-oxidoreductase (phosphorylationg)
+rhizosphere	rxn05581	0.0	0.0	glycerol transport in/out via diffusion reversible
+rhizosphere	rxn00726	0.002283322774513985	0.0	Chorismate pyruvate-lyase (amino-accepting)
+rhizosphere	rxn05287	0.0	1.734723475976807e-18	GGTT
+rhizosphere	rxn05345	0.00011856364925439287	6.938893903907228e-18	dodecanoyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein]
+rhizosphere	rxn02177	0.0	-6.938893903907228e-18	Isochorismate pyruvate-hydrolase
+rhizosphere	rxn10218	0.0	0.0	anteisopentadecanoyl-1-acylglycerol-3-phosphate O-acyltransferase
+rhizosphere	rxn03147	0.017749451871443674	0.0	1-(5-Phosphoribosyl)-5-amino-4-carboxyimidazole:L-aspartate ligase
+rhizosphere	rxn00095	0.0	0.0	P1,P4-Bis(5'-nucleosyl)-tetraphosphate nucleotidebisphosphohydrolase
+rhizosphere	rxn02911	0.00425425316647039	0.0	(S)-3-Hydroxydodecanoyl-CoA hydro-lyase
+rhizosphere	rxn01211	0.03655110043997201	0.0	5,10-Methenyltetrahydrofolate 5-hydrolase(decyclizing)
+rhizosphere	rxn03884	0.0	-2.0675092155008305e-17	2-dehydro-3-deoxy-D-gluconate-6-phosphate
+rhizosphere	rxn08802	0.0	0.0	Lysophospholipase L1 (2-acylglycerophosphotidate, n-C18:1) (periplasm)
+rhizosphere	rxn01602	0.0	0.0	Dihydrofolate:NADP+ oxidoreductase
+rhizosphere	rxn00670	0.0	1.8185538860631587e-17	acetyl-CoA:phosphate acetyltransferase
+rhizosphere	rxn10335	0.0	-0.0	myristoyl-cardiolipin synthase
+rhizosphere	rxn02782	0.0	0.0	2,5-Dihydro-5-oxofuran-2-acetate lyase (decyclizing)
+rhizosphere	rxn00371	0.0	-0.0008686949610455168	Formate:NAD+ oxidoreductase
+rhizosphere	rxn00539	0.0	0.0	Ethanolamine ammonia-lyase
+rhizosphere	rxn01924	0.0	-0.012161729454636661	2-Methylpropanoyl-CoA:(acceptor) 2,3-oxidoreductase
+rhizosphere	rxn11946	0.0	0.0	3-demethylubiquinone-9 3-o-methyltransferase
+rhizosphere	rxn00184	-1.8570232887814004	9.869555747351814e-17	L-Glutamate:NADP+ oxidoreductase (deaminating)
+rhizosphere	rxn08848	0.0	2.1706029957680724e-18	Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C16:0)
+rhizosphere	rxn05444	0.0	0.0	15-methyl-trans-hexa-dec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+rhizosphere	rxn00650	0.0	-0.0	membrane alanyl aminopeptidase
+rhizosphere	rxn01241	0.0	0.0	Dihydrolipoamide:NAD+ oxidoreductase
+rhizosphere	rxn10229	0.0	-6.938893903907228e-18	isopentadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase
+rhizosphere	rxn01522	0.0	-2.7755575615628914e-17	xanthine:NAD+ oxidoreductase
+rhizosphere	rxn01117	-8.892273694079468e-05	-0.0	D-Arabinose-5-phosphate ketol-isomerase
+rhizosphere	rxn01107	0.0	-0.004343474805227476	D-Glucono-1,5-lactone lactonohydrolase
+rhizosphere	rxn08300	0.0	-1.2591576593993421e-17	diacylglycerol kinase (n-C18:1)
+rhizosphere	rxn00836	0.0	-0.01389911937672809	IMP:pyrophosphate phosphoribosyltransferase
+rhizosphere	rxn00776	0.0	2.7755575615628914e-17	Uracil hydro-lyase (adding D-ribose 5-phosphate)
+rhizosphere	rxn09110	0.0	-0.0	Phosphatidylglycerol synthase (n-C14:1)
+rhizosphere	rxn12646	0.0	-0.0	aminopeptidase
+rhizosphere	rxn09296	0.0	-0.012161729454636904	hydrogen peroxide reductase (thioredoxin)
+rhizosphere	rxn01255	0.01421261679245188	2.7755575615628914e-17	5-O-(1-Carboxyvinyl)-3-phosphoshikimate phosphate-lyase
+rhizosphere	rxn03194	0.0071437498328051656	0.0	(S)-2-Aceto-2-hydroxybutanoate pyruvate-lyase (carboxylating)
+rhizosphere	rxn01360	0.0	-0.006949559688363697	(S)-Dihydroorotate:oxygen oxidoreductase
+rhizosphere	rxn08552	0.0	-1.3877787807814457e-17	glycerol-3-phosphate acyltransferase (C18:1)
+rhizosphere	rxn01453	0.0	-2.9186563919779723e-16	(R)-3-Hydroxybutanoyl-CoA:NADP+ oxidoreductase
+rhizosphere	rxn03958	0.0	-4.0292292614941715e-17	1-Deoxy-D-xylulose-5-phosphate isomeroreductase
+rhizosphere	rxn10267	-2.8459919226279664e-18	0.0	isotetradecanoyl-Phosphatidylglycerophosphate phosphohydrolase
+rhizosphere	rxn05433	0.0	0.0	4-methyl-trans-hex-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+rhizosphere	rxn10236	0.0	0.0	anteisopentadecanoyl-phosphatidylserine decarboxylase
+rhizosphere	rxn05465	0.04806999098049635	-7.669071109019095e-18	malonyl-ACP:[acyl-carrier-protein] transferase
+rhizosphere	rxn05452	0.0	6.948322275874147e-17	14-methyl-hexa-decanoyl-ACP:[acyl-carrier-protein] transferase
+rhizosphere	rxn10010	0.00425425316647039	2.220446049250313e-16	acyl-CoA dehydrogenase (hexanoyl-CoA)
+rhizosphere	rxn10222	-2.845991922627966e-18	-1.984309618398889e-16	isotetradecanoyl-phosphatidate cytidylyltransferase
+rhizosphere	rxn00392	4.228375508353705e-07	-1.8222572552817613e-16	ATP:riboflavin 5'-phosphotransferase
+rhizosphere	rxn02400	0.0	-0.3440032045740098	Nicotinate D-ribonucleotide phosphohydrolase
+rhizosphere	rxn01280	0.0	-1.8382022141969572e-16	(R)-Glycerate:NAD+ oxidoreductase
+rhizosphere	rxn00758	0.0	6.938893903907228e-18	sn-Glycero-3-phosphocholine glycerophosphohydrolase
+rhizosphere	rxn01729	0.0	-3.122502256758253e-17	glutarate-semialdehyde:NAD+ oxidoreductase
+rhizosphere	rxn00328	0.0	-0.0	4-Hydroxy-2-oxoglutarate glyoxylate-lyase
+rhizosphere	rxn01670	0.0	-0.006949559688363921	Nicotinamide ribonucleotide phosphohydrolase
+rhizosphere	rxn05336	-0.0031109427127651375	-0.0	(3R)-3-Hydroxypalmitoyl-[acyl-carrier-protein]:NADP+ oxidoreductase
+rhizosphere	rxn02287	0.0	-0.0	S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase
+rhizosphere	rxn02475	4.2283755083537047e-07	-2.7755575615628914e-17	2,5-Diamino-6-hydroxy-4-(5-phosphoribosylamino)-pyrimidine
+rhizosphere	rxn08295	0.0	-0.0	diacylglycerol kinase (n-C14:0)
+rhizosphere	rxn00147	0.0	-0.0069495596883638955	ATP:pyruvate,water phosphotransferase
+rhizosphere	rxn05312	0.0	-0.0034747798441818567	PIt6
+rhizosphere	rxn02774	0.0	5.870067083852009e-17	S-Adenosyl-L-methionine:uroporphyrin-III C-methyltransferase
+rhizosphere	rxn05325	0.0066509809721185705	-2.220446049250313e-16	Octanoyl-[acyl-carrier protein]:malonyl-CoA
+rhizosphere	rxn03057	0.0003763254202439717	0.0	5-Methylthio-5-deoxy-D-ribose-1-phosphate ketol-isomerase
+rhizosphere	rxn00646	0.0	-0.01389911937672778	L-Glutamate:L-cysteine gamma-ligase (ADP-forming)
+rhizosphere	rxn08708	2.9640912313598213e-05	0.0	LPS heptose kinase I (LPS core synthesis)
+rhizosphere	rxn09240	0.0	-0.006949559688363918	Sulfate adenyltransferase
+rhizosphere	rxn03408	0.00011670316403071483	9.827919077561943e-17	UDP-N-acetylglucosamine-N-acetylmuramyl-(pentapeptide)pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+rhizosphere	rxn09203	0.0	0.0	Phosphatidylserine decarboxylase (n-C18:1)
+rhizosphere	rxn05156	0.0	2.126397103246004e-17	L-Ornithine-ABC transport
+rhizosphere	rxn03886	0.0	1.2711188226148859e-17	D-sorbitol-6-phosphate:NAD 2-oxidoreductase
+rhizosphere	rxn00441	0.0	2.7755575615628914e-17	2-Oxoglutarate:Thiamin diphosphate 2-oxidoreductase(decarboxylating
+rhizosphere	rxn01485	-0.0002926881526886262	-0.0	D-Glucosamine 1-phosphate 1,6-phosphomutase
+rhizosphere	rxn10184	0.0	0.1867694166247777	D-sorbitol transport via PEP:Pyr PTS
+rhizosphere	rxn05540	0.0	0.0	Dipeptide transport via ABC system (ala-gln)
+rhizosphere	rxn00363	0.0	-0.0069495596883639476	Cytidine-5'-monophosphate phosphohydrolase
+rhizosphere	rxn04704	0.0	0.0	coproporphyrinogen-III:S-adenosyl-L-methionine
+rhizosphere	rxn01629	0.0	0.0	(S)-4-Amino-5-oxopentanoate 4,5-aminomutase
+rhizosphere	rxn10204	0.0	-0.013899119376727734	stearoyl-glycerol-3-phosphate O-acyltransferase
+rhizosphere	rxn00269	0.0	-0.013030424415682147	Aminoacetic acid:oxygen oxidoreductase (deaminating)
+rhizosphere	rxn05179	0.0	-0.005212169766272937	L-Isoleucine-ABC transport
+rhizosphere	rxn05669	0.00337883	-6.347501208679799e-18	L-valine transport in via proton symport
+rhizosphere	rxn08086	0.0	-0.872169740889659	1-hexadecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C16:0)
+rhizosphere	rxn05151	0.0	-0.008686949610454813	L-Lysine-ABC transport
+rhizosphere	rxn08129	0.0	-0.0	Amylomaltase (maltohexaose)
+rhizosphere	rxn05449	0.0	-2.7755575615628914e-17	12-methyl-trans-tridec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+rhizosphere	rxn05459	0.0	3.4741611379370734e-17	stearyl-ACP:[acyl-carrier-protein] transferase
+rhizosphere	rxn05313	0.04180070546552529	-3.0703117553660036e-17	PIt8
+rhizosphere	rxn00966	0.0	0.0	chorismate pyruvate-lyase (4-hydroxybenzoate-forming)
+rhizosphere	rxn01451	-0.00425425316647039	-1.4593281959889862e-16	(S)-3-Hydroxybutanoyl-CoA:NAD+ oxidoreductase
+rhizosphere	rxn00785	0.01526864376357692	-1.1207834467435778e-17	D-Fructose 6-phosphate:D-glyceraldehyde-3-phosphate glycolaldehyde
+rhizosphere	rxn05092	0.0	0.0	1,2-dihydroxy-5-(methylthio)pent-1-en-3-one:oxygen oxidoreductase
+rhizosphere	rxn08127	0.0	-0.0	Amylomaltase (maltotetraose)
+rhizosphere	rxn08842	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C16:1)
+rhizosphere	rxn05323	0.0	5.551115123125783e-17	Tetradecanoyl-[acyl-carrier protein]:malonyl-CoA
+rhizosphere	rxn03084	0.017749451871443674	1.9081958235744878e-17	5'-Phosphoribosylformylglycinamide:L-glutamine amido-ligase
+rhizosphere	rxn00011	0.036591758885241396	-1.3877787807814457e-17	pyruvate:thiamin diphosphate acetaldehydetransferase
+rhizosphere	rxn02222	0.0	0.0	Indole-3-acetamide amidohydrolase
+rhizosphere	rxn05252	0.0	-9.020562075079397e-17	FACOAL170(ISO)
+rhizosphere	rxn05466	0.287738944876568	0.0	Ammonia transport via diffusion
+rhizosphere	rxn10161	0.0	0.0	Octadecanoate transport via proton symport
+rhizosphere	rxn00708	0.0	-1.3877787807814457e-17	Uridine 5'-monophosphate phosphohydrolase
+rhizosphere	rxn01513	0.0007670273172163649	0.0	ATP:dTMP phosphotransferase
+rhizosphere	rxn02476	0.014212616792451881	5.235237007802828e-18	Phosphoenolpyruvate:3-phosphoshikimate
+rhizosphere	rxn01870	0.0	-0.0	D-Fructose 1-phosphate D-glyceraldehyde-3-phosphate-lyase
+rhizosphere	rxn04954	0.0	-2.5783950663188574e-16	5-methyltetrahydrofolate:NAD+ oxidoreductase
+rhizosphere	rxn01575	-0.007143749832805167	-1.2336944684189768e-17	L-Isoleucine:2-oxoglutarate aminotransferase
+rhizosphere	rxn09206	0.0	-1.734723475976807e-16	Phosphatidylserine syntase (n-C14:0)
+rhizosphere	rxn02342	0.0	0.0	2-(alpha-Hydroxyethyl)thiamine diphosphate:lipoamide
+rhizosphere	rxn00781	0.0	-2.0495033444820333e-16	D-Glyceraldehyde-3-phosphate:NAD+ oxidoreductase(phosphorylating)
+rhizosphere	rxn00973	0.5645480747151613	0.0	citrate hydro-lyase
+rhizosphere	rxn00775	0.0	-2.7755575615628914e-17	ADPribose ribophosphohydrolase
+rhizosphere	rxn00364	0.005452617069294478	0.0	ATP:CMP phosphotransferase
+rhizosphere	rxn00515	0.0	-0.0	ATP:nucleoside-diphosphate phosphatransferase
+rhizosphere	rxn01025	0.0	0.0	5-Methylcytosine aminohydrolase
+rhizosphere	rxn02011	0.00011670316403071484	5.551115123125783e-17	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:meso-2,6-
+rhizosphere	rxn02186	0.02944800905243623	7.264912950586824e-17	2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase (isomerizing)
+rhizosphere	rxn10227	0.0	-1.1102230246251565e-16	anteisoheptadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase
+rhizosphere	rxn00917	0.009676891053410597	8.326672684688674e-17	Xanthosine-5'-phosphate:L-glutamine amido-ligase (AMP-forming)
+rhizosphere	rxn09113	0.0	3.7205805344979174e-17	Phosphatidylglycerol synthase (n-C18:0)
+rhizosphere	rxn03536	0.0	0.0	Adenosyl cobinamide kinase
+rhizosphere	rxn12846	0.0	-0.0	Gly-Phe aminopeptidase
+rhizosphere	rxn01218	0.0	-8.673617379884035e-18	2'-Deoxycytidine 5'-monophosphate phosphohydrolase
+rhizosphere	rxn05161	0.0	-0.005212169766272909	L-Leucine-ABC transport
+rhizosphere	rxn01297	0.0	-2.0720129274556096e-17	Xanthine:NAD+ oxidoreductase
+rhizosphere	rxn05239	0.008962422443763149	0.0	adenosine 3',5'-bisphosphate,sulfite:oxidized-thioredoxin oxidoreductase
+rhizosphere	rxn08547	0.0	-0.013899119376727633	glycerol-3-phosphate acyltransferase (C14:0)
+rhizosphere	rxn05201	0.0	8.410955798798425e-19	Hypoxanthine ion-coupled transport
+rhizosphere	rxn10233	0.0	0.0	anteisoheptadecanoyl-phosphatidylserine decarboxylase
+rhizosphere	rxn08976	0.0	-0.0052121697662729245	NADH dehydrogenase (demethylmenaquinone-8 & 0 protons)
+rhizosphere	rxn02789	0.015065167175777517	0.0	2-Isopropylmalate hydro-lyase
+rhizosphere	rxn05383	0.0	-2.515228545009224e-17	3-methylbutanoyl-CoA:[acyl-carrier-protein] transferase
+rhizosphere	rxn00830	0.0	-0.0	Isopentenyl-diphosphate delta3-delta2-isomerase
+rhizosphere	rxn08180	0.0	3.161356599417409e-17	Biotin synthase
+rhizosphere	rxn01331	0.0	-0.11727381974113982	D-erythrose 4-phosphate:NAD+ oxidoreductase
+rhizosphere	rxn00800	0.009135455305153962	-3.632217102298334e-17	N6-(1,2-Dicarboxyethyl)AMP AMP-lyase
+rhizosphere	rxn00162	0.7472390423179508	0.0	Oxaloacetate carboxy-lyase
+rhizosphere	rxn01520	0.000767027317216365	8.326672684688674e-17	5,10-Methylenetetrahydrofolate:dUMP C-methyltransferase
+rhizosphere	rxn00189	1.586335390798175	0.0	L-Glutamine amidohydrolase
+rhizosphere	rxn05234	0.0010740073791232453	0.0	Ribonucleotide reductase: GTP
+rhizosphere	rxn08783	0.0	-0.005212169766272746	D-lactate dehydrogenase
+rhizosphere	rxn00322	0.0	-0.20153723096255127	L-Lysine carboxy-lyase
+rhizosphere	rxn05441	0.0	0.0	9-methyl-trans-dec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+rhizosphere	rxn10342	0.0	-0.0	isohexadecanoyl-cardiolipin synthase
+rhizosphere	rxn05426	0.0	-0.0	12-methyl-3-oxo-tridecanoyl-ACP:NADP+ oxidoreductase
+rhizosphere	rxn08818	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphotidate, n-C14:0)
+rhizosphere	rxn02314	0.0	-0.0	ATP:D-tagatose-6-phosphate 1-phosphotransferase
+rhizosphere	rxn00179	0.022875511500223454	2.6289318743688904e-17	ATP:L-glutamate 5-phosphotransferase
+rhizosphere	rxn03991	0.0	-5.551115123125783e-17	nitric oxide, NADPH2:oxygen oxidoreductase
+rhizosphere	rxn01465	-0.013046229793491576	-0.0	(S)-Dihydroorotate amidohydrolase
+rhizosphere	rxn05654	0.12240603	4.78826742576784e-19	succinate transporter in/out via proton symport
+rhizosphere	rxn05364	0.0	3.648320489972466e-17	6-methyl-3-oxo-octanoyl-ACP:NADP+ oxidoreductase
+rhizosphere	rxn00863	0.0010628944871208872	4.163336342344337e-17	L-Histidinal:NAD+ oxidoreductase
+rhizosphere	rxn00209	0.0	0.0	Pyridoxine 5-phosphate:oxygen oxidoreductase (deaminating)
+rhizosphere	rxn03150	0.0	0.0	alpha-ribazole 5-phosphate phosphatase
+rhizosphere	rxn10217	0.0	-1.3877787807814457e-17	isopentadecanoyl-1-acylglycerol-3-phosphate O-acyltransferase
+rhizosphere	rxn09449	0.0	-8.326672684688674e-17	fatty-acid--CoA ligase (octadecanoate)
+rhizosphere	rxn02167	0.00425425316647039	0.0	(S)-3-Hydroxybutanoyl-CoA hydro-lyase
+rhizosphere	rxn00533	0.04806999098049635	6.039393498352538e-17	Acetyl-CoA:carbon-dioxide ligase (ADP-forming)
+rhizosphere	rxn01504	0.0	0.0	(S)-3-Hydroxy-3-methylglutaryl-CoA hydro-lyase
+rhizosphere	rxn03436	0.007143749832805166	0.0	(S)-2-Aceto-2-hydroxybutanoate:NADP+ oxidoreductase (isomerizing)
+rhizosphere	rxn08756	0.0	2.168404344971009e-19	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (ipdp)
+rhizosphere	rxn00423	0.0036811814338224666	-4.163336342344337e-17	serine O-acetyltransferase
+rhizosphere	rxn05430	0.0	-0.0	14-methyl-3-oxo-pentadecanoyl-ACP:NADP+ oxidoreductase
+rhizosphere	rxn00615	0.0004566645549027972	0.0	ATP:glycerol 3-phosphotransferase
+rhizosphere	rxn08810	0.0	-0.0	Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C12:0) (periplasm)
+rhizosphere	rxn03248	0.00425425316647039	-5.003019504476891e-17	Hexanoyl-CoA:acetyl-CoA C-acyltransferase
+rhizosphere	rxn08307	0.0	0.0	CDP-diacylglycerol synthetase (n-C14:0)
+rhizosphere	rxn02201	0.0	-0.013899119376727801	2-Amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine-
+rhizosphere	rxn05555	0.0	-0.006949559688363881	iron (II) transport via ABC system
+rhizosphere	rxn02159	0.0010628944871208872	-3.3835829418111074e-17	L-Histidinol:NAD+ oxidoreductase
+rhizosphere	rxn00056	-1.0570938770898085e-08	-0.0	Fe(II):oxygen oxidoreductase
+rhizosphere	rxn00727	0.0	0.0	Chorismate pyruvate-lyase (amino-accepting)
+rhizosphere	rxn03891	0.0	8.673617379884035e-19	trans-hexaprenyltranstransferase
+rhizosphere	rxn06076	0.0	0.0	2'-Deoxycytidine diphosphate:oxidized-thioredoxin 2'-oxidoreductase
+rhizosphere	rxn05413	0.0	-6.938893903907228e-18	4-methyl-pentanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+rhizosphere	rxn04385	0.0	0.0	L-threonine-O-3-phosphate carboxy-lyase
+rhizosphere	rxn05348	0.0006436433198824424	0.0	Decanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein]
+rhizosphere	rxn02914	-0.06304368733351665	6.485885103958278e-17	3-Phosphoserine:2-oxoglutarate aminotransferase
+rhizosphere	rxn01300	0.025579467049251417	9.570602645329699e-17	ATP:L-homoserine O-phosphotransferase
+rhizosphere	rxn00175	0.0	-0.006949559688363952	Acetate:CoA ligase (AMP-forming)
+rhizosphere	rxn10013	0.00425425316647039	0.0	acyl-CoA dehydrogenase (dodecanoyl-CoA)
+rhizosphere	rxn10264	0.0	-1.937802361717665e-18	isohexadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase
+rhizosphere	rxn10208	0.0	-5.551115123125783e-17	isopentadecanoyl-glycerol-3-phosphate O-acyltransferase
+rhizosphere	rxn05445	0.0	0.0	4-methyl-trans-pent-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+rhizosphere	rxn01313	0.0	3.798690367001951e-16	NADH:6,7-dihydropteridine oxidoreductase
+rhizosphere	rxn06979	0.0	-1.460941330130081e-17	rxn06979
+rhizosphere	rxn01146	0.0	0.0	Thymidine:orthophosphate deoxyribosyltransferase
+rhizosphere	rxn12642	0.0	-0.0	aminopeptidase
+rhizosphere	rxn01192	0.0	0.0	Protocatechuate:oxygen 3,4-oxidoreductase (decyclizing)
+rhizosphere	rxn00881	0.0	5.204170427930421e-18	myo-Inositol 1-phosphate phosphahydrolase
+rhizosphere	rxn05247	0.0	-1.3877787807814457e-17	FACOAL140(ISO)
+rhizosphere	rxn00986	0.0	-2.7755575615628914e-17	Propanoate:CoA ligase (AMP-forming)
+rhizosphere	rxn00501	0.0025046676561198125	1.3670978838479795e-14	3-Oxopropanoate:NAD+ oxidoreductase (decarboxylating,
+rhizosphere	rxn03898	0.0	-2.394998634932228e-16	rxn03898
+rhizosphere	rxn02504	1.8858554767272903e-05	-2.53768720635833e-17	2-Amino-4-hydroxy-6-(D-erythro-1,2,3-trihydroxypropyl)-7,8-
+rhizosphere	rxn01672	0.0	-0.006949559688363902	dCTP aminohydrolase
+rhizosphere	rxn10473	0.0	0.0	chlorideion transport out via diffusion
+rhizosphere	rxn08975	0.0	-0.005212169766272815	NADH dehydrogenase (ubiquinone-8 )
+rhizosphere	rxn00904	0.0	2.756678954001108e-14	L-Valine:pyruvate aminotransferase
+rhizosphere	rxn05534	0.0	0.0	Dipeptide transport via ABC system (gly-glu)
+rhizosphere	rxn03918	0.00011856364925439289	-1.4311147858416633e-17	D-glycero-D-manno-heptose 7-phosphate kinase
+rhizosphere	rxn05732	0.0	-0.6132986424981057	acyl-CoA dehydrogenase (hexadecanoyl-CoA)
+rhizosphere	rxn08556	0.0	-0.005212169766273074	glycerol-3-phosphate dehydrogenase (ubiquinone-8)
+rhizosphere	rxn00912	2.4947415499337423e-06	0.0	5,10-Methylenetetrahydrofolate:3-methyl-2-oxobutanoate
+rhizosphere	rxn05446	0.0	1.3877787807814457e-17	6-methyl-trans-hept-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+rhizosphere	rxn05435	0.0	0.0	8-methyl-trans-dec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+rhizosphere	rxn00692	-0.04066674358948384	5.547494942590159e-18	5,10-Methylenetetrahydrofolate:glycine hydroxymethyltransferase
+rhizosphere	rxn09108	0.0	3.527252582709502e-17	Phosphatidylglycerol synthase (n-C12:0)
+rhizosphere	rxn03068	0.0	-2.918656391977973e-16	(R)-2,3-Dihydroxy-3-methylbutanoate:NADP+ oxidoreductase
+rhizosphere	rxn08299	0.0	0.0	diacylglycerol kinase (n-C18:0)
+rhizosphere	rxn00992	0.0	-6.2537743805961136e-18	(R)-3-Hydroxybutanoate:NAD+ oxidoreductase
+rhizosphere	rxn00002	0.0	0.0	Urea-1-carboxylate amidohydrolase
+rhizosphere	rxn08971	0.0	-0.0052121697662729114	NADH dehydrogenase (menaquinone-8 & 0 protons)
+rhizosphere	rxn01303	0.005281241009940683	-6.245004513516506e-17	Acetyl-CoA:L-homoserine O-acetyltransferase
+rhizosphere	rxn12634	0.0	0.0	aminopeptidase
+rhizosphere	rxn05456	0.0	0.0	14-methyl-pentadecanoyl-ACP:[acyl-carrier-protein] transferase
+rhizosphere	rxn10261	-2.845991922627966e-18	-0.0	isotetradecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase
+rhizosphere	rxn10232	0.0	0.0	isoheptadecanoyl-phosphatidylserine decarboxylase
+rhizosphere	rxn00300	4.228375508353704e-07	2.7755575615628914e-17	GTP 7,8-8,9-dihydrolase (pyrophosphate-forming)
+rhizosphere	rxn02288	4.228375508359234e-08	0.0	Uroporphyrinogen-III carboxy-lyase
+rhizosphere	rxn00907	0.03655110043997201	-4.4379959540721274e-17	5,10-methylenetetrahydrofolate:NADP+ oxidoreductase
+rhizosphere	rxn05410	0.0	-0.0	4-methyl-3-oxo-pentanoyl-ACP:NADP+ oxidoreductase
+rhizosphere	rxn01269	0.0034959682015357433	0.0	Prephenate:NADP+ oxidoreductase(decarboxylating)
+rhizosphere	rxn06673	0.0	-1.168637201034106e-16	Acetyl-CoA:carbon-dioxide ligase (ADP-forming)
+rhizosphere	rxn00790	0.017749451871443677	0.0	5-Phosphoribosylamine:pyrophosphate phosphoribosyltransferase
+rhizosphere	rxn01169	0.0	0.0	ATP:D-glucose 6-phosphotransferase
+rhizosphere	rxn08296	0.0	-1.2591576593993421e-17	diacylglycerol kinase (n-C14:1)
+rhizosphere	rxn05569	0.0	6.671476297414689e-18	D-glucosamine transport via PEP:Pyr PTS
+rhizosphere	rxn08805	0.0	0.0	Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C14:1) (periplasm)
+rhizosphere	rxn00060	0.0	0.0	Porphobilinogen ammonia-lyase (polymerizing)
+rhizosphere	rxn00006	5.771732568970402e-05	0.0	hydrogen-peroxide:hydrogen-peroxide oxidoreductase
+rhizosphere	rxn09202	0.0	-0.0	Phosphatidylserine decarboxylase (n-C18:0)
+rhizosphere	rxn03239	0.0	0.0	(S)-3-Hydroxyhexadecanoyl-CoA:NAD+ oxidoreductase
+rhizosphere	rxn02473	0.0010628944871208872	-1.3877787807814457e-17	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate hydro-lyase
+rhizosphere	rxn08128	0.0	-0.0	Amylomaltase (maltopentaose)
+rhizosphere	rxn00834	0.009676891053410595	0.0	IMP:NAD+ oxidoreductase
+rhizosphere	rxn05293	0.0	-0.2223859100276427	MECDPDH
+rhizosphere	rxn12639	0.0	-5.091528907724377e-18	aminopeptidase
+rhizosphere	rxn03080	8.45675101670741e-07	0.0	6,7-Dimethyl-8-(1-D-ribityl)lumazine:6,7-dimethyl-8-(1-D-ribityl)
+rhizosphere	rxn05150	0.0	-0.008686949610454827	Zinc-ABC transport
+rhizosphere	rxn02297	0.0	-4.163336342344337e-17	6-Carboxyhexanoyl-CoA:L-alanine C-carboxyhexanoyltransferase
+rhizosphere	rxn05040	8.456751016707409e-07	1.3877787807814457e-17	3,4-Dihydroxy-2-butanone 4-phosphate synthase
+rhizosphere	rxn01204	0.010831248786715621	0.0	4-Aminobutanoate:2-oxoglutarate aminotransferase
+rhizosphere	rxn00350	0.0	0.0	glutathione hydralase (periplasmic)
+rhizosphere	rxn05326	0.00665098097211857	5.551115123125783e-17	Hexanoyl-[acyl-carrier protein]:malonyl-CoA
+rhizosphere	rxn08813	0.0	2.1706029957680724e-18	Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C16:0) (periplasm)
+rhizosphere	rxn09562	0.0	-1.2511799156325372e-16	guanylate kinase (GMP:dATP)
+rhizosphere	rxn00799	-0.7044769974315068	-0.0	(S)-Malate hydro-lyase
+rhizosphere	rxn00313	0.018224298441028297	0.0	meso-2,6-Diaminoheptanedioate carboxy-lyase
+rhizosphere	rxn09197	0.0	-0.0	Phosphatidylserine decarboxylase (n-C12:0)
+rhizosphere	rxn02369	0.0	0.0	2-Carboxy-2,5-dihydro-5-oxofuran-2-acetate lyase (decyclizing)
+rhizosphere	rxn02791	0.0	-0.0	(5-Glutamyl)-peptide:amino-acid 5-glutamyltransferase
+rhizosphere	rxn05455	-5.691983845255932e-18	1.3896644551748293e-16	12-methyl-tridecanoyl-ACP:[acyl-carrier-protein] transferase
+rhizosphere	rxn00086	0.0	0.0	glutathione:NADP+ oxidoreductase
+rhizosphere	rxn01187	0.0	1.3349766701893387e-18	D-Xylulose 5-phosphate D-glyceraldehyde-3-phosphate-lyase
+rhizosphere	rxn11944	0.0	-0.013899119376727873	Methyltransferase
+rhizosphere	rxn11268	0.0	0.0	phosphate ABC transporter permease protein
+rhizosphere	rxn05344	0.003110942712765137	5.551115123125783e-17	Tetradecanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein]
+rhizosphere	rxn00676	0.0	0.0	Propanoyl-CoA:acetyl-CoA C-acyltransferase
+rhizosphere	rxn01281	0.0	-0.0	(R)-Glycerate:NADP+ oxidoreductase
+rhizosphere	rxn10339	0.0	-0.0	isotetradecanoyl-cardiolipin synthase
+rhizosphere	rxn10226	0.0	-2.7755575615628914e-17	isoheptadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase
+rhizosphere	rxn03246	-0.00425425316647039	1.0006039008953782e-16	(S)-Hydroxyoctanoyl-CoA:NAD+ oxidoreductase
+rhizosphere	rxn10237	0.0	0.0	isohexadecanoyl-phosphatidylserine decarboxylase
+rhizosphere	rxn05248	0.0	-5.551115123125783e-17	FACOAL150(anteiso)
+rhizosphere	rxn08901	0.0	-0.005212169766273185	Malate dehydrogenase (menaquinone 8 as acceptor)
+rhizosphere	rxn08796	0.0	-1.372716496816472e-17	Lysophospholipase L1 (2-acylglycerophosphotidate, n-C12:0) (periplasm)
+rhizosphere	rxn03433	0.0	0.0	(S)-3-Hydroxyisobutyryl-CoA hydrolase
+rhizosphere	rxn03242	-0.00425425316647039	1.0006039008953782e-16	(S)-3-Hydroxydodecanoyl-CoA:NAD+ oxidoreductase
+rhizosphere	rxn10223	0.0	0.0	isopentadecanoyl-phosphatidate cytidylyltransferase
+rhizosphere	rxn01459	0.0	3.145767899040507e-16	4-Aminobutyraldehyde:NAD+ oxidoreductase
+rhizosphere	rxn10210	0.0	-1.1102230246251565e-16	isohexadecanoyl-glycerol-3-phosphate O-acyltransferase
+rhizosphere	rxn08618	2.9640912313598223e-05	0.0	glucosyltransferase I (LPS core synthesis)
+rhizosphere	rxn00256	0.0	-0.006949559688363844	Citrate oxaloacetate-lyase ((pro-3S)-CH2COO- -> acetyl-CoA)
+rhizosphere	rxn02503	0.0	1.5114234223262835e-17	ATP:2-amino-4-hydroxy-6-hydroxymethyl-7,8-dihydropteridine
+rhizosphere	rxn09101	0.0	2.7755575615628914e-17	phosphatidylglycerol phosphate phosphatase (n-C14:0)
+rhizosphere	rxn05349	0.0066509809721185705	0.0	acetyl-CoA:[acyl-carrier-protein] S-acetyltransferase
+rhizosphere	rxn00131	-0.0003763254202439717	-0.0	AMP phosphoribohydrolase
+rhizosphere	rxn00285	-0.5304030540527864	4.851327302624343e-17	Succinate:CoA ligase (ADP-forming)
+rhizosphere	rxn00547	0.0	0.0	ATP:D-fructose 6-phosphotransferase
+rhizosphere	rxn08845	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C12:0)
+rhizosphere	rxn08655	0.0	1.1102230246251565e-16	Glycolate oxidase
+rhizosphere	rxn00250	0.0	-0.006949559688363891	Pyruvate:carbon-dioxide ligase (ADP-forming)
+rhizosphere	rxn01334	0.0	0.0	Sedoheptulose 1,7-bisphosphate D-glyceraldehyde-3-phosphate-lyase
+rhizosphere	rxn08087	0.0	-0.23454763948227964	1-hexadec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C16:1)
+rhizosphere	rxn03146	5.928182462719645e-05	0.0	UDP-3-O-acetylglucosamine deacetylase
+rhizosphere	rxn00770	0.034257333577949536	3.3721454862867717e-17	ATP:D-ribose-5-phosphate pyrophosphotransferase
+rhizosphere	rxn00192	0.0	-0.006949559688363895	Acetyl-CoA:L-glutamate N-acetyltransferase
+rhizosphere	rxn00611	0.0	-2.7626839032741464e-16	sn-Glycerol-3-phosphate:NAD+ 2-oxidoreductase
+rhizosphere	rxn00588	0.0	0.0	Catechol:oxygen 1,2-oxidoreductase(decyclizing)
+rhizosphere	rxn00182	0.0	-1.1050735613096585e-16	L-Glutamate:NAD+ oxidoreductase (deaminating)
+rhizosphere	rxn00289	0.0	-3.978286145693387e-18	(2S,3R)-3-Hydroxybutane-1,2,3-tricarboxylate pyruvate-lyase
+rhizosphere	rxn03393	0.0	1.3877787807814457e-17	Octaprenyl-hydroxybenzoate decarboxylase
+rhizosphere	rxn05388	0.0	0.0	5-methyl-hexanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+rhizosphere	rxn04783	2.0127067419856413e-05	-8.673617379884035e-18	glycinamide ribonucleotide transformylase
+rhizosphere	rxn08849	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C16:1)
+rhizosphere	rxn05429	5.691983845255931e-18	0.0	12-methyl-tridecanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+rhizosphere	rxn01739	0.014212616792451881	0.0	ATP:shikimate 3-phosphotransferase
+rhizosphere	rxn00543	0.0	-0.0	Ethanol:NAD+ oxidoreductase
+rhizosphere	rxn00347	0.0	-2.0738368529716253e-17	L-Aspartate ammonia-lyase
+rhizosphere	rxn10052	0.0	-1.3477058006462086e-17	adenylate kinase (Inorganic triphosphate)
+rhizosphere	rxn05206	0.0	0.0	Potassium uptake
+rhizosphere	rxn00102	-0.06581944285194002	-0.0	Carbonic acid hydro-lyase
+rhizosphere	rxn03236	0.0	-0.0	4a-hydroxytetrahydrobiopterin hydro-lyase
+rhizosphere	rxn00804	-0.015065167175777515	-5.674856857193501e-17	L-leucine:NAD+ oxidoreductase(deaminating)
+rhizosphere	rxn05235	0.001074007379123245	2.7755575615628914e-17	Ribonucleotide reductase: CTP
+rhizosphere	rxn01521	0.0	2.7755575615628914e-17	5'-nucleotidase (dUMP)
+rhizosphere	rxn00097	0.06851798629559529	0.0	ATP:AMP phosphotransferase
+rhizosphere	rxn06591	0.0	3.87189036668068e-17	L-glutamate-semialdehyde: NADP+
+rhizosphere	rxn00126	0.0003763254202439718	5.551115123125783e-17	ATP:L-methione S-adenosyltransferase
+rhizosphere	rxn00414	0.0	-0.006949559688363891	Carbon-dioxide:L-glutamine amido-ligase (ADP-forming,
+rhizosphere	rxn05547	0.0	-1.3877787807814457e-17	Dipeptide transport via ABC system (gly-gln)
+rhizosphere	rxn06937	0.0	-0.14594075345564045	L-Glutamate:tRNA(Glu) ligase (AMP-forming)
+rhizosphere	rxn05937	0.0	0.0	Ferredoxin:NADP+ oxidoreductase
+rhizosphere	rxn00980	0.0	-1.734723475976807e-18	2-Phosphoglycolate phosphohydrolase
+rhizosphere	rxn05244	0.0018626900000000002	0.0	Branched chain amino acid:H+ symporter (Isoleucine)
+rhizosphere	rxn03445	0.0	0.0	O-Phospho-4-hydroxy-L-threonine:2-oxoglutarate aminotransferase
+rhizosphere	rxn01868	0.0	0.0	p-Cumic alcohol:NADP+ oxidoreductase
+rhizosphere	rxn05546	0.0	-1.3877787807814457e-17	Dipeptide transport via ABC system (gly-asn)
+rhizosphere	rxn02508	0.002283322774513985	0.0	N-(5-Phospho-beta-D-ribosyl)anthranilate ketol-isomerase
+rhizosphere	rxn05638	0.9195380763965758	0.0	L-proline transport in via proton symport
+rhizosphere	rxn08801	0.0	6.900851058250493e-18	Lysophospholipase L1 (2-acylglycerophosphotidate, n-C18:0) (periplasm)
+rhizosphere	rxn01108	0.0	-1.3813419516370732e-16	beta-D-Glucose:NAD+ 1-oxoreductase
+rhizosphere	rxn05251	0.0	-1.1102230246251565e-16	FACOAL170(anteiso)
+rhizosphere	rxn05516	0.0	-0.005212169766272935	cadmium transport out via ABC system
+rhizosphere	rxn05608	0.0	-0.5933186583940625	Maltotriose transport via ABC system
+rhizosphere	rxn02938	0.0	-0.006949559688363906	1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate carboxy-lyase
+rhizosphere	rxn05439	0.0	0.0	5-methyl-trans-hex-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+rhizosphere	rxn05339	-0.0066509809721185705	-0.0	(3R)-3-Hydroxybutanoyl-[acyl-carrier protein]:NADP+ oxidoreductase
+rhizosphere	rxn10268	0.0	0.0	isopentadecanoyl-Phosphatidylglycerophosphate phosphohydrolase
+rhizosphere	rxn05644	0.0	-0.013899119376727751	D-ribose transport out via ABC system
+rhizosphere	rxn00224	4.228375508359233e-08	0.0	Protoporphyrin ferro-lyase
+rhizosphere	rxn00569	0.0	-0.030404323636592102	ammonium-hydroxide:NAD(P)+ oxidoreductase
+rhizosphere	rxn00139	0.0	-0.013899119376727822	AMP:pyrophosphate phosphoribosyltransferase
+rhizosphere	rxn05451	0.0	0.0	12-methyl-tetra-decanoyl-ACP:[acyl-carrier-protein] transferase
+rhizosphere	rxn05736	0.0	-5.551115123125783e-17	fatty-acid--CoA ligase (tetradecanoate)
+rhizosphere	rxn05527	0.0	0.0	cytosine transport in via proton symport
+rhizosphere	rxn10253	0.0	-0.0	isoheptadecanoyl-Diacylglycerol kinase
+rhizosphere	rxn00931	0.0	1.6116917045976686e-16	L-Proline:NADP+ 5-oxidoreductase
+rhizosphere	rxn03904	0.00011670316403071484	0.0	UDPMurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala):undecaprenyl-
+rhizosphere	rxn02465	0.0	-5.551115123125783e-17	N-Acetyl-L-glutamate-5-semialdehyde:NADP+ 5-oxidoreductase
+rhizosphere	rxn08335	0.013046229793491576	2.7755575615628914e-17	dihydoorotic acid dehydrogenase (quinone8)
+rhizosphere	rxn09205	0.0	-6.245004513516506e-17	Phosphatidylserine syntase (n-C12:0)
+rhizosphere	rxn08711	2.9640912313598217e-05	0.0	heptosyltransferase II (LPS core synthesis)
+rhizosphere	rxn05957	0.0	0.0	O-Succinyl-L-homoserine succinate-lyase (adding cysteine)
+rhizosphere	rxn00549	0.0	-0.009555644571500412	D-Fructose-1,6-bisphosphate 1-phosphohydrolase
+rhizosphere	rxn08820	0.0	1.3941651920792295e-18	Lysophospholipase L2 (2-acylglycerophosphotidate, n-C16:0)
+rhizosphere	rxn01871	0.0	0.0	acetyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-acetyltransferase
+rhizosphere	rxn01257	1.8858554767272906e-05	0.0	chorismate:L-glutamine aminotransferase
+rhizosphere	rxn05029	0.0	7.869735371245888e-18	ATP:cobinamide Cobeta-adenosyltransferase
+rhizosphere	rxn01045	0.0	-1.1050735613096585e-16	L-Valine:NAD+ oxidoreductase(deaminating)
+rhizosphere	rxn05604	0.0	-0.0017373899220909186	malate-H+/Na+-lactate antiporter
+rhizosphere	rxn05401	0.0	0.0	13-methyl-3-oxo-tetra-decanoyl-ACP:NADP+ oxidoreductase
+rhizosphere	rxn05613	0.0	-8.673617379884035e-18	L-methionine S-oxide transport via ABC system
+rhizosphere	rxn01265	0.0	0.0	Nicotinate D-ribonucleotide:pyrophosphate phosphoribosyltransferase
+rhizosphere	rxn03535	0.0	-0.0	ATP:cob(I)yrinic acid-a,c-diamide Cobeta-adenosyltransferase
+rhizosphere	rxn01740	-0.014212616792451881	5.833411065872869e-17	Shikimate:NADP+ 5-oxidoreductase
+rhizosphere	rxn08548	0.0	-0.19285028135209634	glycerol-3-phosphate acyltransferase (C14:1)
+rhizosphere	rxn08546	0.0	-0.679319459537563	glycerol-3-phosphate acyltransferase (C12:0)
+rhizosphere	rxn12847	0.0	-0.0	Gly-Try aminopeptidase
+rhizosphere	rxn03130	2.964091231359822e-05	-1.1102230246251565e-16	UDP-2,3-bis(3-hydroxytetradecanoyl)glucosamine diphosphatase
+rhizosphere	rxn03250	0.00425425316647039	0.0	(S)-Hydroxyhexanoyl-CoA hydro-lyase
+rhizosphere	rxn05371	0.0	-5.551115123125783e-17	8-methyl-decanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+rhizosphere	rxn00083	0.0	-3.322944878902223e-16	NADPH:NAD+ oxidoreductase (B-specific)
+rhizosphere	rxn05347	0.0066509809721185705	-6.938893903907228e-18	Acyl-[acyl-carrier-protein]:malonyl-[acyl-carrier-protein]
+rhizosphere	rxn05338	-0.006650980972118571	-0.0	(3R)-3-Hydroxydecanoyl-[acyl-carrier-protein]:NADP+ oxidoreductase
+rhizosphere	rxn00416	0.01035951999548012	-1.3877787807814457e-17	L-aspartate:L-glutamine amido-ligase (AMP-forming)
+rhizosphere	rxn00165	0.0	-0.0069495596883638955	L-serine ammonia-lyase
+rhizosphere	rxn09112	0.0	8.818131456773755e-18	Phosphatidylglycerol synthase (n-C16:1)
+rhizosphere	rxn00903	-0.014380347135108777	-0.0	L-Valine:2-oxoglutarate aminotransferase
+rhizosphere	rxn00947	0.0	1.1102230246251565e-16	Palmitate:CoA ligase (AMP-forming)
+rhizosphere	rxn03394	0.0	-0.2970936766775543	rxn03394
+rhizosphere	rxn05400	0.0	-6.938893903907228e-18	11-methyl-dodecanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+rhizosphere	rxn08088	0.0	0.0	1-octadecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C18:0)
+rhizosphere	rxn10343	0.0	-0.006949559688363882	Mercury (Hg+2) ABC transporter
+rhizosphere	rxn05154	0.017803839999999998	1.3877787807814457e-17	L-Arginine-ABC transport
+rhizosphere	rxn05233	0.0	0.0	Ribonucleotide reductase: GDP
+rhizosphere	rxn05442	0.0	-2.7755575615628914e-17	11-methyl-trans-dodec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+rhizosphere	rxn08819	0.0	1.3877787807814457e-17	Lysophospholipase L2 (2-acylglycerophosphotidate, n-C14:1)
+rhizosphere	rxn00838	0.009135455305153962	2.7755575615628914e-17	IMP:L-aspartate ligase (GDP-forming)
+rhizosphere	rxn10265	0.0	5.204170427930421e-18	isoheptadecanoyl-Phosphatidylglycerophosphate phosphohydrolase
+rhizosphere	rxn00065	0.0	0.0	ATP pyrophosphate-lyase (cyclizing)
+rhizosphere	rxn00141	0.0	0.0	S-Adenosyl-L-homocysteine hydrolase
+rhizosphere	rxn05651	0.00896242244376315	-1.1540911288508724e-19	sulfate transport in via proton symport
+rhizosphere	rxn01806	0.0	3.53968875107e-17	Nitrous-oxide:(acceptor) oxidoreductase (NO-forming)
+rhizosphere	rxn09102	0.0	0.0	phosphatidylglycerol phosphate phosphatase (n-C14:0)
+rhizosphere	rxn03990	0.0	2.466670569222843e-16	nitric oxide, NAD(P)H2:oxygen oxidoreductase
+rhizosphere	rxn05425	0.0	0.0	10-methyl-undecanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+rhizosphere	rxn10234	0.0	0.0	isotetradecanoyl-phosphatidylserine decarboxylase
+rhizosphere	rxn01314	0.0	4.0292292614941715e-17	NADPH:6,7-dihydropteridine oxidoreductase
+rhizosphere	rxn10202	0.0	-0.0138991193767279	palmitoyl-glycerol-3-phosphate O-acyltransferase
+rhizosphere	rxn00337	0.04920170966425111	5.396484165922743e-18	ATP:L-aspartate 4-phosphotransferase
+rhizosphere	rxn01445	0.0	0.0	2'-Deoxyguanosine 5'-monophosphate phosphohydrolase
+rhizosphere	rxn02945	0.0	0.0	prephytoene diphosphate:geranylgeranyl-diphosphate
+rhizosphere	rxn00777	-0.024906267174863984	-0.0	D-Ribose-5-phosphate ketol-isomerase
+rhizosphere	rxn02889	0.0	-0.0	3-Methylcrotonoyl-CoA:carbon-dioxide ligase (ADP-forming)
+rhizosphere	rxn05602	0.0	-2.2005750665177722e-18	L-lactate reversible transport via proton symport
+rhizosphere	rxn01512	0.0007966682295299632	0.0	ATP:nucleoside-diphosphate phosphatransferase
+rhizosphere	rxn01466	0.0	0.0	Geranyl-diphosphate:isopentenyl-diphosphate geranyltrans-transferase
+rhizosphere	rxn02185	-0.02944800905243623	2.2702852970583826e-17	2-Acetolactate pyruvate-lyase (carboxylating)
+rhizosphere	rxn03406	0.0	-0.0069495596883638825	Undecaprenyl-diphospho-N-acetylmuramoyl-(N-acetylglucosamine)-
+rhizosphere	rxn00500	0.0	4.144025854911219e-17	(R)-Lactate:NAD+ oxidoreductase
+rhizosphere	rxn05358	0.0	1.8185538860631587e-17	2-methylbutanoyl-CoA:[acyl-carrier-protein] transferase
+rhizosphere	rxn01106	0.08214645287305528	0.0	2-Phospho-D-glycerate 2,3-phosphomutase
+rhizosphere	rxn08811	0.0	-0.0	Lysophospholipase L1 (2-acylglycerophosphoglycerol, n-C14:0) (periplasm)
+rhizosphere	rxn00361	0.00896242244376315	-2.016567938557156e-17	ATP:adenylylsulfate 3'-phosphotransferase
+rhizosphere	rxn02804	0.0	-0.0	myristoyl-CoA:acetylCoA C-myristoyltransferase
+rhizosphere	rxn10162	0.0	1.0685891351966568e-19	Hexadecanoate transport via proton symport
+rhizosphere	rxn00293	0.00029268815268862616	0.0	UTP:N-acetyl-alpha-D-glucosamine-1-phosphate uridylyltransferase
+rhizosphere	rxn05542	0.0	1.3877787807814457e-17	Dipeptide transport via ABC system (ala-gly)
+rhizosphere	rxn01480	0.0	-6.364938601221055e-17	3-Hydroxy-2-methylpropanoate:NAD+ oxidoreductase
+rhizosphere	rxn05740	-0.0065116982828732186	1.536200330828728e-17	cpd00155 phosphorylase
+rhizosphere	rxn03181	2.9640912313598217e-05	0.0	ATP:2,3,2',3'-tetrakis(3-hydroxytetradecanoyl)-D-glucosaminyl-beta-
+rhizosphere	rxn00974	0.0	0.0	citrate hydro-lyase
+rhizosphere	rxn05108	0.0	-0.0	2-keto-4-methylthiobutyrate transamination
+rhizosphere	rxn05485	0.0	-6.781150638503139e-18	N-Acetyl-D-glucosamine transport via PEP:Pyr PTS
+rhizosphere	rxn04070	0.0	0.0	pyridoxine 5'-phosphate synthase
+rhizosphere	rxn02004	0.0	0.0	Trehalose-6-phosphate phosphohydrolase
+rhizosphere	rxn03004	0.017729324804023817	0.0	10-Formyltetrahydrofolate:5'-phosphoribosylglycinamide
+rhizosphere	rxn00202	0.0	-0.16505204259864062	2-Hydroxybutane-1,2,4-tricarboxylate 2-oxoglutarate-lyase
+rhizosphere	rxn11544	0.0	-0.0	Hydrogenobyrinate  <=> Hydrogenobyrinate a,c diamide
+rhizosphere	rxn02925	0.0	-8.718708079140764e-18	L-Alanine:3-oxopropanoate aminotransferase
+rhizosphere	rxn02277	0.0	-8.673617379884035e-18	7,8-Diaminononanoate:carbon-dioxide cyclo-ligase
+rhizosphere	rxn10147	0.0	-0.006949559688363882	Cob(1)alamin transport via ABC system
+rhizosphere	rxn05735	0.0	-6.591949208711867e-17	aldehyde dehydrogenase (aminoacetaldehyde, NAD)
+rhizosphere	rxn00691	0.0	-0.0069495596883638565	10-Formyltetrahydrofolate amidohydrolase
+rhizosphere	rxn12638	0.0	0.0	aminopeptidase
+rhizosphere	rxn01843	0.0	-0.0	2-phenylacetamide amidohydrolase
+rhizosphere	rxn12643	0.0	-6.938893903907228e-18	aminopeptidase
+rhizosphere	rxn10207	-2.8459919226279656e-18	-7.936359902593892e-17	isotetradecanoyl-glycerol-3-phosphate O-acyltransferase
+rhizosphere	rxn05663	0.0	0.0	L-tryptophan transport in via proton symport
+rhizosphere	rxn08558	0.0	-0.0052121697662731465	glycerol-3-phosphate dehydrogenase (demethylmenaquinone-8)
+rhizosphere	rxn11650	0.0	0.0	cob(II)yrinic acid-a,c-diamide:FMN oxidoreductase
+rhizosphere	rxn02264	4.2283755083592346e-08	0.0	Hydroxymethylbilane hydro-lyase(cyclizing)
+rhizosphere	rxn01225	0.0	0.0	Guanine aminohydrolase
+rhizosphere	rxn04989	0.0	-0.024323458909273912	L-phenylalanine,tetrahydrobiopterin:oxygen
+rhizosphere	rxn03903	0.0	-0.0	UDPMurAc(oyl-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala):undecaprenyl-
+rhizosphere	rxn00985	0.0	-0.0	ATP:acetate phosphotransferase
+rhizosphere	rxn03897	0.0	0.0	benzoate 1,2-dioxygenase
+rhizosphere	rxn00623	-0.00896242244376315	-0.0	hydrogen-sulfide:NADP+ oxidoreductase
+rhizosphere	rxn05627	0.0	1.0513694748498032e-19	nitrate transport in via proton symport
+rhizosphere	rxn05447	0.0	0.0	8-methyl-trans-non-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+rhizosphere	rxn02046	0.0	0.0	D-O-Phosphoserine phosphohydrolase
+rhizosphere	rxn08352	0.0	2.210062649128955e-17	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase (dmpp)
+rhizosphere	rxn05209	0.0	-1.4477892830181156e-17	Proton sodium antiport
+rhizosphere	rxn08306	0.0	1.763626291354751e-17	CDP-diacylglycerol synthetase (n-C12:0)
+rhizosphere	rxn05535	0.0	-2.7755575615628914e-17	Dipeptide transport via ABC system (gly-met)
+rhizosphere	rxn05360	0.0	0.0	4-methyl-3-oxo-hexanoyl-ACP:NADP+ oxidoreductase
+rhizosphere	rxn03031	-0.018341001605059012	-0.0	Succinyl-CoA:2,3,4,5-tetrahydropyridine-2,6-dicarboxylate
+rhizosphere	rxn00148	0.0	2.0769485192817225e-17	ATP:pyruvate O2-phosphotransferase
+rhizosphere	rxn08804	0.0	0.0	Lysophospholipase L1 (2-acylglycerophosphoethanolamine, n-C14:0) (periplasm)
+rhizosphere	rxn00913	0.0	0.0	Guanosine 5'-monophosphate phosphohydrolase
+rhizosphere	rxn00214	0.0	-0.0	UDPglucose 4-epimerase
+rhizosphere	rxn00874	0.00425425316647039	0.0	Acetyl-CoA:acetyl-CoA C-acetyltransferase
+rhizosphere	rxn05197	0.0	0.0	Uracil ion-coupled transport
+rhizosphere	rxn06600	0.0	4.85722573273506e-17	S-aminomethyldihydrolipoylprotein:(6S)-tetrahydrofolate
+rhizosphere	rxn05438	0.0	5.551115123125783e-17	14-methyl-trans-hexa-dec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+rhizosphere	rxn08085	0.0	0.0	1-tetradec-7-enoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C14:1)
+rhizosphere	rxn09109	0.0	-6.200967557496528e-17	Phosphatidylglycerol synthase (n-C14:0)
+rhizosphere	rxn08839	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C14:0)
+rhizosphere	rxn10258	0.0	-9.30286986321723e-18	isohexadecanoyl-Diacylglycerol kinase
+rhizosphere	rxn00022	0.0	-0.020848679065091587	alpha-D-Glucoside glucohydrolase
+rhizosphere	rxn05289	0.012644491836442368	4.0292292614941715e-17	TRDR
+rhizosphere	rxn02000	2.964091231359822e-05	0.0	dTDP-4-dehydro-6-deoxy-D-glucose 3,5-epimerase
+rhizosphere	rxn10228	0.0	-2.0816681711721685e-17	isotetradecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase
+rhizosphere	rxn01977	0.0	-6.140060953061747e-17	alpha-D-Glucose 6-phosphate ketol-isomerase
+rhizosphere	rxn03249	-0.00425425316647039	-0.0	(S)-Hydroxyhexanoyl-CoA:NAD+ oxidoreductase
+rhizosphere	rxn09448	0.0	2.0816681711721685e-17	fatty-acid--CoA ligase (octadecenoate)
+rhizosphere	rxn01851	0.010831248786715621	0.0	4-aminobutanal:NAD+ 1-oxidoreductase
+rhizosphere	rxn03421	0.0	2.2189979770360634e-17	GTP 7,8-8,9-dihydrolase
+rhizosphere	rxn08843	0.0	0.0	Lysophospholipase L2 (2-acylglycerophosphoethanolamine, n-C18:0)
+rhizosphere	rxn12635	0.0	0.0	aminopeptidase
+rhizosphere	rxn00213	0.00024541491450516984	0.0	UTP:alpha-D-glucose-1-phosphate uridylyltransferase
+rhizosphere	rxn05409	0.0	1.3877787807814457e-17	2-methylpropionyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+rhizosphere	rxn02934	0.0	0.0	(2S,3S)-3-Hydroxy-2-methylbutanoyl-CoA hydro-liase
+rhizosphere	rxn10131	-0.00831712	-0.0	arginine/ornithine antiporter
+rhizosphere	rxn01145	0.0	2.7755575615628914e-17	Thymidylate 5'-phosphohydrolase
+rhizosphere	rxn00493	-0.008414467261634875	-0.0	L-Phenylalanine:2-oxoglutarate aminotransferase
+rhizosphere	rxn00173	0.5467364419453112	1.53440484136579e-17	Acetyl-CoA:orthophosphate acetyltransferase
+rhizosphere	rxn08528	0.0	-4.222534792079128e-18	fumarate reductase
+rhizosphere	rxn01509	0.0	-3.127949789081343e-17	ATP:(d)GMP phosphotransferase
+rhizosphere	rxn03240	0.0	-0.0	(S)-3-Hydroxyhexadecanoyl-CoA hydro-lyase
+rhizosphere	rxn05414	0.0	-0.0	6-methyl-3-oxo-heptanoyl-ACP:NADP+ oxidoreductase
+rhizosphere	rxn00789	0.0010628944871208872	2.7755575615628914e-17	1-(5-Phospho-D-ribosyl)-ATP:pyrophosphate phosphoribosyl-transferase
+rhizosphere	rxn10481	0.0	-0.006949559688363882	Copper transport via ABC system
+rhizosphere	rxn06077	0.0	1.5639748945406715e-17	L-methionine:oxidized-thioredoxin S-oxidoreductase
+rhizosphere	rxn02895	0.017749451871443677	1.9081958235744878e-17	5-Phospho-D-ribosylamine:glycine ligase (ADP-forming)
+rhizosphere	rxn10216	-2.845991922627966e-18	4.466912950640278e-17	isotetradecanoyl-1-acylglycerol-3-phosphate O-acyltransferase
+rhizosphere	rxn09211	0.0	-2.7755575615628914e-17	Phosphatidylserine syntase (n-C18:1)
+rhizosphere	rxn02312	0.0	-0.0	S-Adenosyl-L-methionine:8-amino-7-oxononanoate aminotransferase
+rhizosphere	rxn06075	0.0	-1.7607215609301095e-17	2'-Deoxyuridine 5'-diphosphate:oxidized-thioredoxin
+rhizosphere	rxn00438	0.0	-0.0	ATP:thiamin-phosphate phosphotransferase
+rhizosphere	rxn05405	0.0	0.0	15-methyl-3-oxo-hexa-decanoyl-ACP:NADP+ oxidoreductase
+rhizosphere	rxn01109	0.0	4.0292292614941715e-17	beta-D-Glucose:NADP+ 1-oxoreductase
+rhizosphere	rxn00679	0.0	0.0	2-Methylcitrate oxaloacetate-lyase
+rhizosphere	rxn03951	0.0	0.0	NAD-dependent threonine 4-phosphate dehydrogenase
+rhizosphere	rxn05327	0.0006436433198824424	0.0	Decanoyl-[acyl-carrier protein]:malonyl-CoA
+rhizosphere	rxn10344	0.0	-0.006949559688363882	Lead (Pb+2) ABC transporter
+rhizosphere	rxn12206	0.0	0.0	malonate decarboxylase
+rhizosphere	rxn10474	0.0	0.0	cobalt transport in/out via permease (no H+)
+rhizosphere	rxn05404	0.0	0.0	13-methyl-tetra-decanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+rhizosphere	rxn08798	0.0	1.3877787807814457e-17	Lysophospholipase L1 (2-acylglycerophosphotidate, n-C14:1) (periplasm)
+rhizosphere	rxn08797	0.0	0.0	Lysophospholipase L1 (2-acylglycerophosphotidate, n-C14:0) (periplasm)
+rhizosphere	rxn01102	0.0	0.0	ATP:(R)-glycerate 3-phosphotransferase
+rhizosphere	rxn08550	0.0	0.0	glycerol-3-phosphate acyltransferase (C16:1)
+rhizosphere	rxn02144	0.0	0.0	4-Carboxymethylbut-3-en-4-olide enol-lactonohydrolase
+rhizosphere	rxn10336	0.0	-0.0	stearoyl-cardiolipin synthase
+rhizosphere	rxn01643	0.04920170966425111	0.0	L-Aspartate-4-semialdehyde:NADP+ oxidoreductase (phosphorylating)
+rhizosphere	rxn01275	0.0	0.0	ATP:D-Gluconate 6-phosphotransferase
+rhizosphere	rxn10257	0.0	-3.721147945286892e-17	anteisopentadecanoyl-Diacylglycerol kinase
+rhizosphere	rxn09209	0.0	-2.0816681711721685e-17	Phosphatidylserine syntase (n-C16:1)
+rhizosphere	rxn02005	0.0	0.36311449371701016	trehalose transport via PEP:Pyr PTS
+rhizosphere	rxn01653	0.0	-5.551115123125783e-17	5-Formyltetrahydrofolate cyclo-ligase (ADP-forming)
+rhizosphere	rxn08656	1.8858554767272903e-05	3.469446951953614e-18	Glycolate oxidase
+rhizosphere	rxn01029	0.0	0.0	Agmatine iminohydrolase
+rhizosphere	rxn09198	0.0	0.0	Phosphatidylserine decarboxylase (n-C14:0)
+rhizosphere	rxn01671	0.0	-0.0	ATP:N-ribosylnicotinamide 5'-phosphotransferase
+rhizosphere	rxn01362	0.013046229793491576	-4.163336342344337e-17	Orotidine-5'-phosphate:pyrophosphate phosphoribosyltransferase
+rhizosphere	rxn00231	0.0	0.0	Acetamide amidohydrolase
+rhizosphere	rxn09106	0.0	1.9081958235744878e-17	phosphatidylglycerol phosphate phosphatase (n-C18:0)
+rhizosphere	rxn10270	0.0	0.0	isohexadecanoyl-Phosphatidylglycerophosphate phosphohydrolase
+rhizosphere	rxn08846	0.0	-0.0	Lysophospholipase L2 (2-acylglycerophosphoglycerol, n-C14:0)
+rhizosphere	rxn05450	0.0	0.0	14-methyl-trans-pentadec-2-enoyl-ACP:NAD+ oxidoreductase (A-specific)
+rhizosphere	rxn06493	0.0	0.0	dihydrolipoylprotein:NAD+ oxidoreductase
+rhizosphere	rxn02402	0.00011543465137940806	0.0	Nicotinate-nucleotide:pyrophosphate phosphoribosyltransferase
+rhizosphere	rxn03243	0.00425425316647039	0.0	Decanoyl-CoA:acetyl-CoA C-acyltransferase
+rhizosphere	rxn05375	0.0	0.0	10-methyl-dodecanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+rhizosphere	rxn10224	0.0	0.0	anteisopentadecanoyl-phosphatidate cytidylyltransferase
+rhizosphere	rxn00351	0.0	-8.673617379884035e-18	gamma-L-Glutamyl-L-cysteine:glycine ligase (ADP-forming)
+rhizosphere	rxn10231	0.0	-2.0816681711721685e-17	isohexadecanoyl-CDPdiacylglycerol-serine O-phosphatidyltransferase
+rhizosphere	rxn02811	-0.015065167175777518	-0.0	3-Isopropylmalate hydro-lyase
+rhizosphere	rxn00333	0.0	-0.006949559688363645	(S)-2-Hydroxy-acid:oxygen 2-oxidoreductase
+rhizosphere	rxn10262	0.0	-1.2401935114993057e-17	isopentadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase
+rhizosphere	rxn01286	0.0	-0.0069495596883642295	D-Glyceraldehyde:NAD+ oxidoreductase
+rhizosphere	rxn00199	0.5645669332699279	6.938893903907228e-18	Oxalosuccinate:NADP+ oxidoreductase (decarboxylating)
+rhizosphere	rxn01019	-0.0043703856348853275	-0.0	Carbamoyl-phosphate:L-ornithine carbamoyltransferase
+rhizosphere	rxn00412	0.006401760519655879	0.0	UTP:ammonia ligase(ADP-forming)
+rhizosphere	rxn05457	-0.003140583625078735	5.003019504476891e-17	tetradecanoyl-ACP:[acyl-carrier-protein] transferase
+rhizosphere	rxn10094	0.0	0.0	S-adenosylmethione:2-demethylmenaquinone methyltransferase
+rhizosphere	rxn08310	0.0	-0.0	CDP-diacylglycerol synthetase (n-C16:1)
+rhizosphere	rxn03917	0.00011856364925439288	0.0	sedoheptulose 7-phosphate isomerase
+rhizosphere	rxn03135	0.0010628944871208872	1.3877787807814457e-17	Imidazole-glycerol-3-phosphate synthase
+rhizosphere	rxn00469	0.0	-7.956572291386775e-18	N2-Acetyl-L-ornithine amidohydrolase
+rhizosphere	rxn05655	0.0	-0.0	sucrose transport via PEP:Pyr PTS
+rhizosphere	rxn12512	2.4947415499337423e-06	-3.3306690738754696e-16	(R)-4'-Phosphopantothenate:L-cysteine ligase
+rhizosphere	rxn09272	0.6819813344445618	3.978286145693387e-17	succinate dehydrogenase (irreversible)
+rhizosphere	rxn00686	-0.000785885871983638	-0.0	5,6,7,8-Tetrahydrofolate:NADP+ oxidoreductase
+rhizosphere	rxn00791	0.002283322774513985	-2.7755575615628914e-17	N-(5-Phospho-D-ribosyl)anthranilate:pyrophosphate
+rhizosphere	rxn09201	0.0	0.0	Phosphatidylserine decarboxylase (n-C16:1)
+rhizosphere	rxn12432	0.0	-0.0	transport of malonate [extraorganism-cytosol](secondary symport)
+rhizosphere	rxn08084	0.0	-5.551115123125783e-17	1-tetradecanoyl-sn-glycerol 3-phosphate O-acyltransferase (n-C14:0)
+rhizosphere	rxn10120	0.0	-0.0147678143377731	Nitrate reductase (Ubiquinol-8)
+rhizosphere	rxn01636	0.0	0.0	N2-Acetyl-L-ornithine:L-glutamate N-acetyltransferase
+rhizosphere	rxn05170	0.0	1.9081958235744878e-17	Maltose-ABC transport
+rhizosphere	rxn02303	4.228375508359234e-08	0.0	Coproporphyrinogen:oxygen oxidoreductase(decarboxylating)
+rhizosphere	rxn12850	0.0	-8.673617379884035e-18	Gly-Phe ABC transporters
+rhizosphere	rxn03843	0.0	-8.673617379884035e-19	Farnesyl diphosphate:Isopentenyl diphosphate farnesyl transferase
+rhizosphere	rxn10260	0.0	-6.200967557496528e-17	anteisoheptadecanoyl-CDPdiacylglycerol:sn-glycerol-3-phosphate 3-phosphatidyltransferase
+rhizosphere	rxn06672	0.0	-6.137844347643854e-18	biotin-carboxyl-carrier-protein:carbon-dioxide ligase (ADP-forming)
+rhizosphere	rxn03087	-0.01834100160505901	-0.0	N-Succinyl-L-2,6-diaminoheptanedioate:2-ocoglytarate
+rhizosphere	rxn01329	0.0	-0.0	D-Mannose 6-phosphate 1,6-phosphomutase
+rhizosphere	rxn01353	0.0	-0.0	ATP:nucleoside-diphosphate phosphatransferase
+rhizosphere	rxn00077	2.2410390194664374e-05	4.029229261494171e-17	ATP:NAD+ 2'-phosphotransferase
+rhizosphere	rxn00247	0.11077731235893054	-1.3877787807814457e-17	ATP:oxaloacetate carboxy-lyase (transphosphorylating)
+rhizosphere	rxn05379	0.0	-5.551115123125783e-17	12-methyl-tetra-decanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+rhizosphere	rxn05667	0.0	0.0	Urea transport via facilitate diffusion
+rhizosphere	rxn09450	0.0	0.0	fatty-acid--CoA ligase (hexadecenoate), peroxisomal
+rhizosphere	rxn01213	0.0	8.673617379884035e-19	Dimethylallyl-diphosphate:isopentenyl-diphosphate
+rhizosphere	rxn05384	0.0	6.938893903907228e-18	3-methylbutanoyl-ACP:malonyl-[acyl-carrier-protein] C-acyltransferase (decarboxylating)
+rhizosphere	rxn01917	0.0	0.0	ATP:N-acetyl-L-glutamate 5-phosphotransferase
+rhizosphere	rxn01100	0.01910276553953862	0.0	ATP:3-phospho-D-glycerate 1-phosphotransferase
+rhizosphere	rxn01631	0.0	0.0	5-Aminopentanoate:2-oxoglutarate aminotransferase
+rhizosphere	rxn05389	0.0	0.0	7-methyl-3-oxo-octanoyl-ACP:NADP+ oxidoreductase
+rhizosphere	rxn05163	0.0	0.0	Putrescine-ABC transport
+rhizosphere	rxn01603	1.8858554767272903e-05	5.551115123125783e-16	7,8-dihydropteroate:L-glutamate ligase (ADP-forming)
+rhizosphere	rxn05515	0.0	-0.006949559688363882	Cobalamin uptake in via ABC transport
+rhizosphere	rxn03247	0.00425425316647039	0.0	(S)-Hydroxyoctanoyl-CoA hydro-lyase
+rhizosphere	rxn05607	0.0	6.1846598448060854e-18	maltose transport via PEP:Pyr PTS
+rhizosphere	rxn06777	-0.003140583625078735	-0.0	(S)-3-Hydroxytetradecanoyl-CoA:NAD+ oxidoreductase
+rhizosphere	rxn02939	0.0	-3.9718090789436903e-17	4-phospho-D-erythronate:NAD+ 2-oxidoreductase
+rhizosphere	rxn00178	0.00425425316647039	-7.274215544252635e-17	Acetyl-CoA:acetyl-CoA C-acetyltransferase
+rhizosphere	rxn01015	0.0	0.0	Hydroxypyruvate ketol-isomerase
+rhizosphere	rxn10254	0.0	-3.721147945286892e-17	anteisoheptadecanoyl-Diacylglycerol kinase
+rhizosphere	rxn05545	0.0	0.0	Dipeptide transport via ABC system (ala-thr)
+rhizosphere	rxn02339	0.0	0.0	4-Hydroxy-L-glutamate:2-oxoglutarate aminotransferase
+rhizosphere	rxn02175	2.494741549933742e-06	0.0	ATP:pantetheine-4'-phosphate adenylyltransferase
+rhizosphere	rxn10163	0.0	8.441854168053589e-18	Tetradecanoate transport via proton symport
+rhizosphere	rxn01544	0.0	-0.01389911937672799	XMP:pyrophosphate phosphoribosyltransferase
+rhizosphere	rxn00288	0.0	-0.005212169766272996	Succinate:(acceptor) oxidoreductase
+rhizosphere	rxn10012	0.00425425316647039	1.1102230246251565e-16	acyl-CoA dehydrogenase (decanoyl-CoA)
+rhizosphere	rxn00132	0.0	-6.449903959072025e-17	Adenosine 5'-monophosphate phosphohydrolase
+rhizosphere	rxn05183	0.0	-0.006949559688363882	D-Methionine-ABC transport
+rhizosphere	rxn01790	-2.494741549933742e-06	8.875991908144254e-17	(R)-Pantoate:NADP+ 2-oxidoreductase
+rhizosphere	rxn00935	1.4986129574315068	-3.0758280203366364e-17	(S)-Malate:(acceptor) oxidoreductase
+rhizosphere	rxn05528	0.0	-0.006949559688363882	Copper export via ATPase
+rhizosphere	rxn00747	0.006236008199729272	0.0	D-Glyceraldehyde-3-phosphate ketol-isomerase
+rhizosphere	rxn01872	0.0	-0.0	succinyl-CoA:enzyme N6-(dihydrolipoyl)lysine S-succinyltransferase
+rhizosphere	rxn05538	0.0	-1.3877787807814457e-17	Dipeptide transport via ABC system (gly-pro-L)
+rhizosphere	rxn02359	0.0	0.0	trans-4-Hydroxy-L-proline:NAD+ oxidoreductase
+rhizosphere	rxn00629	0.0	0.0	D-Mannitol:NAD+ 2-oxidoreductase
+rhizosphere	rxn00707	0.0	1.9608151049993867e-17	ITP:cytidine 5'-phosphotransferase
+rhizosphere	rxn03893	0.0	0.0	Hydroxybenzoate octaprenyltransferase
+rhizosphere	rxn02270	0.0	-5.551115123125783e-17	(S)-2-methylbutanoyl-CoA:acceptor 2,3-oxidoreductase
+rhizosphere	rxn02285	-0.00011670316403071487	-0.0	UDP-N-acetylmuramate:NADP+ oxidoreductase
+rhizosphere	rxn08710	2.9640912313598223e-05	0.0	heptosyltransferase I (LPS core synthesis)
+rhizosphere	rxn05146	0.0	-0.005212169766272957	L-Glutamate-ABC transport
+rhizosphere	rxn10213	0.0	8.326672684688674e-17	stearoyl-1-acylglycerol-3-phosphate O-acyltransferase
+rhizosphere	rxn05380	0.0	-1.0657007142757759e-16	14-methyl-3-oxo-hexa-decanoyl-ACP:NADP+ oxidoreductase
+rhizosphere	rxn00237	0.01881234635856456	2.7755575615628914e-17	ATP:nucleoside-diphosphate phosphatransferase
+rhizosphere	rxn05517	0.0	-0.0	cadminum transport out via antiport
+rhizosphere	rxn00548	0.008789928501458884	1.3877787807814457e-17	D-Fructose-6-phosphate D-erythrose-4-phosphate-lyase
+rhizosphere	rxn00114	0.008675844158606245	0.0	ATP:carbamate phosphotransferase
+rhizosphere	rxn00420	0.06304368733351666	0.0	L-O-Phosphoserine phosphohydrolase
+rhizosphere	rxn00001	0.0	0.0	Pyrophosphate phosphohydrolase
+rhizosphere	rxn01476	0.0	-0.0043434748052273795	6-Phospho-D-glucono-1,5-lactone lactonohydrolase
+rhizosphere	rxn00058	0.0	-0.006949559688363751	Ferrocytochrome-c:oxygen oxidoreductase
+rhizosphere	rxn02003	-2.964091231359822e-05	-0.0	dTDP-6-deoxy-L-mannose:NADP+ 4-oxidoreductase
+rhizosphere	rxn11937	0.0	-0.00868694961045468	Nitrogen:(NAD) oxidoreductase (N2O-forming)
+rhizosphere	rxn06723	5.928182462719644e-05	0.0	UDP-3-O-(3-hydroxymyristoyl)glucosamine acyltransferase
+rhizosphere	rxn01268	0.0	-2.6849558015731014e-16	Prephenate:NAD+ oxidoreductase(decarboxylating)
+rhizosphere	rxn07438	0.0	0.0	peptide-methionine:thioredoxin-disulfide S-oxidoreductase
+rhizosphere	rxn08336	0.0	-4.95807986907591e-17	dihydroorotic acid (menaquinone-8)
+rhizosphere	rxn01961	0.0	-8.673617379884035e-18	Xanthosine 5'-phosphate phosphohydrolase
+rhizosphere	rxn10770	0.0	-5.5253678065482924e-17	choline dehydrogenase
+rhizosphere	rxn01210	0.0	5.551115123125783e-17	10-Formyltetrahydrofolate:L-glutamate ligase (ADP-forming)
+rhizosphere	rxn05501	0.0	-0.0	arbutin transport via PEP:Pyr PTS
+rhizosphere	rxn10220	0.0	0.0	isoheptadecanoyl-phosphatidate cytidylyltransferase
+rhizosphere	rxn03907	0.0	-0.0	CTP: 2-C-Methyl-D-erythritol 4-phosphate cytidylyltransferase
+rhizosphere	rxn00851	0.00011670316403071483	-8.673617379884035e-18	D-AlanineD-Alanine ligase (ADP-forming)
+rhizosphere	rxn02268	0.0	-0.02432345890927301	(S)-2-methylbutanoyl-CoA:oxygen 2,3-oxidoreductase
+rhizosphere	rxn00346	0.0025071623976697464	0.0	L-Aspartate 1-carboxy-lyase
+rhizosphere	rxn00831	0.0	1.9081958235744878e-17	Inosine 5'-monophosphate phosphohydrolase
+rhizosphere	rxn00827	0.0	0.0	CTP:N-acylneuraminate cytidylyltransferase
+rhizosphere	rxn00407	0.0	-0.006949559688363903	CTP aminohydrolase
+rhizosphere	rxn05454	0.0	0.0	15-methyl-hexa-decanoyl-ACP:[acyl-carrier-protein] transferase
+rhizosphere	rxn05625	0.0	3.5042204988935768e-19	nitrite transport in via proton symport
+rhizosphere	rxn00101	0.0	0.0	Urea amidohydrolase
+rhizosphere	rxn02376	0.0	1.5234673643688622e-16	3-Carboxy-1-hydroxypropyl-ThPP:lipoamde
+rhizosphere	rxn02680	0.00425425316647039	0.0	Octanoyl-CoA:acetyl-CoA C-acyltransferase
+rhizosphere	rxn03839	0.0	0.0	AMID5
+rhizosphere	rxn05301	0.00233919	2.691505855615496e-17	TYRt6
+rhizosphere	rxn05343	0.0066509809721185705	2.7755575615628914e-17	Octanoyl-[acyl-carrier protein]:malonyl-[acyl-carrier-protein]
+rhizosphere	rxn00336	-1.8858554766595148e-05	-7.956572291386772e-18	Isocitrate glyoxylate-lyase
+rhizosphere	rxn05208	0.0	0.0	Na+ lactate / malate H+ antiporter
+rhizosphere	rxn05243	0.00303228	0.0	Branched chain amino acid:H+ symporter (Leucine)
+rhizosphere	rxn10571	0.0	-0.006949559688363881	magnesium transport via ABC system
+rhizosphere	rxn05195	0.0	-0.006949559688363882	Fe3+-ABC transport
+rhizosphere	rxn00062	4.98	-0.00694955968836388	ATP phosphohydrolase (protein-secreting)
+rhizosphere	rxn01208	0.015065167175777515	-1.3877787807814457e-17	2-Oxo-4-methyl-3-carboxypentanoate decarboxylation
+rhizosphere	rxn04132	0.0	0.0	rxn04132
+rhizosphere	rxn04133	0.0	0.0	rxn04133
+rhizosphere	rxn05319	2.6612828411167806	0.0	H2Ot5
+rhizosphere	rxn05467	-2.7181622616737684	-0.0	CO2 transport via diffusion
+rhizosphere	rxn05468	1.7495370857292702	0.0	O2 transport via diffusion
+rhizosphere	rxn02374	0.022875511500223454	0.0	L-glutamate 5-semialdehyde dehydratase (spontaneous)
+rhizosphere	rxn05116	0.0	-0.1528903131440042	rxn05116
+rhizosphere	rxn03012	0.0	0.0	rxn03012
+rhizosphere	rxn05064	0.0	0.0	carbamate hydro-lyase
+rhizosphere	rxn02666	0.0	0.0	L-2-amino-3-oxobutanoate decarboxylation (spontaneous)
+rhizosphere	rxn04457	0.0	0.0	rxn04457
+rhizosphere	rxn04456	0.0	0.0	rxn04456
+rhizosphere	rxn01664	0.0	0.0	2-Aminoadipate 6-semialdehyde
+rhizosphere	rxn02916	0.0	0.0	6-Amino-2-oxohexanoate cyclation
+rhizosphere	rxn05361	0.0	2.7755575615628914e-17	4-methyl-3-hydroxy-hexanoyl-ACP hydro-lyase
+rhizosphere	rxn05398	0.0	-1.3877787807814457e-17	11-methyl-3-hydroxy-dodecanoyl-ACP hydro-lyase
+rhizosphere	rxn00119	0.01319257386983589	0.0	ATP:nucleoside-phosphate phosphotransferase
+rhizosphere	rxn02304	2.1141877541796166e-08	0.0	Protoporphyrinogen-IX:oxygen oxidoreductase
+rhizosphere	rxn12664	0.0	-0.012161729454636568	Menaquinone transport
+rhizosphere	rxn05267	0.0	-5.204170427930421e-17	DHNAOT7
+rhizosphere	rxn05514	0.0	1.0842021724855044e-19	calcium transport in/out via proton antiporter
+rhizosphere	rxn12510	2.494741549933742e-06	2.7755575615628914e-17	ATP:pantothenate 4'-phosphotransferase
+rhizosphere	rxn08333	0.0	-3.469446951953614e-18	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+rhizosphere	rxn05386	0.0	0.0	5-methyl-3-hydroxy-hexanoyl-ACP hydro-lyase
+rhizosphere	rxn06848	2.964091231359822e-05	0.0	Endotoxin Synthesis (myristoyl transferase)
+rhizosphere	rxn05402	0.0	0.0	13-methyl-3-hydroxy-tetra-decanoyl-ACP hydro-lyase
+rhizosphere	rxn09225	2.964091231359822e-05	-3.3306690738754696e-16	rhamnosyltransferase I (LPS core biosynthesis)
+rhizosphere	rxn08712	2.9640912313598217e-05	-4.440892098500626e-16	heptosyltransferase III (LPS core synthesis)
+rhizosphere	rxn08954	2.964091231359822e-05	0.0	3-deoxy-D-manno-octulosonic acid transferase III (LPS core biosynthesis)
+rhizosphere	rxn03511	0.00011856364925439289	0.0	ADP-D-glycero-D-manno-heptose 6-epimerase
+rhizosphere	rxn05394	0.0	0.0	9-methyl-3-hydroxy-decanoyl-ACP hydro-lyase
+rhizosphere	rxn03182	2.9640912313598223e-05	0.0	3-deoxy-D-manno-octulosonic acid transferase
+rhizosphere	rxn05365	0.0	0.0	6-methyl-3-hydroxy-octanoyl-ACP hydro-lyase
+rhizosphere	rxn08583	2.9640912313598227e-05	0.0	galactosyltransferase I (LPS core synthesis)
+rhizosphere	rxn08619	2.9640912313598227e-05	2.220446049250313e-16	glucosyltransferase II (LPS core synthesis)
+rhizosphere	rxn05373	0.0	0.0	10-methyl-3-hydroxy-dodecanoyl-ACP hydro-lyase
+rhizosphere	rxn05390	0.0	0.0	7-methyl-3-hydroxy-octanoyl-ACP hydro-lyase
+rhizosphere	rxn05039	4.228375508353704e-07	0.0	pyrimidine phosphatase
+rhizosphere	rxn03439	2.964091231359822e-05	0.0	3-deoxy-D-manno-octulosonic acid transferase
+rhizosphere	rxn08713	2.9640912313598223e-05	1.1102230246251565e-16	heptosyltransferase IV (LPS core synthesis)
+rhizosphere	rxn13661	0.0	1.1102230246251565e-16	S-adenosylmethione:2-demthylmenaquinone methyltransferase (menaquinone 7)
+rhizosphere	rxn01541	0.0	-1.8648277366750676e-17	Cytidine ribohydrolase
+rhizosphere	rxn05722	0.0	0.0	Trimetaphosphate transport in via proton symport
+rhizosphere	rxn05381	0.0	0.0	14-methyl-3-hydroxy-hexa-decanoyl-ACP hydro-lyase
+rhizosphere	rxn08620	2.9640912313598227e-05	-2.220446049250313e-16	glucosyltransferase III (LPS core synthesis)
+rhizosphere	rxn12933	0.0011136695413916547	-1.1102230246251565e-16	[Acyl-carrier-protein] acetyltransferase
+rhizosphere	rxn05369	0.0	2.7755575615628914e-17	8-methyl-3-hydroxy-decanoyl-ACP hydro-lyase
+rhizosphere	rxn03919	0.0001185636492543929	0.0	D-glycero-D-manno-heptose 1,7-bisphosphate phosphatase
+rhizosphere	rxn08709	2.9640912313598217e-05	0.0	LPS heptose kinase II (LPS core synthesis)
+rhizosphere	rxn05406	0.0	0.0	15-methyl-3-hydroxy-hexa-decanoyl-ACP hydro-lyase
+rhizosphere	rxn05255	0.0	0.0	FOLt
+rhizosphere	rxn03538	0.0	0.0	Adenosylcobalamin 5'-phosphate synthase
+rhizosphere	rxn05618	0.0	-0.0017373899220909372	manganese transport in via proton symport
+rhizosphere	rxn05377	0.0	0.0	12-methyl-3-hydroxy-tetra-decanoyl-ACP hydro-lyase
+rhizosphere	EX_Biomass	0.042283755083592334	0.0	
+rhizosphere	EX_cpd11590_e0	0.0	-0.31012410109326405	
+rhizosphere	EX_cpd16062_e0	0.0	0.0	
+rhizosphere	EX_cpd00156_e0	-0.00337883	-0.16157726275445902	
+rhizosphere	EX_cpd11583_e0	0.0	-0.2831945573008534	
+rhizosphere	EX_cpd01242_e0	0.0	0.0	
+rhizosphere	EX_cpd00254_e0	0.0	0.0	
+rhizosphere	EX_cpd15603_e0	0.0	-0.19198158639105128	
+rhizosphere	EX_cpd11576_e0	0.0	0.0	
+rhizosphere	EX_cpd00098_e0	0.0	-0.022586068987182545	
+rhizosphere	EX_cpd00971_e0	0.0	0.0	
+rhizosphere	EX_cpd00023_e0	-0.0283302	-0.11814251470218487	
+rhizosphere	EX_cpd03424_e0	0.0	0.0	
+rhizosphere	EX_cpd00205_e0	0.0	0.0	
+rhizosphere	EX_cpd00034_e0	0.0	0.0	
+rhizosphere	EX_cpd00009_e0	-0.04180070546552529	0.0	
+rhizosphere	EX_cpd15606_e0	0.0	-0.33357886504146345	
+rhizosphere	EX_cpd00048_e0	-0.00896242244376315	0.0	
+rhizosphere	EX_cpd00039_e0	0.0	-0.20327462088464215	
+rhizosphere	EX_cpd00106_e0	0.0	-0.07991993641618403	
+rhizosphere	EX_cpd00264_e0	0.0	-0.537722180887179	
+rhizosphere	EX_cpd01171_e0	0.0	0.0	
+rhizosphere	EX_cpd00211_e0	0.0	0.0	
+rhizosphere	EX_cpd00129_e0	0.0	-0.14941553329982213	
+rhizosphere	EX_cpd00119_e0	-0.00506825	-0.18850680654686933	
+rhizosphere	EX_cpd01017_e0	0.0	-0.19198158639105128	
+rhizosphere	EX_cpd11586_e0	0.0	-0.19458767127421436	
+rhizosphere	EX_cpd00060_e0	0.0	-0.22846677475496163	
+rhizosphere	EX_cpd00797_e0	0.0	-0.11987990462427534	
+rhizosphere	EX_cpd00027_e0	-0.04098397	-0.16765812748177725	
+rhizosphere	EX_cpd11589_e0	0.0	-0.11901120966323042	
+rhizosphere	EX_cpd00082_e0	0.0	-0.1772137720532777	
+rhizosphere	EX_cpd00130_e0	-0.79413596	-0.07991993641618401	
+rhizosphere	EX_cpd01030_e0	0.0	0.0	
+rhizosphere	EX_cpd15302_c0	0.0	0.0	
+rhizosphere	EX_cpd00268_e0	0.0	-0.08686949610454861	
+rhizosphere	EX_cpd00066_e0	0.0	-0.30664932124905403	
+rhizosphere	EX_cpd11584_e0	0.0	-0.2701641328851717	
+rhizosphere	EX_cpd00142_e0	0.0	0.0	
+rhizosphere	EX_cpd00355_e0	0.0	0.0	
+rhizosphere	EX_cpd15604_e0	0.0	-0.2458406739758703	
+rhizosphere	EX_cpd00105_e0	0.0	0.0	
+rhizosphere	EX_cpd00041_e0	-0.03205557	-0.0747077666499111	
+rhizosphere	EX_cpd00162_e0	0.0	-0.06775820696154716	
+rhizosphere	EX_cpd11593_e0	0.0	-0.1563650929882135	
+rhizosphere	EX_cpd00001_e0	2.661282841116781	0.0	
+rhizosphere	EX_cpd00222_e0	0.0	-0.15636509298818602	
+rhizosphere	EX_cpd01329_e0	0.0	0.0	
+rhizosphere	EX_cpd00314_e0	0.0	0.0	
+rhizosphere	EX_cpd00100_e0	0.0	-0.10076861548127565	
+rhizosphere	EX_cpd00064_e0	-0.00831712	-0.13030424415684871	
+rhizosphere	EX_cpd11587_e0	0.0	-0.19458767127421434	
+rhizosphere	EX_cpd00322_e0	-0.00186269	-0.21196157049508724	
+rhizosphere	EX_cpd00013_e0	-0.287738944876568	0.0	
+rhizosphere	EX_cpd01080_e0	0.0	-0.12074859958532062	
+rhizosphere	EX_cpd00107_e0	-0.00303228	-0.20674940072882392	
+rhizosphere	EX_cpd00226_e0	0.0	-0.13117293911786884	
+rhizosphere	EX_cpd00036_e0	-0.12240603	-0.0868694961045477	
+rhizosphere	EX_cpd10515_e0	0.0	0.0	
+rhizosphere	EX_cpd00099_e0	0.0	0.0	
+rhizosphere	EX_cpd11592_e0	0.0	-0.1572337879492313	
+rhizosphere	EX_cpd00276_e0	0.0	-0.17460768717014113	
+rhizosphere	EX_cpd00012_e0	0.0	-0.008686949610454651	
+rhizosphere	EX_cpd11580_e0	0.0	-0.15723378794923126	
+rhizosphere	EX_cpd11581_e0	0.0	-0.1329103290399582	
+rhizosphere	EX_cpd01012_e0	0.0	0.0	
+rhizosphere	EX_cpd01262_e0	0.0	0.0	
+rhizosphere	EX_cpd00307_e0	0.0	-0.2397598092485524	
+rhizosphere	EX_cpd00159_e0	0.0	-0.07991993641618378	
+rhizosphere	EX_cpd01914_e0	0.0	-0.21630504530032474	
+rhizosphere	EX_cpd00531_e0	0.0	0.0	
+rhizosphere	EX_cpd00051_e0	-0.00948672	-0.15115292322194035	
+rhizosphere	EX_cpd00214_e0	0.0	0.0	
+rhizosphere	EX_cpd11585_e0	0.0	-0.11901120966325783	
+rhizosphere	EX_cpd00122_e0	0.0	-0.22499199491077881	
+rhizosphere	EX_cpd00635_e0	0.0	0.0	
+rhizosphere	EX_cpd00065_e0	0.0	-0.37267013828851037	
+rhizosphere	EX_cpd00209_e0	0.0	0.0	
+rhizosphere	EX_cpd11591_e0	0.0	-0.272770217768281	
+rhizosphere	EX_cpd00092_e0	0.0	-0.2397598092485524	
+rhizosphere	EX_cpd00058_e0	0.0	0.0	
+rhizosphere	EX_cpd04097_e0	0.0	0.0	
+rhizosphere	EX_cpd00149_e0	0.0	0.0	
+rhizosphere	EX_cpd00794_e0	0.0	0.0	
+rhizosphere	EX_cpd00076_e0	0.0	0.0	
+rhizosphere	EX_cpd00308_e0	0.0	-0.04864691781854675	
+rhizosphere	EX_cpd00179_e0	0.0	-0.3631144937170101	
+rhizosphere	EX_cpd15605_e0	0.0	-0.34574059449610045	
+rhizosphere	EX_cpd00073_e0	0.0	0.0	
+rhizosphere	EX_cpd00118_e0	0.0	-0.13030424415684871	
+rhizosphere	EX_cpd00423_e0	0.0	0.0	
+rhizosphere	EX_cpd11582_e0	0.0	-0.19458767127421484	
+rhizosphere	EX_cpd03847_e0	0.0	-0.5316413161598311	
+rhizosphere	EX_cpd00637_e0	0.0	0.0	
+rhizosphere	EX_cpd11588_e0	0.0	-0.18850680654686855	
+rhizosphere	EX_cpd03696_e0	0.0	0.0	
+rhizosphere	EX_cpd00528_c0	0.0	-0.006949559688363541	
+rhizosphere	EX_cpd00069_e0	-0.00233919	-0.2944875917944171	
+rhizosphere	EX_cpd00221_e0	0.0	-0.07991993641618364	
+rhizosphere	EX_cpd10516_e0	0.0	0.0	
+rhizosphere	EX_cpd00011_e0	2.7181622616737684	0.0	
+rhizosphere	EX_cpd00007_e0	-1.7495370857292702	0.0	
+rhizosphere	EX_cpd11416_c0	0.0	0.0	
+rhizosphere	EX_cpd11606_e0	0.0	2.3058972820690483e-17	
+rhizosphere	EX_cpd00063_e0	0.0	0.0	
+rhizosphere	EX_cpd00793_e0	0.0	-0.30143715148275463	
+rhizosphere	EX_cpd00393_e0	0.0	-0.5776821490952467	
+rhizosphere	EX_cpd00030_e0	0.0	0.0	
+rhizosphere	EX_cpd00141_e0	0.0	-0.0799199364161838	
+rhizosphere	EX_cpd00029_e0	0.0	-0.04864691781854675	
+rhizosphere	EX_cpd00137_e0	0.0	-0.1181425147021849	
+rhizosphere	EX_cpd00139_e0	0.0	-0.036485188363909904	
+rhizosphere	EX_cpd00024_e0	0.0	-0.10598078524754814	
+rhizosphere	EX_cpd03561_e0	0.0	0.0	
+rhizosphere	EX_cpd00047_e0	0.0	-0.011293034493591132	
+rhizosphere	EX_cpd00386_e0	0.0	-0.0799199364161837	
+rhizosphere	EX_cpd00067_e0	-15.0	-0.0017373899220909375	
+rhizosphere	EX_cpd00067_c0	13.292963079506483	0.0	
+rhizosphere	ADDitrate	0.0	-5.8876690591588976e-18	
+rhizosphere	ADD_acetate	0.0	-0.0	
+rhizosphere	ADD_propionate	0.0	0.0	
+rhizosphere	ADD_2_Oxoglutarate	0.0	3.867619147206874e-18	
+rhizosphere	ADD_gluconate	0.0	0.0	
+rhizosphere	ADD_formate	0.0	0.0	
+rhizosphere	ADD_D_Malate	0.0	-3.153431263968572e-18	
+rhizosphere	rxn00160	0.0	4.163336342344337e-17	
+rhizosphere	rxn00741	0.0	1.3877787807814457e-17	
+rhizosphere	R00993	0.0	-0.031273018597637654	
+rhizosphere	ADD_ex-2-hydrobut	0.0	0.13204163407891287	
+rhizosphere	EX_cpd20885_e0	0.0	-0.3422658146519185	
+rhizosphere	ADD_Tur2	0.0	-8.673617379884035e-18	
+rhizosphere	ADD_Tur3	0.0	0.0	
+rhizosphere	EX_cpd29840_e0	0.0	-0.3492153743402824	
+rhizosphere	ADD_Melibiose2	0.0	0.0	
+rhizosphere	ADD_Melibiose3	0.0	-2.7755575615628914e-17	R01101
+rhizosphere	EX_cpd26818_e0	0.0	-0.17460768717014113	
+rhizosphere	ADD_Galactose2	0.0	-1.3877787807814457e-17	
+rhizosphere	ADD_Galactose3	0.0	0.0	R10619
+rhizosphere	rxn15121	0.0	0.0	R01092
+rhizosphere	rxn00355	0.0	0.0	R00502
+rhizosphere	rxn01484	0.0	0.0	R02059
+rhizosphere	rxn00552	0.0	0.0	R00765
+rhizosphere	EX_cpd00492_e0	0.0	-0.22499199491077893	
+rhizosphere	ADD_ManNAc2	0.0	-1.3877787807814457e-17	
+rhizosphere	rxn01951	0.0	-1.3877787807814457e-17	R02705
+rhizosphere	rxn01506	0.0	-0.0	R02087
+rhizosphere	EX_cpd00750_e0	0.0	-0.17547638213118594	
+rhizosphere	ADD_D_Fuc2	0.0	-1.3877787807814457e-17	
+rhizosphere	ADD_D_Fuc3	0.0	0.0	
+rhizosphere	ADD_D_Fuc4	0.0	0.0	
+rhizosphere	rxn02608	0.0	0.0	R03671
+rhizosphere	rxn02210	0.0	0.0	R03081
+rhizosphere	ADD_D_Fuc7	0.0	1.6917914709055537e-17	R01735
+rhizosphere	EX_cpd00751_e0	0.0	-0.18242594181955016	
+rhizosphere	ADD_L_Fuc2	0.0	1.3877787807814457e-17	
+rhizosphere	rxn02263	0.0	0.0	R03163
+rhizosphere	rxn02319	0.0	0.0	R03241
+rhizosphere	rxn01620	0.0	0.0	R02262
+rhizosphere	EX_cpd01307_e0	0.0	-0.158102482910277	
+rhizosphere	ADD_D_Ara2	0.0	0.0	
+rhizosphere	rxn03883	0.0	-1.2507548761192227e-17	R05604
+rhizosphere	EX_cpd00121_e0	0.0	-0.17026421236488612	
+rhizosphere	ADD_L_Ino2	0.0	1.3877787807814457e-17	
+rhizosphere	rxn00879	0.0	-6.906709758185366e-17	R01183
+rhizosphere	rxn02007	0.0	-1.3877787807814457e-17	R02782
+rhizosphere	rxn12147	0.0	0.0	R08603
+rhizosphere	rxn12146	0.0	1.3877787807814457e-17	R08503
+rhizosphere	rxn03932	0.0	2.7755575615628914e-17	R05661
+rhizosphere	rxn01176	0.0	-1.3877787807814457e-17	R05378
+rhizosphere	EX_cpd00550_e0	0.0	-0.06949559688363814	
+rhizosphere	ADD_D_Ser2	0.0	0.0	
+rhizosphere	rxn00166	0.0	0.0	R00221
+rhizosphere	EX_cpd01293_e0	0.0	-0.11293034493591192	
+rhizosphere	ADD_5oxpro2	0.0	-6.938893903907228e-18	
+rhizosphere	ADD_5oxpro3	0.0	0.0	R00251
+rhizosphere	EX_cpd02143_e0	0.0	-0.15810248291027704	
+rhizosphere	ADD_D_Gal14_lac2	0.0	-1.3877787807814457e-17	
+rhizosphere	rxn02174	0.0	0.0	R03034
+rhizosphere	rxn02173	0.0	0.0	R03033
+rhizosphere	rxn40366	0.0	0.0	R10616
+rhizosphere	EX_cpd00281_e0	0.0	-0.1129303449359118	
+rhizosphere	ADD_GABA2	0.0	0.0	
+rhizosphere	ADD_GABA3	0.010831248786715621	4.163336342344337e-17	R00713
+rhizosphere	rxn14077	0.010831248786715623	0.0	R08714
+rhizosphere	EX_cpd05262_e0	0.0	-0.1320416340789124	
+rhizosphere	ADD_GALA2	0.0	0.0	
+rhizosphere	rxn47419	0.0	-6.938893903907228e-18	R10841
+rhizosphere	rxn41414	0.0	0.0	R10846
+rhizosphere	rxn46941	0.0	-6.938893903907228e-18	R10847
+rhizosphere	rxn01634	0.0	-0.0	R02279
+rhizosphere	ADD_GALA7	0.0	4.934777873675907e-17	R00264
+rhizosphere	EX_cpd00164_e0	0.0	-0.14594075345564	
+rhizosphere	ADD_D_Glucopyranuronate2	0.0	1.3877787807814457e-17	
+rhizosphere	ADD_D_Glucopyranuronate3	0.0	0.0	
+rhizosphere	ADD_D_Glucopyranuronate4	0.0	0.0	R01481
+rhizosphere	rxn01913	0.0	0.0	R02640
+rhizosphere	rxn01393	0.0	0.0	R01905
+rhizosphere	rxn01392	0.0	7.296640979944932e-17	R01904
+rhizosphere	rxn01385	0.0	-1.824160244986233e-17	R01896
+rhizosphere	EX_cpd00072_e0	0.0	-0.18676941662477778	
+rhizosphere	ADD_transport_cpd00072	0.0	0.0	
+rhizosphere	EX_cpd00117_e0	0.0	-0.07991993641621145	
+rhizosphere	ADD_transport_cpd00117	0.0	6.938893903907228e-18	
+rhizosphere	EX_cpd00246_e0	0.0	-0.2858006421839639	
+rhizosphere	ADD_Inosine2	0.0	-2.7755575615628914e-17	
+rhizosphere	rxn01358	0.0	1.5631883706742012e-17	
+rhizosphere	rxn00778	0.0	1.8758260448090416e-16	
+rhizosphere	EX_cpd00035_e0	-0.00823049	-0.0816573263383024	
+rhizosphere	ADD_cpd00035	0.008230490000000002	0.0	
+rhizosphere	EX_cpd00132_e0	0.0	-0.09555644571500273	
+rhizosphere	ADD_cpd00132	0.0	0.0	

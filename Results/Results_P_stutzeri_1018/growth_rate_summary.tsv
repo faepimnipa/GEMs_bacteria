@@ -1,0 +1,4 @@
+Species	Condition	Status	Growth_rate_h	Doubling_time_h	Nitrogenase_flux	N2_uptake	NH3_exchange	FixedNH3_export	O2_uptake	Reference
+Pseudomonas stutzeri	Bulk	optimal	0.059555	11.6388	0.0	0.0	-0.44495	0.0	2.125749	https://doi.org/10.1016/j.synbio.2023.10.001.
+Pseudomonas stutzeri	Rhizosphere	optimal	0.042284	16.3927	0.0	0.0	-0.287739	0.0	1.749537	https://doi.org/10.1016/j.synbio.2023.10.001.
+Pseudomonas stutzeri	Nodule	optimal	0.193627	3.5798	0.0	0.0	0.0	0.0	1.26	https://doi.org/10.1016/j.synbio.2023.10.001.
