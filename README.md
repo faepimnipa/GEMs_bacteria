@@ -32,7 +32,7 @@ The `Data` folder contains the following files:
 - `original_models` contains: the original genome-scale modelling 
 
 The `Models` folder contains the following files:
-- `Bacteria name` contains: The rename reaction to the standard ID that is used for analysis. 
+- `Bacteria name` contains: The genome-scale modelling is used for analysis. 
 
 The `Results` folder contains the following files:
 - `Bacteria name` contains: Analysis results from each model.
