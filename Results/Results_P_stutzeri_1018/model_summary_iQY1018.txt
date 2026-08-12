@@ -1,0 +1,21 @@
+Objective
+=========
+1.0 biomass0 = 0.8109884016567765
+
+Uptake
+------
+ Metabolite  Reaction   Flux  C-Number  C-Flux
+cpd00007_e0 EXpd00007  26.28         0   0.00%
+cpd00009_e0 EXpd00009 0.8017         0   0.00%
+cpd00013_e0 EXpd00013  8.377         0   0.00%
+cpd00027_e0 EXpd00027     10         6 100.00%
+cpd00048_e0 EXpd00048 0.1719         0   0.00%
+
+Secretion
+---------
+ Metabolite   Reaction      Flux  C-Number C-Flux
+ biomass_e0 EX_Biomass    -0.811         0  0.00%
+cpd00001_e0  EXpd00001    -48.85         0  0.00%
+cpd00011_e0  EXpd00011    -27.69         1 99.84%
+cpd00067_c0  EXpd00068    -6.092         0  0.00%
+cpd02791_c0  EXpd02791 -0.007218         6  0.16%
