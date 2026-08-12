@@ -1,0 +1,4 @@
+Status: 
+Bulk: optimal, Rhizosphere: optimal, Nodule: optimal
+Fixed nitrogen: 
+Bulk: 419.2162226330958, Rhizosphere: 419.2445261351193, Nodule: 375.23955000000126

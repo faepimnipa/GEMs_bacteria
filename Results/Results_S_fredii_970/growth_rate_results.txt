@@ -1,0 +1,4 @@
+Status: 
+Bulk: optimal, Rhizosphere: optimal, Nodule: optimal
+Growth rate: 
+Bulk: -9.108158850382696e-19, Rhizosphere: 105.49561009236794, Nodule: 0.4829551181327346
