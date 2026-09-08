@@ -1,0 +1,1053 @@
+current_id,name,reaction_string,subsystem,lower_bound,upper_bound
+r_0001,,atp[c] + g1p[c] --> adpglc[c] + ppi[c],Glycolysis / Gluconeogenesis,0.0,1000.0
+r_0002,,gln__L[c] + h2o[c] --> glu__L[c] + h[c] + nh3[c],Nitrogen Metabolism,0.0,1000.0
+r_0003,,aacoa[c] + h[c] + nadh[c] <=> 3hbcoa[c] + nad[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0004,,4.0 fe2[c] + 4.0 s[c] --> Iron[c],Sulfur Metabolism; Symbiosis,0.0,1000.0
+r_0005,,3odecACP[c] + h[c] + nadph[c] <=> 3hdecACP[c] + nadp[c],Fatty Acid Biosynthesis,-1000.0,1000.0
+r_0006,,atp[c] + coa[c] + h[c] + hdca[c] <=> amp[c] + pmtcoa[c] + ppi[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0007,,duri[c] + h[c] + pi[c] <=> 2dr1p[c] + ura[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0008,,g6p[c] + nadp[c] --> 6pgl[c] + h[c] + nadph[c],Pentose Phosphate Pathway,0.0,1000.0
+r_0009,,3c4mop[c] + h[c] --> 4mop[c] + co2[c],"Valine, Leucine and Isoleucine Biosynthesis",0.0,1000.0
+r_0010,,ahcys[c] + h2o[c] <=> adn[c] + hcys__L[c],Cysteine and Methionine Metabolism,-1000.0,1000.0
+r_0011,,ac[c] + atp[c] + coa[c] + h[c] --> accoa[c] + amp[c] + ppi[c],Glycolysis / Gluconeogenesis,0.0,1000.0
+r_0012,,dmbzid[c] + nicrnt[c] --> 5prdmbz[c] + h[c] + nac[c],Porphyrin Metabolism,0.0,1000.0
+r_0013,,orot5p[c] + ppi[c] <=> orot[c] + prpp[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0014,,3htdcoa[c] + nad[c] <=> 3otdcoa[c] + h[c] + nadh[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0015,,hcys__L[c] + ser__L[c] --> cyst__L[c] + h2o[c],"Glycine, Serine, and Threonine Metabolism",0.0,1000.0
+r_0016,,o2[c] + phe__L[c] + thbpt[c] --> dhbpt[c] + h2o[c] + tyr__L[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,0.0,1000.0
+r_0017,,r5p[c] + xu5p__D[c] <=> g3p[c] + s7p[c],Pentose Phosphate Pathway,-1000.0,1000.0
+r_0018,,csn[c] + h2o[c] --> nh3[c] + ura[c],Pyrimidine Metabolism,0.0,1000.0
+r_0019,,3c2hmp[c] + nad[c] <=> 3c4mop[c] + h[c] + nadh[c],"Valine, Leucine and Isoleucine Biosynthesis",-1000.0,1000.0
+r_0020,,dgtp[c] + h2o[c] <=> dgsn[c] + h[c] + pppi[c],Purine Metabolism,-1000.0,1000.0
+r_0021,,atp[c] + d5kg[c] --> adp[c] + d5kgp[c],Inositol Phosphate Metabolism,0.0,1000.0
+r_0022,,atp[c] + gdp[c] <=> adp[c] + gtp[c],Purine Metabolism,-1000.0,1000.0
+r_0023,,atp[c] + dcdp[c] <=> adp[c] + dctp[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0024,,2.0 h[c] + o2[c] + 2.0 qh2[c] --> 2.0 h2o[c] + 2.0 h[e] + 2.0 q[c],Oxidative Phosphorylation,0.0,1000.0
+r_0025,,4pasp[c] + nadph[c] --> aspsa[c] + nadp[c] + pi[c],"Glycine, Serine, and Threonine Metabolism",0.0,1000.0
+r_0026,,10fthf[c] + h2o[c] --> for[c] + h[c] + thf[c],One carbon pool by folate,0.0,1000.0
+r_0027,,gtp[c] + h2o[c] --> ahdt[c] + for[c] + h[c],Folate Biosynthesis,0.0,1000.0
+r_0028,,ru5p__D[c] <=> xu5p__D[c],Pentose Phosphate Pathway,-1000.0,1000.0
+r_0029,,cdp[c] + trdrd[c] --> dcdp[c] + h2o[c] + trdox[c],Pyrimidine Metabolism,0.0,1000.0
+r_0030,,3hdcoa[c] <=> dc2coa[c] + h2o[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0031,,asp__L[c] --> fum[c] + h[c] + nh3[c],"Alanine, Aspartate and Glutamate metabolism",0.0,1000.0
+r_0032,,glu5sa[c] <=> 1pyr5c[c] + h2o[c] + h[c],Arginine and Proline Metabolism,-1000.0,1000.0
+r_0033,,dxyl5p[c] + h[c] + nadph[c] --> 2me4p[c] + nadp[c],Terpenoid Backbone Biosynthesis,0.0,1000.0
+r_0034,,2.0 h[e] + mal__L[e] --> 2.0 h[c] + mal__L[c],Transport,0.0,1000.0
+r_0035,,atp[c] + cbi[c] <=> adocbi[c] + pppi[c],Porphyrin Metabolism,-1000.0,1000.0
+r_0036,,3ig3p[c] <=> g3p[c] + indole[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,-1000.0,1000.0
+r_0037,,3mop[c] + glu__L[c] --> akg[c] + ile__L[c],"Valine, Leucine and Isoleucine Biosynthesis",0.0,1000.0
+r_0038,,2dda7p[c] --> 3dhq[c] + h[c] + pi[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,0.0,1000.0
+r_0039,,cyst__L[c] + h2o[c] --> h[c] + hcys__L[c] + nh3[c] + pyr[c],Cysteine and Methionine Metabolism,0.0,1000.0
+r_0040,,indole[c] + ser__L[c] --> h2o[c] + trp__L[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,0.0,1000.0
+r_0041,,adhlam[c] + coa[c] <=> accoa[c] + dhlam[c],Glycolysis / Gluconeogenesis;TCA Cycle,-1000.0,1000.0
+r_0042,,2.0 fdxrd[c] + h[c] + nadp[c] <=> 2.0 fdxox[c] + nadph[c],Nicotinate and Nicotinamide,-1000.0,1000.0
+r_0043,,co2[c] + h2o[c] <=> h[c] + hco3[c],Nitrogen Metabolism,-1000.0,1000.0
+r_0044,,atp[c] + h2o[c] + met__L[c] --> amet[c] + pi[c] + ppi[c],Cysteine and Methionine Metabolism,0.0,1000.0
+r_0045,,6hmhpt[c] + atp[c] <=> 6hmhptpp[c] + amp[c],Folate Biosynthesis,-1000.0,1000.0
+r_0046,,thr__L[c] --> 2obut[c] + h[c] + nh3[c],"Glycine, Serine, and Threonine Metabolism",0.0,1000.0
+r_0047,,6r5au[c] + db4p[c] <=> dmlz[c] + 2.0 h2o[c] + h[c] + pi[c],Riboflavin Metabolism,-1000.0,1000.0
+r_0048,,h2o[c] + rnam[c] --> h[c] + ncam[c] + rib__D[c],Sulfur Metabolism; Purine Metabolism,0.0,1000.0
+r_0049,,3hhexACP[c] --> h2o[c] + thex2eACP[c],Sulfur Metabolism; Purine Metabolism,0.0,1000.0
+r_0050,,n2[e] <=> n2[c],"Alanine, Aspartate and Glutamate metabolism; Pyrimidine Metabolism",-1000.0,1000.0
+r_0051,,dhor__S[c] + h2o[c] <=> cbasp[c] + h[c],Sulfur Metabolism; Purine Metabolism,-1000.0,1000.0
+r_0052,,3hbcoa[c] <=> b2coa[c] + h2o[c],"Alanine, Aspartate and Glutamate metabolism; Pyrimidine Metabolism",-1000.0,1000.0
+r_0053,,56dthm[c] + h2o[c] --> 3uib[c] + h[c],Pyrimidine Metabolism,0.0,1000.0
+r_0054,,o2[c] + pdx5p[c] <=> h2o2[c] + pydx5p[c],Vitamin B6 Metabolism,-1000.0,1000.0
+r_0055,,adocbi[c] + atp[c] --> adocbip[c] + adp[c] + h[c],"Valine, Leucine and Isoleucine Degradation",0.0,1000.0
+r_0056,,adp[c] + pep[c] --> atp[c] + pyr[c],"Valine, Leucine and Isoleucine Degradation",0.0,1000.0
+r_0057,,hom__L[c] + succoa[c] --> coa[c] + suchms[c],Cysteine and Methionine Metabolism,0.0,1000.0
+r_0058,,2mecdp[c] + h[c] + nadh[c] --> h2mb4p[c] + h2o[c] + nad[c],Terpenoid Backbone Biosynthesis,0.0,1000.0
+r_0059,,4izp[c] + h2o[c] --> nflgln[c],Histidine Metabolism,0.0,1000.0
+r_0060,,atp[c] + skm[c] --> adp[c] + skm5p[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,0.0,1000.0
+r_0061,,acorn[c] + glu__L[c] <=> acglu[c] + orn[c],Arginine biosynthesis,-1000.0,1000.0
+r_0062,,thr__L[c] <=> acald[c] + gly[c],"Glycine, Serine, and Threonine Metabolism",-1000.0,1000.0
+r_0063,,3hocoa[c] + nad[c] <=> 3oocoa[c] + h[c] + nadh[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0064,,3psme[c] --> chor[c] + h[c] + pi[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,0.0,1000.0
+r_0065,,atp[c] + glu__L[c] + h[c] --> adp[c] + glu5p[c],Arginine and Proline Metabolism,0.0,1000.0
+r_0066,,amp[c] + atp[c] <=> 2.0 adp[c],Purine Metabolism,-1000.0,1000.0
+r_0067,,fmn[c] + h2o[c] --> h[c] + pi[c] + ribflv[c],Riboflavin Metabolism,0.0,1000.0
+r_0068,,atp[c] + pydam[c] --> adp[c] + pyam5p[c],Vitamin B6 Metabolism,0.0,1000.0
+r_0069,,prpp[c] + ura[c] <=> ppi[c] + ump[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0070,,g6p[c] <=> f6p[c],Glycolysis / Gluconeogenesis,-1000.0,1000.0
+r_0071,,atp[c] + cys__L[c] + glu__L[c] --> adp[c] + glucys[c] + h[c] + pi[c],Glutathione Metabolism,0.0,1000.0
+r_0072,,gsn[c] + h[c] + pi[c] <=> gua[c] + r1p[c],Purine Metabolism,-1000.0,1000.0
+r_0073,,glu__L[c] + imacp[c] <=> akg[c] + hisp[c],Histidine Metabolism,-1000.0,1000.0
+r_0074,,2dhp[c] + h[c] + nadph[c] <=> nadp[c] + pant__R[c],Pantothenate and CoA Biosynthesis,-1000.0,1000.0
+r_0075,,atp[c] + gly[c] + pram[c] --> adp[c] + gar[c] + h[c] + pi[c],Purine Metabolism,0.0,1000.0
+r_0076,,h[c] + malACP[c] + myrsACP[c] --> 3opalmACP[c] + ACP[c] + co2[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0077,,h2o[c] + imp[c] + nad[c] --> h[c] + nadh[c] + xmp[c],Purine Metabolism,0.0,1000.0
+r_0078,,2.0 fdxrd[c] + h2mb4p[c] + 2.0 h[c] <=> 2.0 fdxox[c] + h2o[c] + ipdp[c],Terpenoid Backbone Biosynthesis,-1000.0,1000.0
+r_0079,,atp[c] + dudp[c] <=> adp[c] + dutp[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0080,,atp[c] + cdp[c] <=> adp[c] + ctp[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0081,,akg[c] + tyr__L[c] <=> 34hpp[c] + glu__L[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,-1000.0,1000.0
+r_0082,,fe2[c] + ppp9[c] <=> 2.0 h[c] + pheme[c],Porphyrin and Chlorophyll Metabolism,-1000.0,1000.0
+r_0083,,23dhmb[c] + nadp[c] <=> alac__S[c] + h[c] + nadph[c],"Valine, Leucine and Isoleucine Biosynthesis",-1000.0,1000.0
+r_0084,,3hhdcoa[c] <=> h2o[c] + hdd2coa[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0085,,ru5p__D[c] <=> db4p[c] + for[c] + h[c],Riboflavin Metabolism,-1000.0,1000.0
+r_0086,,accoa[c] + glu__L[c] --> acglu[c] + coa[c] + h[c],Arginine biosynthesis,0.0,1000.0
+r_0087,,3mob[c] + accoa[c] + h2o[c] --> 3c3hmp[c] + coa[c] + h[c],"Valine, Leucine and Isoleucine Biosynthesis",0.0,1000.0
+r_0088,,e4p[c] + h2o[c] + nad[c] <=> 4per[c] + 2.0 h[c] + nadh[c],Vitamin B6 Metabolism,-1000.0,1000.0
+r_0089,,h[c] + pphn[c] <=> co2[c] + h2o[c] + phpyr[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,-1000.0,1000.0
+r_0090,,h[c] + orn[c] --> co2[c] + ptrc[c],Arginine and Proline Metabolism,0.0,1000.0
+r_0091,,acACP[c] + h[c] + malACP[c] --> ACP[c] + actACP[c] + co2[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0092,,glu__L[e] + h[e] <=> glu__L[c] + h[c],Transport,-1000.0,1000.0
+r_0093,,inost[c] <=> inost[e],Transport,-1000.0,1000.0
+r_0094,,atp[c] + coa[c] + succ[c] <=> adp[c] + pi[c] + succoa[c],Sulfur Metabolism; Purine Metabolism,-1000.0,1000.0
+r_0095,,fad[c] + succ[c] <=> fadh2[c] + fum[c],TCA Cycle,-1000.0,1000.0
+r_0096,,2.6 atp[c] + ctp[c] + gtp[c] + 1.6 h2o[c] + utp[c] --> 1.6 adp[c] + 1.6 h[c] + 1.6 pi[c] + 4.0 ppi[c] + 4.0 rna[c],Pyrimidine Metabolism,0.0,1000.0
+r_0097,,dhap[c] <=> g3p[c],Glycolysis / Gluconeogenesis,-1000.0,1000.0
+r_0098,,atp[c] + gmp[c] <=> adp[c] + gdp[c],Purine Metabolism,-1000.0,1000.0
+r_0099,,amet[c] + hcys__L[c] --> ahcys[c] + h[c] + met__L[c],Cysteine and Methionine Metabolism,0.0,1000.0
+r_0100,,atp[c] + dgdp[c] <=> adp[c] + dgtp[c],Purine Metabolism,-1000.0,1000.0
+r_0101,,25aics[c] <=> aicar[c] + fum[c],Purine Metabolism,-1000.0,1000.0
+r_0102,,e4p[c] + h2o[c] + pep[c] --> 2dda7p[c] + h[c] + pi[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,0.0,1000.0
+r_0103,,h2o[c] + histd[c] + 2.0 nad[c] --> 3.0 h[c] + his__L[c] + 2.0 nadh[c],Histidine Metabolism,0.0,1000.0
+r_0104,,dutp[c] + h2o[c] --> dump[c] + ppi[c],Pyrimidine Metabolism,0.0,1000.0
+r_0105,,acglu[c] + atp[c] + h[c] --> acg5p[c] + adp[c],Arginine biosynthesis,0.0,1000.0
+r_0106,,atp[c] + nicrnt[c] <=> dnad[c] + ppi[c],Nicotinate and Nicotinamide,-1000.0,1000.0
+r_0107,,2ahethmpp[c] + pyr[c] --> alac__S[c] + thmpp[c],"Valine, Leucine and Isoleucine Biosynthesis",0.0,1000.0
+r_0108,,h[c] + ins[c] + pi[c] <=> hxan[c] + r1p[c],Purine Metabolism,-1000.0,1000.0
+r_0109,,his__L[c] --> h[c] + nh3[c] + urcan[c],Histidine Metabolism,0.0,1000.0
+r_0110,,atp[c] + pydxn[c] --> adp[c] + pdx5p[c],Vitamin B6 Metabolism,0.0,1000.0
+r_0111,,prpp[c] + xan[c] <=> ppi[c] + xmp[c],Purine Metabolism,-1000.0,1000.0
+r_0112,,2.0 h[e] + succ[e] --> 2.0 h[c] + succ[c],Transport,0.0,1000.0
+r_0113,,ala__L[c] + h2o[c] + nad[c] <=> 2.0 h[c] + nadh[c] + nh3[c] + pyr[c],Sulfur Metabolism; Purine Metabolism,-1000.0,1000.0
+r_0114,,dad_2[c] + h[c] + pi[c] <=> 2dr1p[c] + ade[c],Purine Metabolism,-1000.0,1000.0
+r_0115,,akg[c] + orn[c] <=> glu5sa[c] + glu__L[c],Arginine and Proline Metabolism,-1000.0,1000.0
+r_0116,,ahdt[c] + 3.0 h2o[c] --> dhnpt[c] + 3.0 h[c] + 3.0 pi[c],Folate Biosynthesis,0.0,1000.0
+r_0117,,26dap__M[c] + h[c] <=> co2[c] + lys__L[c],Lysine Biosynthesis,-1000.0,1000.0
+r_0118,,atp[c] + duri[c] --> adp[c] + dump[c],Pyrimidine Metabolism,0.0,1000.0
+r_0119,,nh3[e] <=> nh3[c],Transport,-1000.0,1000.0
+r_0120,,h2o[c] + urcan[c] --> 4izp[c],Histidine Metabolism,0.0,1000.0
+r_0121,,5aprbu[c] + h2o[c] <=> 6r5au[c] + pi[c],Riboflavin Metabolism,-1000.0,1000.0
+r_0122,,3dhsk[c] + h[c] + nadph[c] <=> nadp[c] + skm[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,-1000.0,1000.0
+r_0123,,asp__L[c] + atp[c] + gln__L[c] + h2o[c] --> amp[c] + asn__L[c] + glu__L[c] + ppi[c],"Alanine, Aspartate and Glutamate metabolism",0.0,1000.0
+r_0124,,h[c] + nadh[c] + tmrs2eACP[c] --> myrsACP[c] + nad[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0125,,g3p[c] + s7p[c] <=> e4p[c] + f6p[c],Pentose Phosphate Pathway,-1000.0,1000.0
+r_0126,,2ahethmpp[c] + 2obut[c] --> 2ahbut[c] + thmpp[c],"Valine, Leucine and Isoleucine Biosynthesis",0.0,1000.0
+r_0127,,dhnpt[c] --> 6hmhpt[c] + gcald[c],Folate Biosynthesis,0.0,1000.0
+r_0128,,accoa[c] + h2o[c] + oaa[c] --> cit[c] + coa[c] + h[c],TCA Cycle,0.0,1000.0
+r_0129,,grdp[c] + ipdp[c] --> frdp[c] + ppi[c],Terpenoid Backbone Biosynthesis,0.0,1000.0
+r_0130,,accoa[c] + btcoa[c] <=> 3ohcoa[c] + coa[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0131,,5aizc[c] + asp__L[c] + atp[c] <=> 25aics[c] + adp[c] + 2.0 h[c] + pi[c],Purine Metabolism,-1000.0,1000.0
+r_0132,,atp[c] + glu__L[c] + nh3[c] --> adp[c] + gln__L[c] + pi[c],Nitrogen Metabolism,0.0,1000.0
+r_0133,,ACP[c] + malcoa[c] <=> coa[c] + malACP[c],Fatty Acid Biosynthesis,-1000.0,1000.0
+r_0134,,d5kgp[c] --> dhap[c] + msa[c],Inositol Phosphate Metabolism,0.0,1000.0
+r_0135,,gln__L[c] + prlp[c] --> aicar[c] + eig3p[c] + glu__L[c] + h[c],Histidine Metabolism,0.0,1000.0
+r_0136,,3hddcoa[c] + nad[c] <=> 3oddcoa[c] + h[c] + nadh[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0137,,23dhmp[c] --> 3mop[c] + h2o[c],"Valine, Leucine and Isoleucine Biosynthesis",0.0,1000.0
+r_0138,,cys__L[c] --> ala__L[c] + s[c],Sulfur Metabolism; Symbiosis,0.0,1000.0
+r_0139,,3oddecACP[c] + h[c] + nadph[c] <=> 3hddecACP[c] + nadp[c],Fatty Acid Biosynthesis,-1000.0,1000.0
+r_0140,,2.0 accoa[c] <=> aacoa[c] + coa[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0141,,2.0 5aop[c] --> 2.0 h2o[c] + h[c] + ppbng[c],Porphyrin and Chlorophyll Metabolism,0.0,1000.0
+r_0142,,3pg[c] + atp[c] + h[c] <=> 13dpg[c] + adp[c],Glycolysis / Gluconeogenesis,-1000.0,1000.0
+r_0143,,anth[c] + prpp[c] --> ppi[c] + pran[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,0.0,1000.0
+r_0144,,ac[c] + atp[c] + h[c] <=> actp[c] + adp[c],Glycolysis / Gluconeogenesis,-1000.0,1000.0
+r_0145,,5mcsn[c] + h2o[c] --> nh3[c] + thym[c],Pyrimidine Metabolism,0.0,1000.0
+r_0146,,2ins[c] <=> dkdi[c] + h2o[c],Inositol Phosphate Metabolism,-1000.0,1000.0
+r_0147,,3uib[c] + h2o[c] + h[c] --> 3aib__D[c] + co2[c] + nh3[c],Pyrimidine Metabolism,0.0,1000.0
+r_0148,,h[c] + hexACP[c] + malACP[c] --> 3ooctACP[c] + ACP[c] + co2[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0149,,4abut[c] + akg[c] --> glu__L[c] + sucsal[c],Nitrogen Metabolism,0.0,1000.0
+r_0150,,butACP[c] + h[c] + malACP[c] --> 3ohexACP[c] + ACP[c] + co2[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0151,,atp[c] + dtdp[c] <=> adp[c] + dttp[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0152,,e4p[c] + xu5p__D[c] <=> f6p[c] + g3p[c],Pentose Phosphate Pathway,-1000.0,1000.0
+r_0153,,h2mb4p[c] + h[c] + nadh[c] --> dmpp[c] + h2o[c] + nad[c],Terpenoid Backbone Biosynthesis,0.0,1000.0
+r_0154,,acg5sa[c] + nadp[c] + pi[c] <=> acg5p[c] + nadph[c],Arginine biosynthesis,-1000.0,1000.0
+r_0155,,atp[c] + cbl1[e] + h2o[c] --> adp[c] + cbl1[c] + h[c] + pi[c],Porphyrin and Chlorophyll Metabolism,0.0,1000.0
+r_0156,,atp[c] + dpcoa[c] --> adp[c] + coa[c],Pantothenate and CoA Biosynthesis,0.0,1000.0
+r_0157,,acon_C[c] + h2o[c] <=> icit[c],TCA Cycle,-1000.0,1000.0
+r_0158,,atp[c] + h2o[c] --> adp[c] + h[c] + pi[c],Oxidative Phosphorylation,3.0,1000.0
+r_0159,,cytd[c] + h2o[c] --> nh3[c] + uri[c],Pyrimidine Metabolism,0.0,1000.0
+r_0160,,2.0 h[c] + prpp[c] + quln[c] --> co2[c] + nicrnt[c] + ppi[c],Nicotinate and Nicotinamide,0.0,1000.0
+r_0161,,dhf[c] + h[c] + nadph[c] <=> nadp[c] + thf[c],Folate Biosynthesis,-1000.0,1000.0
+r_0162,,3hpalmACP[c] --> h2o[c] + tpalm2eACP[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0163,,arg__L[c] + h2o[c] <=> citr__L[c] + h[c] + nh3[c],Arginine biosynthesis,-1000.0,1000.0
+r_0164,,prfp[c] --> prlp[c],Histidine Metabolism,0.0,1000.0
+r_0165,,4abz[c] + 6hmhptpp[c] --> dhpt[c] + ppi[c],Folate Biosynthesis,0.0,1000.0
+r_0166,,6pgc[c] --> 2ddg6p[c] + h2o[c],Pentose Phosphate Pathway,0.0,1000.0
+r_0167,,3hdecACP[c] --> h2o[c] + tdec2eACP[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0168,,gtp[c] + 3.0 h2o[c] <=> 25drapp[c] + for[c] + h[c] + ppi[c],Riboflavin Metabolism,-1000.0,1000.0
+r_0169,,asp__L[c] + atp[c] + h[c] --> 4pasp[c] + adp[c],"Glycine, Serine, and Threonine Metabolism",0.0,1000.0
+r_0170,,apoACP[c] + coa[c] --> ACP[c] + pap[c],Pantothenate and CoA Biosynthesis,0.0,1000.0
+r_0171,,acorn[c] + h2o[c] --> ac[c] + orn[c],Arginine biosynthesis,0.0,1000.0
+r_0172,,inost[c] + nad[c] --> 2ins[c] + h[c] + nadh[c],Inositol Phosphate Metabolism,0.0,1000.0
+r_0173,,h[c] + nadh[c] + tddec2eACP[c] --> ddcaACP[c] + nad[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0174,,23dhmb[c] --> 3mob[c] + h2o[c],"Valine, Leucine and Isoleucine Biosynthesis",0.0,1000.0
+r_0175,,amet[c] + dna[c] --> ahcys[c] + dna5mtc[c] + h[c],Cysteine and Methionine Metabolism,0.0,1000.0
+r_0176,,h2o[c] + nflgln[c] --> frmd[c] + glu__L[c],Histidine Metabolism,0.0,1000.0
+r_0177,,26dap_LL[c] <=> 26dap__M[c],Lysine Biosynthesis,-1000.0,1000.0
+r_0178,,atp[c] + rib__D[c] <=> adp[c] + r5p[c],Pentose Phosphate Pathway,-1000.0,1000.0
+r_0179,,3ooctACP[c] + h[c] + nadph[c] <=> 3hoctACP[c] + nadp[c],Fatty Acid Biosynthesis,-1000.0,1000.0
+r_0180,,3mob[c] + glu__L[c] --> akg[c] + val__L[c],"Valine, Leucine and Isoleucine Biosynthesis",0.0,1000.0
+r_0181,,atp[c] + ump[c] <=> adp[c] + udp[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0182,,but2eACP[c] + h[c] + nadh[c] --> butACP[c] + nad[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0183,,3hmrsACP[c] --> h2o[c] + tmrs2eACP[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0184,,eig3p[c] --> h2o[c] + imacp[c],Histidine Metabolism,0.0,1000.0
+r_0185,,4mop[c] + glu__L[c] --> akg[c] + leu__L[c],"Valine, Leucine and Isoleucine Biosynthesis",0.0,1000.0
+r_0186,,cit[c] <=> acon_C[c] + h2o[c],TCA Cycle,-1000.0,1000.0
+r_0187,,dump[c] + mlthf[c] --> dhf[c] + dtmp[c],Pyrimidine Metabolism,0.0,1000.0
+r_0188,,atp[c] + pydx[c] --> adp[c] + pydx5p[c],Vitamin B6 Metabolism,0.0,1000.0
+r_0189,,h2o[c] + o2[c] + pyam5p[c] --> h2o2[c] + h[c] + nh3[c] + pydx5p[c],Vitamin B6 Metabolism,0.0,1000.0
+r_0190,,nad[c] + thr__L[c] --> 2aobut[c] + h[c] + nadh[c],"Glycine, Serine, and Threonine Metabolism",0.0,1000.0
+r_0191,,3omrsACP[c] + h[c] + nadph[c] <=> 3hmrsACP[c] + nadp[c],Fatty Acid Biosynthesis,-1000.0,1000.0
+r_0192,,glu1sa[c] --> 5aop[c],Porphyrin and Chlorophyll Metabolism,0.0,1000.0
+r_0193,,dgsn[c] + h[c] + pi[c] <=> 2dr1p[c] + gua[c],Purine Metabolism,-1000.0,1000.0
+r_0194,,dhlam[c] + nad[c] --> h[c] + lpam[c] + nadh[c],Glycolysis / Gluconeogenesis,0.0,1000.0
+r_0195,,h2s[c] + ser__L[c] --> cys__L[c] + h2o[c],Cysteine and Methionine Metabolism,0.0,1000.0
+r_0196,,atp[c] + hom__L[c] --> adp[c] + phom[c],"Glycine, Serine, and Threonine Metabolism",0.0,1000.0
+r_0197,,r5p[c] <=> ru5p__D[c],Pentose Phosphate Pathway,-1000.0,1000.0
+r_0198,,atp[c] + dtmp[c] <=> adp[c] + dtdp[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0199,,h[c] + nadh[c] + toct2eACP[c] --> nad[c] + ocACP[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0200,,atp[c] + pan4p[c] <=> dpcoa[c] + ppi[c],Pantothenate and CoA Biosynthesis,-1000.0,1000.0
+r_0201,,h[c] + nac[c] + prpp[c] <=> nicrnt[c] + ppi[c],Nicotinate and Nicotinamide,-1000.0,1000.0
+r_0202,,atp[c] + nmn[c] <=> nad[c] + ppi[c],Nicotinate and Nicotinamide,-1000.0,1000.0
+r_0203,,25drapp[c] + h2o[c] <=> 5apru[c] + nh3[c],Riboflavin Metabolism,-1000.0,1000.0
+r_0204,,h2o[c] + succoa[c] + thdp[c] --> coa[c] + sl2a6o[c],Lysine Biosynthesis,0.0,1000.0
+r_0205,,adpglc[c] + glycogen1[c] --> adp[c] + glycogen[c],Glycolysis / Gluconeogenesis,0.0,1000.0
+r_0206,,gua[c] + h2o[c] --> nh3[c] + xan[c],Purine Metabolism,0.0,1000.0
+r_0207,,hmbil[c] --> h2o[c] + uppg3[c],Porphyrin and Chlorophyll Metabolism,0.0,1000.0
+r_0208,,o2[e] <=> o2[c],Transport,-1000.0,1000.0
+r_0209,,ade[c] + prpp[c] <=> amp[c] + ppi[c],Purine Metabolism,-1000.0,1000.0
+r_0210,,pran[c] <=> 2cpr5p[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,-1000.0,1000.0
+r_0211,,pro__L[c] --> pro__D[c],Arginine and Proline Metabolism,0.0,1000.0
+r_0212,,h[c] + nadh[c] + tdec2eACP[c] --> dcaACP[c] + nad[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0213,,glu__D[c] <=> glu__L[c],"Alanine, Aspartate and Glutamate metabolism",-1000.0,1000.0
+r_0214,,3hddcoa[c] <=> dd2coa[c] + h2o[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0215,,cbp[c] + orn[c] --> citr__L[c] + 2.0 h[c] + pi[c],Arginine biosynthesis,0.0,1000.0
+r_0216,,atp[c] + gln__L[c] + h2o[c] + utp[c] --> adp[c] + ctp[c] + glu__L[c] + 2.0 h[c] + pi[c],Pyrimidine Metabolism,0.0,1000.0
+r_0217,,ala_B[c] + atp[c] + pant__R[c] <=> amp[c] + pnto__R[c] + ppi[c],Pantothenate and CoA Biosynthesis,-1000.0,1000.0
+r_0218,,ade[c] + h2o[c] --> hxan[c] + nh3[c],Purine Metabolism,0.0,1000.0
+r_0219,,glu__L[c] + phpyr[c] <=> akg[c] + phe__L[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,-1000.0,1000.0
+r_0220,,co2[e] <=> co2[c],Transport,-1000.0,1000.0
+r_0221,,3ohexACP[c] + h[c] + nadph[c] <=> 3hhexACP[c] + nadp[c],Fatty Acid Biosynthesis,-1000.0,1000.0
+r_0222,,h2o[c] + phom[c] --> h[c] + pi[c] + thr__L[c],"Glycine, Serine, and Threonine Metabolism",0.0,1000.0
+r_0223,,agm[c] + h2o[c] --> ptrc[c] + urea[c],Arginine and Proline Metabolism,0.0,1000.0
+r_0224,,fdp[c] + h2o[c] <=> f6p[c] + h[c] + pi[c],Glycolysis / Gluconeogenesis,-1000.0,1000.0
+r_0225,,accoa[c] + h[c] + pi[c] <=> actp[c] + coa[c],Glycolysis / Gluconeogenesis,-1000.0,1000.0
+r_0226,,adn[c] + h2o[c] --> ade[c] + rib__D[c],Purine Metabolism,0.0,1000.0
+r_0227,,h[c] + pyr[c] + thmpp[c] --> 2ahethmpp[c] + co2[c],TCA Cycle,0.0,1000.0
+r_0228,,10fthf[c] + gar[c] --> fgam[c] + h[c] + thf[c],Purine Metabolism,0.0,1000.0
+r_0229,,3pg[c] + nad[c] <=> 3php[c] + h[c] + nadh[c],"Glycine, Serine, and Threonine Metabolism",-1000.0,1000.0
+r_0230,,ACP[c] + accoa[c] <=> acACP[c] + coa[c],Fatty Acid Biosynthesis,-1000.0,1000.0
+r_0231,,atp[c] + fpram[c] --> adp[c] + air[c] + h[c] + pi[c],Purine Metabolism,0.0,1000.0
+r_0232,,gln__L[c] + h2o[c] + prpp[c] --> glu__L[c] + ppi[c] + pram[c],Purine Metabolism,0.0,1000.0
+r_0233,,ala__L[c] <=> ala__D[c],"Alanine, Aspartate and Glutamate metabolism",-1000.0,1000.0
+r_0234,,3mob[c] + h2o[c] + mlthf[c] <=> 2dhp[c] + thf[c],Pantothenate and CoA Biosynthesis,-1000.0,1000.0
+r_0235,,3opalmACP[c] + h[c] + nadph[c] <=> 3hpalmACP[c] + nadp[c],Fatty Acid Biosynthesis,-1000.0,1000.0
+r_0236,,argsuc[c] <=> arg__L[c] + fum[c],"Alanine, Aspartate and Glutamate metabolism",-1000.0,1000.0
+r_0237,,orn[c] --> 2.0 h[c] + nh3[c] + pro__L[c],Arginine and Proline Metabolism,0.0,1000.0
+r_0238,,dad_2[c] + h2o[c] --> din[c] + nh3[c],Purine Metabolism,0.0,1000.0
+r_0239,,h2s[c] + suchms[c] <=> h[c] + hcys__L[c] + succ[c],Cysteine and Methionine Metabolism,-1000.0,1000.0
+r_0240,,3hddecACP[c] --> h2o[c] + tddec2eACP[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0241,,3hdcoa[c] + nad[c] <=> 3odcoa[c] + h[c] + nadh[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0242,,h[c] + malACP[c] + ocACP[c] --> 3odecACP[c] + ACP[c] + co2[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0243,,dcamp[c] --> amp[c] + fum[c],"Alanine, Aspartate and Glutamate metabolism",0.0,1000.0
+r_0244,,accoa[c] + ser__L[c] --> acser[c] + coa[c],Sulfur Metabolism,0.0,1000.0
+r_0245,,3htdcoa[c] <=> h2o[c] + td2coa[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0246,,3ig3p[c] + ser__L[c] --> g3p[c] + h2o[c] + trp__L[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,0.0,1000.0
+r_0247,,atp[c] + cbl1[c] <=> adocbl[c] + pppi[c],Porphyrin and Chlorophyll Metabolism,-1000.0,1000.0
+r_0248,,dcaACP[c] + h[c] + malACP[c] --> 3oddecACP[c] + ACP[c] + co2[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0249,,g3p[c] + h[c] + pyr[c] --> co2[c] + dxyl5p[c],Terpenoid Backbone Biosynthesis,0.0,1000.0
+r_0250,,r5p[c] --> r1p[c],Purine Metabolism,0.0,1000.0
+r_0251,,4abutn[c] + h2o[c] + nad[c] --> 4abut[c] + 2.0 h[c] + nadh[c],Arginine and Proline Metabolism,0.0,1000.0
+r_0252,,atp[c] + h2o[c] + mg2[e] --> adp[c] + h[c] + mg2[c] + pi[c],Transport,0.0,1000.0
+r_0253,,atp[c] + thymd[c] --> adp[c] + dtmp[c],Pyrimidine Metabolism,0.0,1000.0
+r_0254,,ddcaACP[c] + h[c] + malACP[c] --> 3omrsACP[c] + ACP[c] + co2[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0255,,h2o[c] + phthr[c] --> 4hthr[c] + h[c] + pi[c],Vitamin B6 Metabolism,0.0,1000.0
+r_0256,,6pgl[c] + h2o[c] --> 6pgc[c] + h[c],Pentose Phosphate Pathway,0.0,1000.0
+r_0257,,h2o[c] + prbamp[c] --> prfp[c],Histidine Metabolism,0.0,1000.0
+r_0258,,3hhdcoa[c] + nad[c] <=> 3ohdcoa[c] + h[c] + nadh[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0259,,h[c] + pi[c] + xtsn[c] <=> r1p[c] + xan[c],Purine Metabolism,-1000.0,1000.0
+r_0260,,2ippm[c] + h2o[c] <=> 3c3hmp[c],"Valine, Leucine and Isoleucine Biosynthesis",-1000.0,1000.0
+r_0261,,h[c] + nadh[c] + thex2eACP[c] --> hexACP[c] + nad[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0262,,5.0 h[c] + nadh[c] + q[c] <=> 4.0 h[e] + nad[c] + qh2[c],Oxidative Phosphorylation,-1000.0,1000.0
+r_0263,,gly[c] + nad[c] + thf[c] --> co2[c] + h[c] + mlthf[c] + nadh[c] + nh3[c],One carbon pool by folate,0.0,1000.0
+r_0264,,mal__L[c] + nad[c] <=> h[c] + nadh[c] + oaa[c],Glycolysis / Gluconeogenesis;TCA Cycle,-1000.0,1000.0
+r_0265,,chor[c] --> pphn[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,0.0,1000.0
+r_0266,,asp__L[c] + atp[c] + citr__L[c] --> amp[c] + argsuc[c] + ppi[c],"Alanine, Aspartate and Glutamate metabolism",0.0,1000.0
+r_0267,,3hhcoa[c] + nad[c] <=> 3ohcoa[c] + h[c] + nadh[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0268,,atp[c] + cys__L[c] + dxyl5p[c] + tyr__L[c] --> 4hba[c] + 4mpetz[c] + ala__L[c] + amp[c] + co2[c] + h2o[c] + ppi[c],Thiamine Metabolism,0.0,1000.0
+r_0269,,h2o[e] <=> h2o[c],Transport,-1000.0,1000.0
+r_0270,,16.0 atp[c] + 8.0 fdxrd[c] + 16.0 h2o[c] + n2[c] --> 16.0 adp[c] + 8.0 fdxox[c] + 2.0 fixedNH3[c] + h2[c] + 8.0 h[c] + 16.0 pi[c],Nitrogen Metabolism; Symbiosis,0.0,1000.0
+r_0271,,nac[c] + r1p[c] <=> nicrns[c] + pi[c],Nicotinate and Nicotinamide,-1000.0,1000.0
+r_0272,,h2o[c] + methf[c] <=> 10fthf[c] + h[c],One carbon pool by folate,-1000.0,1000.0
+r_0273,,atp[c] + r5p[c] --> amp[c] + prpp[c],Purine Metabolism,0.0,1000.0
+r_0274,,h2o[c] + prbatp[c] --> ppi[c] + prbamp[c],Histidine Metabolism,0.0,1000.0
+r_0275,,cdpdag_cho[c] + ser__L[c] --> cmp[c] + h[c] + ps_cho[c],"Glycine, Serine, and Threonine Metabolism",0.0,1000.0
+r_0276,,3hocoa[c] <=> h2o[c] + oc2coa[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0277,,atp[c] + prpp[c] <=> ppi[c] + prbatp[c],Histidine Metabolism,-1000.0,1000.0
+r_0278,,fdp[c] <=> dhap[c] + g3p[c],Glycolysis / Gluconeogenesis,-1000.0,1000.0
+r_0279,,h2o[c] + hisp[c] --> h[c] + histd[c] + pi[c],Histidine Metabolism,0.0,1000.0
+r_0280,,adn[c] + h2o[c] --> ins[c] + nh3[c],Purine Metabolism,0.0,1000.0
+r_0281,,nad[c] + pro__L[c] --> 1pyr5c[c] + h[c] + nadh[c],Arginine and Proline Metabolism,0.0,1000.0
+r_0282,,h2o[c] + urea[c] --> co2[c] + 2.0 nh3[c],Arginine biosynthesis,0.0,1000.0
+r_0283,,akg[c] + asp__L[c] <=> glu__L[c] + oaa[c],"Alanine, Aspartate and Glutamate metabolism",-1000.0,1000.0
+r_0284,,din[c] + h[c] + pi[c] <=> 2dr1p[c] + hxan[c],Purine Metabolism,-1000.0,1000.0
+r_0285,,3c2hmp[c] <=> 2ippm[c] + h2o[c],"Valine, Leucine and Isoleucine Biosynthesis",-1000.0,1000.0
+r_0286,,2.0 dmlz[c] <=> 6r5au[c] + ribflv[c],Riboflavin Metabolism,-1000.0,1000.0
+r_0287,,h[c] + ps_cho[c] <=> co2[c] + pe_hs[c],"Glycine, Serine, and Threonine Metabolism",-1000.0,1000.0
+r_0288,,arg__L[c] + h2o[c] --> orn[c] + urea[c],Arginine and proline metabolism,0.0,1000.0
+r_0289,,btcoa[c] + fad[c] <=> b2coa[c] + fadh2[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0290,,dcyt[c] + h2o[c] --> duri[c] + nh3[c],Pyrimidine Metabolism,0.0,1000.0
+r_0291,,atp[c] + h2o[c] + pyr[c] --> amp[c] + h[c] + pep[c] + pi[c],Glycolysis / Gluconeogenesis,0.0,1000.0
+r_0292,,dmpp[c] + ipdp[c] --> grdp[c] + ppi[c],Terpenoid Backbone Biosynthesis,0.0,1000.0
+r_0293,,cgly[c] + h2o[c] --> cys__L[c] + gly[c],Glutathione Metabolism,0.0,1000.0
+r_0294,,adn[c] + h[c] + pi[c] <=> ade[c] + r1p[c],Purine Metabolism,-1000.0,1000.0
+r_0295,,3hoctACP[c] --> h2o[c] + toct2eACP[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0296,,atp[c] + udp[c] <=> adp[c] + utp[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0297,,hom__L[c] + nadp[c] <=> aspsa[c] + h[c] + nadph[c],"Glycine, Serine, and Threonine Metabolism",-1000.0,1000.0
+r_0298,,atp[c] + dgmp[c] <=> adp[c] + dgdp[c],Purine Metabolism,-1000.0,1000.0
+r_0299,,atp[c] + h2o[c] + homocitrate[e] <=> adp[c] + h[c] + homocitrate[c] + pi[c],Transport,-1000.0,1000.0
+r_0300,,h[c] + orot5p[c] --> co2[c] + ump[c],Pyrimidine Metabolism,0.0,1000.0
+r_0301,,air[c] + amet[c] + h2o[c] --> 4ahmmp[c] + co[c] + dad_5[c] + for[c] + 4.0 h[c] + met__L[c] + pi[c],Thiamine Metabolism,0.0,1000.0
+r_0302,,ser__L[c] + thf[c] --> gly[c] + h2o[c] + mlthf[c],"Glycine, Serine, and Threonine Metabolism",0.0,1000.0
+r_0303,,fadh2[c] + q[c] <=> fad[c] + qh2[c],Oxidative Phosphorylation,-1000.0,1000.0
+r_0304,,atp[c] + h2o[c] + mobd[e] --> adp[c] + h[c] + mobd[c] + pi[c],Transport,0.0,1000.0
+r_0305,,atp[c] + fe2[e] + h2o[c] --> adp[c] + fe2[c] + h[c] + pi[c],Transport,0.0,1000.0
+r_0306,,atp[c] + h2o[c] + pi[e] --> adp[c] + h[c] + 2.0 pi[c],Transport,0.0,1000.0
+r_0307,,damp[c] + datp[c] <=> 2.0 dadp[c],Purine Metabolism,-1000.0,1000.0
+r_0308,,1.5 o2[c] + pppg9[c] --> 3.0 h2o[c] + ppp9[c],Porphyrin and Chlorophyll Metabolism,0.0,1000.0
+r_0309,,ala__L[c] + gthrd[c] --> cgly[c] + gluala[c],Glutathione Metabolism,0.0,1000.0
+r_0310,,frdp[c] + h2o[c] + pheme[c] --> hemeO[c] + ppi[c],Porphyrin and Chlorophyll Metabolism,0.0,1000.0
+r_0311,,dxyl5p[c] + nad[c] + phthr[c] --> co2[c] + 2.0 h2o[c] + 2.0 h[c] + nadh[c] + pdx5p[c] + pi[c],Vitamin B6 Metabolism,0.0,1000.0
+r_0312,,actACP[c] + h[c] + nadph[c] <=> 3hbutACP[c] + nadp[c],Fatty Acid Biosynthesis,-1000.0,1000.0
+r_0313,,2ahbut[c] + h[c] + nadph[c] <=> 23dhmp[c] + nadp[c],"Valine, Leucine and Isoleucine Biosynthesis",-1000.0,1000.0
+r_0314,,atp[c] + h2o[c] + thm[e] --> adp[c] + h[c] + pi[c] + thm[c],Transport,0.0,1000.0
+r_0315,,h2o[c] + palmACP[c] <=> ACP[c] + h[c] + hdca[c],Fatty Acid Biosynthesis,-1000.0,1000.0
+r_0316,,alaala[c] + atp[c] + ugmd[c] --> adp[c] + h[c] + pi[c] + ugmda[c],Lysine Biosynthesis,0.0,1000.0
+r_0317,,atp[c] + h[c] + lys__L[c] + trnalys[c] --> amp[c] + lystrna[c] + ppi[c],Lysine Biosynthesis,0.0,1000.0
+r_0318,,h[c] + nadph[c] + tpalm2eACP[c] --> nadp[c] + palmACP[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0319,,atp[c] + h2o[c] + so4[e] --> adp[c] + h[c] + pi[c] + so4[c],Transport,0.0,1000.0
+r_0320,,h2o[c] + progly[c] --> gly[c] + pro__L[c],Arginine and Proline Metabolism,0.0,1000.0
+r_0321,,2.0 h[e] + nadh[c] + nadp[c] --> 2.0 h[c] + nad[c] + nadph[c],Transport,0.0,1000.0
+r_0322,,h[c] + nadh[c] + tpalm2eACP[c] --> nad[c] + palmACP[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0323,,adp[c] + 2.0 h[e] + pi[c] --> atp[c] + h2o[c] + h[c],Oxidative Phosphorylation,0.0,1000.0
+r_0324,,3hbutACP[c] <=> but2eACP[c] + h2o[c],Fatty Acid Biosynthesis,-1000.0,1000.0
+r_0325,,succ[e] <-- ,Exchange,-1.38,0.0
+r_0326,,homocitrate[e] <=> ,Exchange,-1000.0,1000.0
+r_0327,,fe2[e] <=> ,Exchange,-1000.0,1000.0
+r_0328,,n2[e] <=> ,Exchange,-1000.0,1000.0
+r_0329,,co2[e] <=> ,Exchange,-1000.0,1000.0
+r_0330,,pi[e] <=> ,Exchange,-1000.0,1000.0
+r_0331,,ala__L[e] --> ,Exchange,0.0,1000.0
+r_0332,,nh3[e] --> ,Exchange,0.0,1000.0
+r_0333,,so4[e] <=> ,Exchange,-1000.0,1000.0
+r_0334,,o2[e] <=> ,Exchange,-1.26,1000.0
+r_0335,,h2o[e] <=> ,Exchange,-1000.0,1000.0
+r_0336,,h[e] <=> ,Exchange,-1000.0,1000.0
+r_0337,,glu__L[e] <=> ,Exchange,-2.0,1000.0
+r_0338,,inost[e] <=> ,Exchange,-0.01,1000.0
+r_0339,,asp__L[e] --> ,Exchange,0.0,1000.0
+r_0340,,mal__L[e] <=> ,Exchange,-1.44,1000.0
+r_0341,,mg2[e] <=> ,Exchange,-1000.0,1000.0
+r_0342,,cbl1[e] <=> ,Exchange,-1000.0,1000.0
+r_0343,,mobd[e] <=> ,Exchange,-1000.0,1000.0
+r_0344,,thm[e] <=> ,Exchange,-1000.0,1000.0
+r_0345,,h2o[c] + ncam[c] --> h[c] + nac[c] + nh3[c],Nicotinate and Nicotinamide,0.0,1000.0
+r_0346,,atp[c] + h[c] + trnatrp[c] + trp__L[c] --> amp[c] + ppi[c] + trptrna[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,0.0,1000.0
+r_0347,,h2o[c] + sl26da[c] --> 26dap_LL[c] + succ[c],Lysine Biosynthesis,0.0,1000.0
+r_0348,,adocbip[c] + gtp[c] + h[c] --> agdpcbi[c] + ppi[c],Porphyrin Metabolism,0.0,1000.0
+r_0349,,athr__L[c] <=> acald[c] + gly[c],"Glycine, Serine, and Threonine Metabolism",-1000.0,1000.0
+r_0350,,dccoa[c] + fad[c] <=> dc2coa[c] + fadh2[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0351,,atp[c] + ribflv[c] --> adp[c] + fmn[c],Riboflavin Metabolism,0.0,1000.0
+r_0352,,4c2me[c] + atp[c] --> 2p4c2me[c] + adp[c],Terpenoid Backbone Biosynthesis,0.0,1000.0
+r_0353,,4.0 h[c] + uppg3[c] --> 4.0 co2[c] + cpppg3[c],Porphyrin and Chlorophyll Metabolism,0.0,1000.0
+r_0354,,acser[c] + h2s[c] --> ac[c] + cys__L[c] + h[c],Sulfur Metabolism,0.0,1000.0
+r_0355,,gua[c] + prpp[c] <=> gmp[c] + ppi[c],Purine Metabolism,-1000.0,1000.0
+r_0356,,cpppg3[c] + 2.0 h[c] + o2[c] --> 2.0 co2[c] + 2.0 h2o[c] + pppg9[c],Porphyrin and Chlorophyll Metabolism,0.0,1000.0
+r_0357,,h[c] + nadph[c] + thex2eACP[c] --> hexACP[c] + nadp[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0358,,h2o[c] + ump[c] --> h[c] + pi[c] + uri[c],Pyrimidine Metabolism,0.0,1000.0
+r_0359,,cmp[c] + h2o[c] --> cytd[c] + h[c] + pi[c],Pyrimidine Metabolism,0.0,1000.0
+r_0360,,h[c] + nadph[c] + tdec2eACP[c] --> dcaACP[c] + nadp[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0361,,accoa[c] + hxcoa[c] <=> 3oocoa[c] + coa[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0362,,atp[c] + gly[c] + h[c] + trnagly[c] --> amp[c] + glytrna[c] + ppi[c],Aminoacyl-tRNA biosynthesis,0.0,1000.0
+r_0363,,nad[c] + nadph[c] --> nadh[c] + nadp[c],Nicotinate and Nicotinamide,0.0,1000.0
+r_0364,,cala[c] + h2o[c] + h[c] <=> ala_B[c] + co2[c] + nh3[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0365,,56dura[c] + nad[c] <=> h[c] + nadh[c] + ura[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0366,,5mthf[c] + hcys__L[c] --> met__L[c] + thf[c],Cysteine and Methionine Metabolism,0.0,1000.0
+r_0367,,gdptp[c] + h2o[c] <=> h[c] + pi[c] + ppgpp[c],Purine Metabolism,-1000.0,1000.0
+r_0368,,agdpcbi[c] + rdmbzi[c] --> adocbl[c] + gmp[c],Porphyrin Metabolism,0.0,1000.0
+r_0369,,dtmp[c] + h2o[c] --> h[c] + pi[c] + thymd[c],Pyrimidine Metabolism,0.0,1000.0
+r_0370,,3hhcoa[c] <=> h2o[c] + hx2coa[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0371,,26dap__M[c] + atp[c] + uamag[c] --> adp[c] + h[c] + pi[c] + ugmd[c],Lysine Biosynthesis,0.0,1000.0
+r_0372,,2p4c2me[c] --> 2mecdp[c] + cmp[c],Terpenoid Backbone Biosynthesis,0.0,1000.0
+r_0373,,dcmp[c] + h2o[c] --> dcyt[c] + h[c] + pi[c],Pyrimidine Metabolism,0.0,1000.0
+r_0374,,2mahmp[c] + 4mpetz[c] + h[c] --> ppi[c] + thmmp[c],Thiamine Metabolism,0.0,1000.0
+r_0375,,f6p[c] + gln__L[c] --> gam6p[c] + glu__L[c],"Alanine, Aspartate and Glutamate metabolism",0.0,1000.0
+r_0376,,2ddg6p[c] --> g3p[c] + pyr[c],Pentose Phosphate Pathway,0.0,1000.0
+r_0377,,atp[c] + h[c] + his__L[c] + trnahis[c] --> amp[c] + histrna[c] + ppi[c],Histidine Metabolism,0.0,1000.0
+r_0378,,atp[c] + ser__L[c] + trnaser[c] --> amp[c] + ppi[c] + sertrna[c],Aminoacyl-tRNA biosynthesis,0.0,1000.0
+r_0379,,asp__D[c] <=> asp__L[c],"Alanine, Aspartate and Glutamate metabolism",-1000.0,1000.0
+r_0380,,achms[c] + h2s[c] <=> ac[c] + h[c] + hcys__L[c],Sulfur Metabolism,-1000.0,1000.0
+r_0381,,4.0 h[c] + 3.0 nadph[c] + so3[c] --> 3.0 h2o[c] + h2s[c] + 3.0 nadp[c],Sulfur Metabolism,0.0,1000.0
+r_0382,,atp[c] + met__L[c] + trnamet[c] --> amp[c] + mettrna[c] + ppi[c],Cysteine and Methionine Metabolism,0.0,1000.0
+r_0383,,h2o[c] + xmp[c] --> h[c] + pi[c] + xtsn[c],Purine Metabolism,0.0,1000.0
+r_0384,,accoa[c] + dccoa[c] <=> 3oddcoa[c] + coa[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0385,,fad[c] + pmtcoa[c] --> fadh2[c] + hdd2coa[c],Fatty Acid Metabolism,0.0,1000.0
+r_0386,,atp[c] + cmp[c] <=> adp[c] + cdp[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0387,,fad[c] + hxcoa[c] <=> fadh2[c] + hx2coa[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0388,,ahcys[c] + h2o[c] --> ade[c] + rhcys[c],Cysteine and Methionine Metabolism,0.0,1000.0
+r_0389,,atp[c] + fmn[c] --> fad[c] + ppi[c],Riboflavin Metabolism,0.0,1000.0
+r_0390,,h2o[c] + pser__L[c] --> h[c] + pi[c] + ser__L[c],"Glycine, Serine, and Threonine Metabolism",0.0,1000.0
+r_0391,,dadp[c] + pep[c] <=> datp[c] + pyr[c],Purine Metabolism,-1000.0,1000.0
+r_0392,,atp[c] + hco3[c] + pyr[c] --> adp[c] + h[c] + oaa[c] + pi[c],Glycolysis / Gluconeogenesis,0.0,1000.0
+r_0393,,ddcacoa[c] + fad[c] + h[c] <=> dd2coa[c] + fadh2[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0394,,ser__L[c] <=> h[c] + nh3[c] + pyr[c],"Glycine, Serine, and Threonine Metabolism",-1000.0,1000.0
+r_0395,,h2o[c] + nicrnt[c] --> h[c] + nicrns[c] + pi[c],Nicotinate and Nicotinamide,0.0,1000.0
+r_0396,,ala__L[c] + atp[c] + h[c] + trnaala[c] --> alatrna[c] + amp[c] + ppi[c],Aminoacyl-tRNA biosynthesis,0.0,1000.0
+r_0397,,ctp[c] + h2o[c] --> nh3[c] + utp[c],Pyrimidine Metabolism,0.0,1000.0
+r_0398,,atp[c] + h[c] + phe__L[c] + trnaphe[c] --> amp[c] + phetrna[c] + ppi[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,0.0,1000.0
+r_0399,,accoa[c] + gly[c] <=> 2aobut[c] + coa[c],"Glycine, Serine, and Threonine Metabolism",-1000.0,1000.0
+r_0400,,accoa[c] + occoa[c] <=> 3odcoa[c] + coa[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0401,,atp[c] + h[c] + so4[c] <=> aps[c] + ppi[c],Sulfur Metabolism,-1000.0,1000.0
+r_0402,,h2o[c] + nmn[c] --> h[c] + pi[c] + rnam[c],Nicotinate and Nicotinamide,0.0,1000.0
+r_0403,,pep[c] + skm5p[c] <=> 3psme[c] + h[c] + pi[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,-1000.0,1000.0
+r_0404,,chor[c] + gln__L[c] --> anth[c] + glu__L[c] + h[c] + pyr[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,0.0,1000.0
+r_0405,,but2eACP[c] + h[c] + nadph[c] --> butACP[c] + nadp[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0406,,2pg[c] <=> 3pg[c],Glycolysis / Gluconeogenesis,-1000.0,1000.0
+r_0407,,atp[c] + h[c] + trnatyr[c] + tyr__L[c] --> amp[c] + ppi[c] + tyrtrna[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,0.0,1000.0
+r_0408,,4ahmmp[c] + atp[c] --> 4ampm[c] + adp[c],Thiamine Metabolism,0.0,1000.0
+r_0409,,atp[c] + dhpt[c] + glu__L[c] --> adp[c] + dhf[c] + h[c] + pi[c],Folate Biosynthesis,0.0,1000.0
+r_0410,,h2o[c] + imp[c] <=> fprica[c],Purine Metabolism,-1000.0,1000.0
+r_0411,,fum[c] + h2o[c] <=> mal__L[c],TCA Cycle,-1000.0,1000.0
+r_0412,,h[c] + nadph[c] + toct2eACP[c] --> nadp[c] + ocACP[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0413,,atp[c] + cys__L[c] + h[c] + trnacys[c] --> amp[c] + cystrna[c] + ppi[c],Aminoacyl-tRNA biosynthesis,0.0,1000.0
+r_0414,,gthox[c] + h[c] + nadph[c] <=> 2.0 gthrd[c] + nadp[c],Glutathione Metabolism,-1000.0,1000.0
+r_0415,,10fthf[c] + aicar[c] --> fprica[c] + thf[c],Purine Metabolism,0.0,1000.0
+r_0416,,atp[c] + ptcys[c] <=> 4ppcys[c] + adp[c],Pantothenate and CoA Biosynthesis,-1000.0,1000.0
+r_0417,,gmp[c] + h2o[c] --> gsn[c] + h[c] + pi[c],Purine Metabolism,0.0,1000.0
+r_0418,,2.0 h2o2[c] --> 2.0 h2o[c] + o2[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,0.0,1000.0
+r_0419,,glu5p[c] + nadph[c] --> glu5sa[c] + nadp[c] + pi[c],Arginine and Proline Metabolism,0.0,1000.0
+r_0420,,2pg[c] <=> h2o[c] + pep[c],Glycolysis / Gluconeogenesis,-1000.0,1000.0
+r_0421,,2cpr5p[c] + h[c] --> 3ig3p[c] + co2[c] + h2o[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,0.0,1000.0
+r_0422,,2me4p[c] + ctp[c] --> 4c2me[c] + ppi[c],Terpenoid Backbone Biosynthesis,0.0,1000.0
+r_0423,,atp[c] + ptth[c] <=> adp[c] + pan4p[c],Pantothenate and CoA Biosynthesis,-1000.0,1000.0
+r_0424,,atp[c] + gtp[c] --> amp[c] + gdptp[c],Purine Metabolism,0.0,1000.0
+r_0425,,atp[c] + fgam[c] + gln__L[c] + h2o[c] --> adp[c] + fpram[c] + glu__L[c] + h[c] + pi[c],Purine Metabolism,0.0,1000.0
+r_0426,,dscl[c] + nad[c] --> h[c] + nadh[c] + scl[c],Porphyrin Metabolism,0.0,1000.0
+r_0427,,3php[c] + glu__L[c] <=> akg[c] + pser__L[c],"Glycine, Serine, and Threonine Metabolism",-1000.0,1000.0
+r_0428,,atp[c] + thr__L[c] + trnathr[c] --> amp[c] + ppi[c] + thrtrna[c],Aminoacyl-tRNA biosynthesis,0.0,1000.0
+r_0429,,h2o[c] + imp[c] --> h[c] + ins[c] + pi[c],Purine Metabolism,0.0,1000.0
+r_0430,,fad[c] + tdcoa[c] <=> fadh2[c] + td2coa[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0431,,10fthf[c] + mettrna[c] --> fmettrna[c] + h[c] + thf[c],One carbon pool by folate,0.0,1000.0
+r_0432,,atp[c] + glu__L[c] + h[c] + trnaglu[c] --> amp[c] + glutrna[c] + ppi[c],"Alanine, Aspartate and Glutamate metabolism",0.0,1000.0
+r_0433,,5apru[c] + h[c] + nadph[c] <=> 5aprbu[c] + nadp[c],Riboflavin Metabolism,-1000.0,1000.0
+r_0434,,atp[c] + h[c] + ile__L[c] + trnaile[c] --> amp[c] + iletrna[c] + ppi[c],"Valine, Leucine and Isoleucine Biosynthesis",0.0,1000.0
+r_0435,,dgmp[c] + h2o[c] --> dgsn[c] + h[c] + pi[c],Purine Metabolism,0.0,1000.0
+r_0436,,Largn[c] + h[c] --> co2[c] + h2o[c] + phe__L[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,0.0,1000.0
+r_0437,,asp__L[c] + atp[c] + h[c] + trnaasp[c] --> amp[c] + asptrna[c] + ppi[c],"Alanine, Aspartate and Glutamate metabolism",0.0,1000.0
+r_0438,,accoa[c] + ddcacoa[c] + h[c] <=> 3otdcoa[c] + coa[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0439,,g1p[c] <=> g6p[c],Glycolysis / Gluconeogenesis,-1000.0,1000.0
+r_0440,,asp__L[c] + cbp[c] --> cbasp[c] + 2.0 h[c] + pi[c],"Alanine, Aspartate and Glutamate metabolism",0.0,1000.0
+r_0441,,atp[c] + h[c] + trnaval[c] + val__L[c] --> amp[c] + ppi[c] + valtrna[c],"Valine, Leucine and Isoleucine Biosynthesis",0.0,1000.0
+r_0442,,4ppcys[c] + h[c] <=> co2[c] + pan4p[c],Pantothenate and CoA Biosynthesis,-1000.0,1000.0
+r_0443,,glu__L[c] + ohpb[c] <=> akg[c] + phthr[c],Vitamin B6 Metabolism,-1000.0,1000.0
+r_0444,,accoa[c] + atp[c] + hco3[c] <=> adp[c] + h[c] + malcoa[c] + pi[c],Fatty Acid Biosynthesis,-1000.0,1000.0
+r_0445,,asp__L[c] + gtp[c] + imp[c] --> dcamp[c] + gdp[c] + 2.0 h[c] + pi[c],"Alanine, Aspartate and Glutamate metabolism",0.0,1000.0
+r_0446,,hxan[c] + prpp[c] <=> imp[c] + ppi[c],Purine Metabolism,-1000.0,1000.0
+r_0447,,h[c] + mlthf[c] + nadh[c] --> 5mthf[c] + nad[c],One carbon pool by folate,0.0,1000.0
+r_0448,,h[c] + nadph[c] + tmrs2eACP[c] --> myrsACP[c] + nadp[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0449,,23dhdp[c] + h[c] + nadph[c] --> nadp[c] + thdp[c],Lysine Biosynthesis,0.0,1000.0
+r_0450,,dctp[c] + h2o[c] --> dutp[c] + nh3[c],Pyrimidine Metabolism,0.0,1000.0
+r_0451,,fe2[c] + scl[c] --> 2.0 h[c] + sheme[c],Porphyrin Metabolism,0.0,1000.0
+r_0452,,atp[c] + gln__L[c] + h2o[c] + xmp[c] --> amp[c] + glu__L[c] + gmp[c] + h[c] + ppi[c],Purine Metabolism,0.0,1000.0
+r_0453,,h[c] + lpam[c] + pyr[c] --> adhlam[c] + co2[c],Glycolysis / Gluconeogenesis,0.0,1000.0
+r_0454,,2.0 amet[c] + uppg3[c] --> 2.0 ahcys[c] + dscl[c] + 2.0 h[c],Porphyrin and Chlorophyll Metabolism,0.0,1000.0
+r_0455,,arg__L[c] + atp[c] + h[c] + trnaarg[c] --> amp[c] + argtrna[c] + ppi[c],Arginine biosynthesis,0.0,1000.0
+r_0456,,mlthf[c] + nadp[c] <=> methf[c] + nadph[c],One carbon pool by folate,-1000.0,1000.0
+r_0457,,atp[c] + glucys[c] + gly[c] --> adp[c] + gthrd[c] + h[c] + pi[c],Glutathione Metabolism,0.0,1000.0
+r_0458,,fad[c] + occoa[c] <=> fadh2[c] + oc2coa[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0459,,6pgc[c] + nadp[c] --> co2[c] + nadph[c] + ru5p__D[c],Pentose Phosphate Pathway,0.0,1000.0
+r_0460,,coa[c] + msa[c] + nad[c] --> accoa[c] + co2[c] + nadh[c],Inositol Phosphate Metabolism,0.0,1000.0
+r_0461,,accoa[c] + tdcoa[c] <=> 3ohdcoa[c] + coa[c],Fatty Acid Metabolism,-1000.0,1000.0
+r_0462,,h[c] + nadph[c] + trdox[c] <=> nadp[c] + trdrd[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0463,,amp[c] + h2o[c] --> adn[c] + h[c] + pi[c],Purine Metabolism,0.0,1000.0
+r_0464,,g3p[c] + nad[c] + pi[c] <=> 13dpg[c] + nadh[c],Glycolysis / Gluconeogenesis,-1000.0,1000.0
+r_0465,,atp[c] + h[c] + leu__L[c] + trnaleu[c] --> amp[c] + leutrna[c] + ppi[c],"Valine, Leucine and Isoleucine Biosynthesis",0.0,1000.0
+r_0466,,h[c] + nadph[c] + tddec2eACP[c] --> ddcaACP[c] + nadp[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0467,,3dhq[c] <=> 3dhsk[c] + h2o[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,-1000.0,1000.0
+r_0468,,akg[c] + gln__L[c] + h[c] + nadph[c] --> 2.0 glu__L[c] + nadp[c],Nitrogen Metabolism,0.0,1000.0
+r_0469,,h2o[c] + ppgpp[c] --> gdp[c] + ppi[c],Purine Metabolism,0.0,1000.0
+r_0470,,damp[c] + h2o[c] <=> dad_2[c] + h[c] + pi[c],Purine Metabolism,-1000.0,1000.0
+r_0471,,h2o[c] + nadp[c] + sucsal[c] --> 2.0 h[c] + nadph[c] + succ[c],Nitrogen Metabolism,0.0,1000.0
+r_0472,,2.0 atp[c] + gln__L[c] + h2o[c] + hco3[c] --> 2.0 adp[c] + cbp[c] + glu__L[c] + h[c] + pi[c],"Alanine, Aspartate and Glutamate metabolism",0.0,1000.0
+r_0473,,4ampm[c] + atp[c] --> 2mahmp[c] + adp[c],Thiamine Metabolism,0.0,1000.0
+r_0474,,h2o[c] + 4.0 ppbng[c] --> 4.0 h[c] + hmbil[c] + 4.0 nh3[c],Porphyrin and Chlorophyll Metabolism,0.0,1000.0
+r_0475,,coa[c] + sdhlam[c] --> dhlam[c] + succoa[c],TCA Cycle,0.0,1000.0
+r_0476,,acorn[c] + akg[c] <=> acg5sa[c] + glu__L[c],Arginine biosynthesis,-1000.0,1000.0
+r_0477,,akg[c] + sl26da[c] <=> glu__L[c] + sl2a6o[c],Lysine Biosynthesis,-1000.0,1000.0
+r_0478,,atp[c] + h[c] + pro__L[c] + trnapro[c] --> amp[c] + ppi[c] + protrna[c],Aminoacyl-tRNA biosynthesis,0.0,1000.0
+r_0479,,h2o[c] + suchms[c] <=> 2obut[c] + 2.0 h[c] + nh3[c] + succ[c],Cysteine and Methionine Metabolism,-1000.0,1000.0
+r_0480,,cys__L[c] + suchms[c] --> cyst__L[c] + h[c] + succ[c],Cysteine and Methionine Metabolism,0.0,1000.0
+r_0481,,achms[c] + cys__L[c] <=> ac[c] + cyst__L[c] + h[c],Cysteine and Methionine Metabolism,-1000.0,1000.0
+r_0482,,arg__L[c] + h[c] --> agm[c] + co2[c],Arginine and Proline Metabolism,0.0,1000.0
+r_0483,,4ppan[c] + ctp[c] + cys__L[c] <=> 4ppcys[c] + cmp[c] + ppi[c],Pantothenate and CoA Biosynthesis,-1000.0,1000.0
+r_0484,,glu__L[c] + h[c] --> 4abut[c] + co2[c],Nitrogen Metabolism,0.0,1000.0
+r_0485,,akg[c] + h[c] + lpam[c] <=> co2[c] + sdhlam[c],TCA Cycle,-1000.0,1000.0
+r_0486,,glu__L[c] + mmtsa[c] <=> 3aib[c] + akg[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0487,,5prdmbz[c] + h2o[c] --> h[c] + pi[c] + rdmbzi[c],Porphyrin Metabolism,0.0,1000.0
+r_0488,,h2o[c] + pydx5p[c] --> h[c] + pi[c] + pydx[c],Vitamin B6 Metabolism,0.0,1000.0
+r_0489,,h[c] + ptcys[c] <=> co2[c] + ptth[c],Pantothenate and CoA Biosynthesis,-1000.0,1000.0
+r_0490,,glutrna[c] + h[c] + nadph[c] --> glu1sa[c] + nadp[c] + trnaglu[c],Porphyrin and Chlorophyll Metabolism,0.0,1000.0
+r_0491,,icit[c] + nad[c] <=> akg[c] + co2[c] + nadh[c],TCA Cycle,-1000.0,1000.0
+r_0492,,2.0 gthrd[c] + h2o2[c] --> gthox[c] + 2.0 h2o[c],Glutathione Metabolism,0.0,1000.0
+r_0493,,aps[c] + 2.0 gthrd[c] --> amp[c] + gthox[c] + so3[c],Sulfur Metabolism,0.0,1000.0
+r_0494,,h2o[c] + pdx5p[c] --> h[c] + pi[c] + pydxn[c],Vitamin B6 Metabolism,0.0,1000.0
+r_0495,,atp[c] + f6p[c] --> adp[c] + fdp[c],Glycolysis / Gluconeogenesis,0.0,1000.0
+r_0496,,air[c] + co2[c] <=> 5aizc[c] + h[c],Purine Metabolism,-1000.0,1000.0
+r_0497,,atp[c] + dnad[c] + gln__L[c] + h2o[c] --> amp[c] + glu__L[c] + nad[c] + ppi[c],Nicotinate and Nicotinamide,0.0,1000.0
+r_0498,,cytd[c] + h2o[c] --> csn[c] + rib__D[c],Pyrimidine Metabolism,0.0,1000.0
+r_0499,,h2o[c] + ppi[c] --> 2.0 h[c] + 2.0 pi[c],Oxidative Phosphorylation,0.0,1000.0
+r_0500,,dhor__S[c] + o2[c] <=> h2o2[c] + orot[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0501,,ACP[c] + h2o[c] --> apoACP[c] + pan4p[c],Pantothenate and CoA Biosynthesis,0.0,1000.0
+r_0502,,56dthm[c] + nadp[c] <=> h[c] + nadph[c] + thym[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0503,,h2o[c] + pyam5p[c] --> h[c] + pi[c] + pydam[c],Vitamin B6 Metabolism,0.0,1000.0
+r_0504,,atp[c] + dcmp[c] <=> adp[c] + dcdp[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0505,,fixedNH3[e] <=> ,Exchange,-1000.0,1000.0
+r_0506,,fixedNH3[c] --> fixedNH3[e],Transport; Symbiosis,0.0,1000.0
+r_0507,,Iron[c] + adocbl[c] + atp[c] + gthox[c] + hemeO[c] + homocitrate[c] + mg2[c] + mobd[c] + nac[c] + pi[c] + pydxn[c] + thm[c] + zn2[c] --> Symbiotic_Cofactors[c],Symbiosis,0.0,1000.0
+BIOMASS_0508,,0.00816736 Symbiotic_Cofactors[c] + 0.816736 ade[c] + 0.816736 ala__L[c] + 0.816736 arg__L[c] + 0.816736 asp__L[c] + 0.816736 fixedNH3[c] + 0.816736 glycogen[c] + 0.816736 hdca[c] + 0.816736 ile__L[c] + 0.816736 phb[c] + 0.816736 ura[c] + 0.816736 val__L[c] <=> Symbiotic_product[c] + 0.816736 ala__L[e] + 0.816736 asp__L[e] + 0.816736 fixedNH3[e] + 0.816736 glycogen1[c],Symbiosis,-1000.0,1000.0
+r_0509,,zn2[c] <=> zn2[e],Transport; Symbiosis,-1000.0,1000.0
+r_0510,,zn2[e] <=> ,Exchange,-1000.0,1000.0
+r_0511,,h2[c] --> h2[e],Transport; Symbiosis,0.0,1000.0
+r_0512,,h2[e] <=> ,Exchange,-1000.0,1000.0
+r_0513,,3hbcoaR[c] --> coa[c] + phb[c],PHB synthesis,0.0,1000.0
+r_0514,,h2o[c] + 2.0 phb[c] --> 3hbbRR[c] + h[c],PHB synthesis,0.0,1000.0
+r_0515,,aacoa[c] + h[c] + nadph[c] <=> 3hbcoaR[c] + nadp[c],PHB synthesis; Butanoate metabolism; Glyoxylate and dicarboxylate metabolism,-1000.0,1000.0
+r_0516,,3hbbRR[c] + h2o[c] <=> 2.0 bhb[c] + h[c],PHB synthesis; Butanoate metabolism,-1000.0,1000.0
+r_0517,,acac[c] + atp[c] + coa[c] + h[c] --> aacoa[c] + amp[c] + ppi[c],"PHB synthesis; Valine, leucine and isoleucine degradation; Butanoate metabolism",0.0,1000.0
+r_0518,,bhb[c] + nad[c] <=> acac[c] + h[c] + nadh[c],PHB synthesis,-1000.0,1000.0
+r_0519,,acac[c] + succoa[c] <=> aacoa[c] + succ[c],"PHB synthesis; Valine, leucine and isoleucine degradation; Butanoate metabolism",-1000.0,1000.0
+r_0520,,glycogen1[c] <=> ,Transport,-1000.0,1000.0
+r_0521,,mal__L[c] + nadp[c] --> co2[c] + nadph[c] + pyr[c],Pyruvate metabolism,0.0,1000.0
+r_0522,,glycogen[c] + h[c] + pi[c] <=> g1p[c] + glycogen1[c],Glycogen synthesis,-1000.0,1000.0
+r_0523,,dkdi[c] + h2o[c] --> 5ddglcn[c] + h[c],Inositol Phosphate Metabolism,0.0,1000.0
+r_0524,,5ddglcn[c] --> d5kg[c],Inositol Phosphate Metabolism,0.0,1000.0
+r_0525,,glu__L[c] + h2o[c] + nad[c] <=> akg[c] + 2.0 h[c] + nadh[c] + nh3[c],"Arginine biosynthesis; Alanine, aspartate and glutamate metabolism",-1000.0,1000.0
+r_0526,,glu__L[c] + h2o[c] + nadp[c] <=> akg[c] + 2.0 h[c] + nadph[c] + nh3[c],"Arginine biosynthesis; Alanine, aspartate and glutamate metabolism",-1000.0,1000.0
+r_0527,,4per[c] + nad[c] <=> h[c] + nadh[c] + ohpb[c],Vitamin B6 Metabolism,-1000.0,1000.0
+r_0528,,asp__L[c] + o2[c] --> h2o2[c] + h[c] + iasp[c],Nicotinate and Nicotinamide,0.0,1000.0
+r_0529,,dhap[c] + iasp[c] --> 2.0 h2o[c] + h[c] + pi[c] + quln[c],Nicotinate and Nicotinamide,0.0,1000.0
+r_0530,,Symbiotic_product[c] --> ,Transport,0.0,1000.0
+r_0531,,atp[c] + h2o[c] + zn2[e] --> adp[c] + h[c] + pi[c] + zn2[c],Transport,0.0,1000.0
+r_0532,,h[e] + pi[e] <=> h[c] + pi[c],Transport,-1000.0,1000.0
+r_0533,,dad_5[c] + h2o[c] --> 5drib[c] + ade[c],[],0.0,1000.0
+r_0534,,5drib[c] --> ,Transport,0.0,1000.0
+r_0535,,co[c] + 2.0 fdxox[c] + h2o[c] --> co2[c] + 2.0 fdxrd[c] + 2.0 h[c],[],0.0,1000.0
+r_0536,,atp[c] + h[c] + oaa[c] --> adp[c] + co2[c] + pep[c],Glycolysis / Gluconeogenesis;TCA Cycle,0.0,1000.0
+r_0537,,atp[c] + g1p[c] --> adp[c] + g6p[c],Glycolysis / Gluconeogenesis,0.0,1000.0
+r_0538,,acald[c] + h2o[c] + nadp[c] <=> ac[c] + 2.0 h[c] + nadph[c],Glycolysis / Gluconeogenesis,-1000.0,1000.0
+r_0539,,acald[c] + h[c] + nadh[c] <=> etoh[c] + nad[c],Glycolysis / Gluconeogenesis,-1000.0,1000.0
+r_0540,,2dr5p[c] <=> acald[c] + g3p[c],Pentose Phosphate Pathway,-1000.0,1000.0
+r_0541,,g1p[c] + nadp[c] <=> 15gl[c] + h[c] + nadph[c],Pentose Phosphate Pathway,-1000.0,1000.0
+r_0542,,g1p[c] + nad[c] <=> 15gl[c] + h[c] + nadh[c],Pentose Phosphate Pathway,-1000.0,1000.0
+r_0543,,atp[c] + glcn[c] --> 6pgc[c] + adp[c],Pentose Phosphate Pathway,0.0,1000.0
+r_0544,,h2o[c] + pail35p_cho[c] --> pail3p_cho[c] + pi[c],Inositol Phosphate Metabolism,0.0,1000.0
+r_0545,,h2o[c] + pail4p_cho[c] --> pail_cho[c] + pi[c],Inositol Phosphate Metabolism,0.0,1000.0
+r_0546,,2ins[c] + nad[c] --> 3desins[c] + h[c] + nadh[c],Inositol Phosphate Metabolism,0.0,1000.0
+r_0547,,nadp[c] + syinost[c] --> 2ins[c] + h[c] + nadph[c],Inositol Phosphate Metabolism,0.0,1000.0
+r_0548,,air[c] + amet[c] --> 4ampm[c] + co[c] + dad_5[c] + for[c] + h2o[c] + met__L[c],Thiamine Metabolism,0.0,1000.0
+r_0549,,2mahmp[c] + cthzp[c] --> co2[c] + ppi[c] + thmmp[c],Thiamine Metabolism,0.0,1000.0
+r_0550,,gly[c] + o2[c] --> h2o2[c] + imgly[c],Thiamine Metabolism,0.0,1000.0
+r_0551,,dxyl5p[c] + imgly[c] + thiosul[c] --> 2c4mthzep[c] + 2.0 h2o[c] + scp[c],Thiamine Metabolism,0.0,1000.0
+r_0552,,h2o[c] + thmpp[c] <=> pi[c] + thmmp[c],Thiamine Metabolism,-1000.0,1000.0
+r_0553,,atp[c] + thm[c] --> amp[c] + thmpp[c],Thiamine Metabolism,0.0,1000.0
+r_0554,,adp[c] + thmpp[c] --> amp[c] + thmtp[c],Thiamine Metabolism,0.0,1000.0
+r_0555,,fad[c] + h2o[c] <=> amp[c] + fmn[c],Riboflavin Metabolism,-1000.0,1000.0
+r_0556,,dmpp[c] + h2o[c] <=> dmp[c] + pi[c],Riboflavin Metabolism,-1000.0,1000.0
+r_0557,,atp[c] + pl[c] <=> adp[c] + dmp[c],Riboflavin Metabolism,-1000.0,1000.0
+r_0558,,dmp[c] + fmnh2[c] <=> pi[c] + prf2[c],Riboflavin Metabolism,-1000.0,1000.0
+r_0559,,fmnh2[c] + o2[c] <=> dmbzid[c] + e4p[c] + h2o[c],Riboflavin Metabolism,-1000.0,1000.0
+r_0560,,o2[c] + pydxn[c] <=> h2o2[c] + pydx[c],Vitamin B6 Metabolism,-1000.0,1000.0
+r_0561,,3a2oprop[c] + dxyl5p[c] --> 2.0 h2o[c] + pdx5p[c] + pi[c],Vitamin B6 Metabolism,0.0,1000.0
+r_0562,,dnad[c] + h2o[c] --> amp[c] + nicrnt[c],Nicotinate and Nicotinamide,0.0,1000.0
+r_0563,,h2o[c] + nad[c] --> amp[c] + nmn[c],Nicotinate and Nicotinamide,0.0,1000.0
+r_0564,,atp[c] + dnad[c] + h[c] + nh3[c] --> amp[c] + nad[c] + ppi[c],Nicotinate and Nicotinamide,0.0,1000.0
+r_0565,,h2o[c] + nadp[c] --> h[c] + nad[c] + pi[c],Nicotinate and Nicotinamide,0.0,1000.0
+r_0566,,atp[c] + nad[c] --> adp[c] + nadp[c],Nicotinate and Nicotinamide,0.0,1000.0
+r_0567,,pi[c] + rnam[c] <=> ncam[c] + r1p[c],Nicotinate and Nicotinamide,-1000.0,1000.0
+r_0568,,focytC[c] + h[c] + no2[c] --> ficytC[c] + h2o[c] + no[c],Nitrogen Metabolism,0.0,1000.0
+r_0570,,h[c] + 2.0 pyr[c] --> alac__S[c] + co2[c],Pantothenate and CoA Biosynthesis,0.0,1000.0
+r_0571,,alac__S[c] + h[c] + nadph[c] --> 23dhmb[c] + nadp[c],Pantothenate and CoA Biosynthesis,0.0,1000.0
+r_0572,,dpcoa[c] + h2o[c] <=> amp[c] + pan4p[c],Pantothenate and CoA Biosynthesis,-1000.0,1000.0
+r_0573,,56dura[c] + h2o[c] --> cala[c],Pantothenate and CoA Biosynthesis,0.0,1000.0
+r_0574,,asp__L[c] + h2o[c] <=> ala_B[c] + co2[c] + h[c],Pantothenate and CoA Biosynthesis,-1000.0,1000.0
+r_0575,,dhf[c] + nad[c] <=> fol[c] + h[c] + nadh[c],One carbon pool by folate,-1000.0,1000.0
+r_0576,,2.0 nadp[c] + thf[c] <=> fol[c] + 2.0 h[c] + 2.0 nadph[c],One carbon pool by folate,-1000.0,1000.0
+r_0577,,s8ams[c] + thf[c] <=> dhlpyprot[c] + mlthf[c] + nh3[c],One carbon pool by folate,-1000.0,1000.0
+r_0578,,atp[c] + for[c] + thf[c] <=> 10fthf[c] + adp[c] + pi[c],One carbon pool by folate,-1000.0,1000.0
+r_0579,,gar[c] + h2o[c] + methf[c] <=> fgam[c] + 2.0 h[c] + thf[c],One carbon pool by folate,-1000.0,1000.0
+r_0580,,h2o[c] + methf[c] <=> fa[c],One carbon pool by folate,-1000.0,1000.0
+r_0581,,atp[c] + fa[c] --> adp[c] + e[c] + methf[c] + pi[c],One carbon pool by folate,0.0,1000.0
+r_0582,,h[c] + nadh[c] + q[c] --> nad[c] + qh2[c],Oxidative Phosphorylation,0.0,1000.0
+r_0583,,h[c] + nadh[c] + qun[c] --> hqn[c] + nad[c],Oxidative Phosphorylation,0.0,1000.0
+r_0584,,nad[c] + qh2[c] --> h[c] + nadh[c] + q[c],Oxidative Phosphorylation,0.0,1000.0
+r_0586,,2.0 ficytC[c] + hqn[c] --> 2.0 focytC[c] + 2.0 h[c] + qun[c],Oxidative Phosphorylation,0.0,1000.0
+r_0587,,4.0 focytC[c] + 4.0 h[c] + o2[c] --> 4.0 ficytC[c] + 2.0 h2o[c],Oxidative Phosphorylation,0.0,1000.0
+r_0588,,atp[c] + h2o[c] + 4.0 h[c] --> adp[c] + 5.0 h[e] + pi[c],Oxidative Phosphorylation,0.0,1000.0
+r_0589,,nad[c] + r3mmal[c] --> 2obut[c] + co2[c] + nadh[c],"Valine, Leucine and Isoleucine Biosynthesis",0.0,1000.0
+r_0590,,2obut[c] + h[c] + pyr[c] --> 2ahbut[c] + co2[c],"Valine, Leucine and Isoleucine Biosynthesis",0.0,1000.0
+r_0591,,2ahbut[c] <=> 3hmop[c],"Valine, Leucine and Isoleucine Biosynthesis",-1000.0,1000.0
+r_0592,,23dhmp[c] + nadp[c] <=> 3hmop[c] + h[c] + nadph[c],"Valine, Leucine and Isoleucine Biosynthesis",-1000.0,1000.0
+r_0593,,accoa[c] + h2o[c] + pyr[c] --> 2mm__R[c] + coa[c],"Valine, Leucine and Isoleucine Biosynthesis",0.0,1000.0
+r_0594,,alac__S[c] <=> 3hmoa[c],"Valine, Leucine and Isoleucine Biosynthesis",-1000.0,1000.0
+r_0595,,23dhmb[c] + nadp[c] <=> 3hmoa[c] + h[c] + nadph[c],"Valine, Leucine and Isoleucine Biosynthesis",-1000.0,1000.0
+r_0596,,aspsa[c] + pyr[c] <=> 4hthdp[c] + h2o[c] + h[c],Lysine Biosynthesis,-1000.0,1000.0
+r_0597,,akg[c] + n6all26d[c] <=> glu__L[c] + nal2a6o[c],Lysine Biosynthesis,-1000.0,1000.0
+r_0598,,26dap_LL[c] + akg[c] <=> glu__L[c] + h2o[c] + h[c] + thdp[c],Lysine Biosynthesis,-1000.0,1000.0
+r_0599,,histd[c] + nad[c] --> h[c] + histda[c] + nadh[c],Histidine Metabolism,0.0,1000.0
+r_0600,,amet[c] + his__L[c] --> Npmehis[c] + ahcys[c],Histidine Metabolism,0.0,1000.0
+r_0601,,h2o[c] + histda[c] + nad[c] --> 2.0 h[c] + his__L[c] + nadh[c],Histidine Metabolism,0.0,1000.0
+r_0602,,3.0 amet[c] + h[c] + his__L[c] --> 3.0 ahcys[c] + hercyn[c],Histidine Metabolism,0.0,1000.0
+r_0603,,4izp[c] + h2o[c] + o2[c] --> h2o2[c] + h5p[c],Histidine Metabolism,0.0,1000.0
+r_0604,,h2o[c] + nflgln[c] --> Nforglu[c] + nh3[c],Histidine Metabolism,0.0,1000.0
+r_0605,,Nforglu[c] + h2o[c] <=> for[c] + glu__L[c] + h[c],Histidine Metabolism,-1000.0,1000.0
+r_0606,,5oxpro[c] + atp[c] + 2.0 h2o[c] --> adp[c] + glu__L[c] + pi[c],Glutathione Metabolism,0.0,1000.0
+r_0607,,icit[c] + nadp[c] --> akg[c] + co2[c] + nadph[c],Glutathione Metabolism,0.0,1000.0
+r_0608,,3hbcoa[c] + nadp[c] <=> aacoa[c] + h[c] + nadph[c],Butanoate metabolism,-1000.0,1000.0
+r_0609,,2ppoh[c] + nad[c] <=> acetone[c] + h[c] + nadh[c],Butanoate metabolism,-1000.0,1000.0
+r_0610,,2mecdp[c] + 2.0 fdxrd[c] + 2.0 h[c] --> 2.0 fdxox[c] + h2mb4p[c] + h2o[c],Terpenoid Backbone Biosynthesis,0.0,1000.0
+r_0611,,ipdp[c] <=> dmpp[c],Terpenoid Backbone Biosynthesis,-1000.0,1000.0
+r_0612,,h2o[c] + paps[c] <=> aps[c] + pi[c],Sulfur Metabolism,-1000.0,1000.0
+r_0613,,h[c] + paps[c] + trdrd[c] --> pap[c] + so3[c] + trdox[c],Sulfur Metabolism,0.0,1000.0
+r_0614,,6.0 fdxox[c] + 3.0 h2o[c] + h2s[c] <=> 6.0 fdxrd[c] + 7.0 h[c] + so3[c],Sulfur Metabolism,-1000.0,1000.0
+r_0615,,atp[c] + ser__L[c] + trnasecys[c] <=> amp[c] + ppi[c] + sertrna_sec[c],Aminoacyl-tRNA biosynthesis,-1000.0,1000.0
+r_0616,,atp[c] + h[c] + lys__L[c] + trnalys[c] <=> amp[c] + lystrna[c] + ppi[c],Aminoacyl-tRNA biosynthesis,-1000.0,1000.0
+r_0617,,accoa[c] + h[c] + malACP[c] --> actACP[c] + co2[c] + coa[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0618,,acacp[c] + malACP[c] --> 3oocyACP[c] + ACP[c] + co2[c],Fatty Acid Biosynthesis,0.0,1000.0
+r_0619,,3haACP[c] + nadp[c] <=> 3oocyACP[c] + h[c] + nadph[c],Fatty Acid Biosynthesis,-1000.0,1000.0
+r_0620,,3haACP[c] <=> h2o[c] + t23dACP[c],Fatty Acid Biosynthesis,-1000.0,1000.0
+r_0621,,acacp[c] + nad[c] <=> h[c] + nadh[c] + t23dACP[c],Fatty Acid Biosynthesis,-1000.0,1000.0
+r_0622,,dhor__S[c] + qun[c] <=> hqn[c] + orot[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0623,,h2o[c] + utp[c] --> ppi[c] + ump[c],Pyrimidine Metabolism,0.0,1000.0
+r_0624,,atp[c] + nh3[c] + utp[c] --> adp[c] + ctp[c] + h[c] + pi[c],Pyrimidine Metabolism,0.0,1000.0
+r_0625,,ctp[c] + h2o[c] --> cmp[c] + ppi[c],Pyrimidine Metabolism,0.0,1000.0
+r_0626,,atp[c] + dump[c] --> adp[c] + dudp[c],Pyrimidine Metabolism,0.0,1000.0
+r_0627,,trdrd[c] + udp[c] --> dudp[c] + h2o[c] + trdox[c],Pyrimidine Metabolism,0.0,1000.0
+r_0628,,3cmp[c] + h2o[c] --> cytd[c] + pi[c],Pyrimidine Metabolism,0.0,1000.0
+r_0629,,dump[c] + h2o[c] --> duri[c] + h[c] + pi[c],Pyrimidine Metabolism,0.0,1000.0
+r_0630,,3ump[c] + h2o[c] --> pi[c] + uri[c],Pyrimidine Metabolism,0.0,1000.0
+r_0631,,pi[c] + thymd[c] <=> 2dr1p[c] + thym[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0632,,56dthm[c] + nad[c] <=> h[c] + nadh[c] + thym[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0633,,dttp[c] + h2o[c] --> dtmp[c] + ppi[c],Pyrimidine Metabolism,0.0,1000.0
+r_0634,,asp__L[c] + h2o[c] + o2[c] --> h2o2[c] + h[c] + nh3[c] + oaa[c],"Alanine, Aspartate and Glutamate metabolism",0.0,1000.0
+r_0635,,acptr[c] + chol[c] <=> betald[c] + racptr[c],"Glycine, Serine, and Threonine Metabolism",-1000.0,1000.0
+r_0636,,betald[c] + h2o[c] + nad[c] <=> glyb[c] + 2.0 h[c] + nadh[c],"Glycine, Serine, and Threonine Metabolism",-1000.0,1000.0
+r_0637,,betald[c] + h2o[c] + nadp[c] <=> glyb[c] + 2.0 h[c] + nadph[c],"Glycine, Serine, and Threonine Metabolism",-1000.0,1000.0
+r_0638,,glyb[c] + hcys__L[c] --> dmgly[c] + met__L[c],"Glycine, Serine, and Threonine Metabolism",0.0,1000.0
+r_0639,,gly[c] + lprot[c] --> co2[c] + s8ams[c],"Glycine, Serine, and Threonine Metabolism",0.0,1000.0
+r_0640,,gly[c] + h[c] + succoa[c] --> 5aop[c] + co2[c] + coa[c],"Glycine, Serine, and Threonine Metabolism",0.0,1000.0
+r_0641,,aac24dab[c] + h2o[c] --> 24dab[c] + ac[c],"Glycine, Serine, and Threonine Metabolism",0.0,1000.0
+r_0642,,ecto__L[c] + h2o[c] --> aac24dab[c],"Glycine, Serine, and Threonine Metabolism",0.0,1000.0
+r_0643,,h2s[c] + pser__L[c] --> cys__L[c] + h[c] + pi[c],Cysteine and Methionine Metabolism,0.0,1000.0
+r_0644,,Lcyst[c] + akg[c] <=> 3spyr[c] + glu__L[c],Cysteine and Methionine Metabolism,-1000.0,1000.0
+r_0645,,akg[c] + cys__L[c] <=> glu[c] + mercppyr[c],Cysteine and Methionine Metabolism,-1000.0,1000.0
+r_0646,,cys__L[c] + h2o[c] <=> h2s[c] + h[c] + nh3[c] + pyr[c],Cysteine and Methionine Metabolism,-1000.0,1000.0
+r_0647,,mercppyr[c] + trdrd[c] <=> h2s[c] + pyr[c] + trdox[c],Cysteine and Methionine Metabolism,-1000.0,1000.0
+r_0648,,C02356[c] + akg[c] <=> 2obut[c] + glu__L[c],Cysteine and Methionine Metabolism,-1000.0,1000.0
+r_0649,,C02356[c] + atp[c] + glu__L[c] <=> CE1661[c] + adp[c] + pi[c],Cysteine and Methionine Metabolism,-1000.0,1000.0
+r_0650,,CE1661[c] + atp[c] + gly[c] <=> adp[c] + opmt[c] + pi[c],Cysteine and Methionine Metabolism,-1000.0,1000.0
+r_0651,,hom__L[c] + nad[c] <=> aspsa[c] + h[c] + nadh[c],Cysteine and Methionine Metabolism,-1000.0,1000.0
+r_0653,,acacp[c] + amet[c] <=> 5mta[c] + ACP[c] + nalhsrln[c],Cysteine and Methionine Metabolism,-1000.0,1000.0
+r_0654,,5mta[c] + h2o[c] <=> 5mtr[c] + ade[c],Cysteine and Methionine Metabolism,-1000.0,1000.0
+r_0655,,achms[c] + ch4s[c] <=> ac[c] + met__L[c],Cysteine and Methionine Metabolism,-1000.0,1000.0
+r_0656,,4met2obut[c] + glu__L[c] --> akg[c] + met__L[c],Cysteine and Methionine Metabolism,0.0,1000.0
+r_0657,,indpyr[c] + met__L[c] --> 4met2obut[c] + trp__L[c],Cysteine and Methionine Metabolism,0.0,1000.0
+r_0658,,accoa[c] + ppcoa[c] --> 2maacoa[c] + coa[c],"Valine, leucine and isoleucine degradation",0.0,1000.0
+r_0659,,mmcoa__R[c] <=> succoa[c],"Valine, leucine and isoleucine degradation",-1000.0,1000.0
+r_0660,,mmcoa__R[c] <=> mmcoa__S[c],"Valine, leucine and isoleucine degradation",-1000.0,1000.0
+r_0661,,gtp[c] + h2o[c] --> HC01651[c],Folate Biosynthesis,0.0,1000.0
+r_0662,,HC01651[c] + h2o[c] --> HC01652[c] + for[c],Folate Biosynthesis,0.0,1000.0
+r_0663,,HC01652[c] --> HC01710[c],Folate Biosynthesis,0.0,1000.0
+r_0665,,ahdt[c] + h2o[c] --> acald[c] + cph4[c] + pppi[c],Folate Biosynthesis,0.0,1000.0
+r_0666,,cph4[c] --> cdg[c] + nh3[c],Folate Biosynthesis,0.0,1000.0
+r_0667,,atp[c] + cdg[c] + nh3[c] --> adp[c] + h2o[c] + pi[c] + preq0[c],Folate Biosynthesis,0.0,1000.0
+r_0668,,2.0 h[c] + 2.0 nadph[c] + preq0[c] --> 2.0 nadp[c] + preq1[c],Folate Biosynthesis,0.0,1000.0
+r_0669,,amet[c] + gtp[c] + racptr[c] --> 38ch2gtp[c] + acptr[c] + dad_5[c] + met__L[c],Folate Biosynthesis,0.0,1000.0
+r_0670,,38ch2gtp[c] + h2o[c] --> cpmp[c] + ppi[c],Folate Biosynthesis,0.0,1000.0
+r_0671,,dhnpt[c] + pi[c] --> dhppt[c] + h2o[c],Folate Biosynthesis,0.0,1000.0
+r_0672,,4abz[c] + 6hmhpt[c] --> dhpt[c] + h2o[c],Folate Biosynthesis,0.0,1000.0
+r_0673,,dhf[c] + nadp[c] <=> fol[c] + h[c] + nadph[c],Folate Biosynthesis,-1000.0,1000.0
+r_0674,,2.0 nad[c] + thf[c] <=> fol[c] + 2.0 h[c] + 2.0 nadh[c],Folate Biosynthesis,-1000.0,1000.0
+r_0675,,chor[c] + gln__L[c] <=> 4adcho[c] + glu__L[c],Folate Biosynthesis,-1000.0,1000.0
+r_0676,,nadp[c] + pro__L[c] <=> 1pyr5c[c] + h[c] + nadph[c],Arginine and Proline Metabolism,-1000.0,1000.0
+r_0678,,nad[c] + tartr__M[c] <=> 23oxsucc[c] + h[c] + nadh[c],Glyoxylate and dicarboxylate metabolism,-1000.0,1000.0
+r_0679,,glyc__R[c] + nadp[c] <=> 2h3oppan[c] + h[c] + nadph[c],Glyoxylate and dicarboxylate metabolism,-1000.0,1000.0
+r_0680,,hpyr[c] <=> 2h3oppan[c],Glyoxylate and dicarboxylate metabolism,-1000.0,1000.0
+r_0681,,2.0 glx[c] <=> 2h3oppan[c] + co2[c],Glyoxylate and dicarboxylate metabolism,-1000.0,1000.0
+r_0682,,acptr[c] + glyclt[c] <=> glx[c] + racptr[c],Glyoxylate and dicarboxylate metabolism,-1000.0,1000.0
+r_0683,,etgl[c] + nad[c] <=> gcald[c] + h[c] + nadh[c],Glyoxylate and dicarboxylate metabolism,-1000.0,1000.0
+r_0684,,coa[c] + mal__L[c] <=> accoa[c] + glx[c] + h2o[c],Glyoxylate and dicarboxylate metabolism,-1000.0,1000.0
+r_0685,,for[c] + nad[c] <=> co2[c] + nadh[c],Glyoxylate and dicarboxylate metabolism,-1000.0,1000.0
+r_0687,,eoaa[c] <=> co2[c] + pyr[c],Pyruvate metabolism,-1000.0,1000.0
+r_0688,,lgt__S[c] <=> gthrd[c] + mthgxl[c],Pyruvate metabolism,-1000.0,1000.0
+r_0689,,h2o[c] + lgt__S[c] <=> gthrd[c] + lac__D[c],Pyruvate metabolism,-1000.0,1000.0
+r_0690,,HC01672[c] + coa[c] <=> accoa[c] + amp[c] + h[c],Pyruvate metabolism,-1000.0,1000.0
+r_0692,,aicar[c] + ppi[c] <=> 5a4icam[c] + prpp[c],Purine Metabolism,-1000.0,1000.0
+r_0693,,atp[c] + didp[c] <=> adp[c] + ditp[c],Purine Metabolism,-1000.0,1000.0
+r_0694,,air[c] + atp[c] + hco3[c] --> 5ca1rpi[c] + adp[c] + pi[c],Purine Metabolism,0.0,1000.0
+r_0695,,5aizc[c] + e[c] --> 5ca1rpi[c],Purine Metabolism,0.0,1000.0
+r_0696,,dgtp[c] + h2o[c] --> dgmp[c] + ppi[c],Purine Metabolism,0.0,1000.0
+r_0697,,gdp[c] + trdrd[c] --> dgdp[c] + h2o[c] + trdox[c],Purine Metabolism,0.0,1000.0
+r_0698,,gtp[c] + h2o[c] --> gmp[c] + ppi[c],Purine Metabolism,0.0,1000.0
+r_0699,,3gmp[c] + h2o[c] --> gsn[c] + pi[c],Purine Metabolism,0.0,1000.0
+r_0700,,atp[c] + dzdp[c] --> adp[c] + dztp[c],Purine Metabolism,0.0,1000.0
+r_0701,,atp[c] + dzmp[c] --> adp[c] + dzdp[c],Purine Metabolism,0.0,1000.0
+r_0702,,dsmp[c] --> dzmp[c] + fum[c],Purine Metabolism,0.0,1000.0
+r_0703,,atp[c] + nh3[c] + xmp[c] --> amp[c] + gmp[c] + ppi[c],Purine Metabolism,0.0,1000.0
+r_0704,,atp[c] + idp[c] <=> adp[c] + itp[c],Purine Metabolism,-1000.0,1000.0
+r_0705,,h2o[c] + nad[c] + xan[c] --> h[c] + nadh[c] + urate[c],Purine Metabolism,0.0,1000.0
+r_0706,,h2o[c] + hxan[c] + nad[c] --> h[c] + nadh[c] + xan[c],Purine Metabolism,0.0,1000.0
+r_0707,,atp[c] + h2o[c] --> amp[c] + ppi[c],Purine Metabolism,0.0,1000.0
+r_0708,,adp[c] + trdrd[c] --> dadp[c] + h2o[c] + trdox[c],Purine Metabolism,0.0,1000.0
+r_0709,,atp[c] + dadp[c] <=> adp[c] + datp[c],Purine Metabolism,-1000.0,1000.0
+r_0710,,atp[c] + damp[c] <=> adp[c] + dadp[c],Purine Metabolism,-1000.0,1000.0
+r_0711,,h2o[c] + urdgci[c] <=> nh3[c] + urdglyc[c],Purine Metabolism,-1000.0,1000.0
+r_0712,,alla[c] + h2o[c] <=> urdglyc[c] + urea[c],Purine Metabolism,-1000.0,1000.0
+r_0713,,urdglyc[c] <=> glx[c] + urea[c],Purine Metabolism,-1000.0,1000.0
+r_0714,,3amp[c] + h2o[c] --> adn[c] + pi[c],Purine Metabolism,0.0,1000.0
+r_0715,,4.0 fe2[c] + 4.0 h[c] + o2[c] --> 4.0 fe3[c] + 2.0 h2o[c],Porphyrin Metabolism,0.0,1000.0
+r_0716,,uppg1[c] --> 4.0 co2[c] + cpppg1[c],Porphyrin Metabolism,0.0,1000.0
+r_0717,,2.0 amet[c] + cpppg3[c] --> 2.0 co2[c] + 2.0 dad_5[c] + 2.0 met__L[c] + pppg9[c],Porphyrin and Chlorophyll Metabolism,0.0,1000.0
+r_0718,,h[c] + nadh[c] + o2[c] + pre3a[c] --> h2o[c] + nad[c] + pre3b[c],Porphyrin and Chlorophyll Metabolism,0.0,1000.0
+r_0719,,amet[c] + pre3b[c] --> ahcys[c] + pre4[c],Porphyrin and Chlorophyll Metabolism,0.0,1000.0
+r_0720,,amet[c] + pre4[c] --> ahcys[c] + pre5[c],Porphyrin and Chlorophyll Metabolism,0.0,1000.0
+r_0721,,amet[c] + h2o[c] + pre5[c] --> ac[c] + ahcys[c] + pre6a[c],Porphyrin and Chlorophyll Metabolism,0.0,1000.0
+r_0722,,h2o[c] + o2[c] + pydam[c] --> h2o2[c] + h[c] + nh3[c] + pydx[c],Vitamin B6 Metabolism,0.0,1000.0
+r_0723,,f6p[c] + g3p[c] <=> e4p[c] + xu5p__D[c],Pentose Phosphate Pathway,-1000.0,1000.0
+r_0725,,2dr5p[c] + adp[c] <=> 5drib[c] + atp[c],Pentose Phosphate Pathway,-1000.0,1000.0
+r_0726,,2dr1p[c] --> 2dr5p[c],Purine Metabolism,0.0,1000.0
+r_0727,,3sulac[c] + nad[c] <=> 3spyr[c] + h[c] + nadh[c],Cysteine and Methionine Metabolism,-1000.0,1000.0
+r_0728,,atp[c] + h[c] + pi[c] + pyr[c] <=> amp[c] + pep[c] + ppi[c],Glycolysis / Gluconeogenesis,-1000.0,1000.0
+r_0729,,nad[c] + phthr[c] --> 2a3o4pob[c] + 2.0 h[c] + nadh[c],Vitamin B6 Metabolism,0.0,1000.0
+r_0731,,atp[c] + h2o[c] + lps[c] --> adp[c] + lps[e] + pi[c],[],0.0,1000.0
+r_0732,,nrp[c] + utp[c] <=> ppi[c] + unrp[c],[],-1000.0,1000.0
+r_0733,,lthrcala[c] + trnaadn[c] <=> amp[c] + n6lthrtrna[c],[],-1000.0,1000.0
+r_0734,,2.0 amet[c] + sdo[c] + trna6iso[c] <=> 2mn6ditrna[c] + ahcys[c] + dad_5[c] + met__L[c],[],-1000.0,1000.0
+r_0735,,amet[c] + sdo[c] + trna6iso[c] <=> 2tn6ditrna[c] + dad_5[c] + met__L[c],[],-1000.0,1000.0
+r_0736,,2tn6ditrna[c] + amet[c] <=> 2mn6ditrna[c] + ahcys[c],[],-1000.0,1000.0
+r_0737,,forlmepep[c] + h2o[c] <=> for[c] + mepep[c],[],-1000.0,1000.0
+r_0738,,trnauri[c] <=> trnapse[c],[],-1000.0,1000.0
+r_0739,,h2o[c] + pep_met__L[c] + trdox[c] <=> pep_met_LRS[c] + trdrd[c],[],-1000.0,1000.0
+r_0740,,amet[c] + procslcys[c] <=> ahcys[c] + procslmees[c],Terpenoid Backbone Biosynthesis,-1000.0,1000.0
+r_0741,,amet[c] + ch4s[c] <=> ahcys[c] + dms[c],[],-1000.0,1000.0
+r_0742,,atp[c] --> adp[c],[],0.0,1000.0
+r_0743,,udpg[c] <=> udpgal[c],Amino sugar and nucleotide sugar metabolism,-1000.0,1000.0
+r_0744,,h2o[c] + pppro[c] <=> pi[c] + protein[c],[],-1000.0,1000.0
+r_0745,,pep[c] + uacgam[c] <=> pi[c] + uaccg[c],Amino sugar and nucleotide sugar metabolism,-1000.0,1000.0
+r_0746,,udpgal[c] <=> uadgafu[c],Galactose metabolism,-1000.0,1000.0
+r_0747,,h2o[c] + pglumi[c] <=> nh3[c] + pgluma[c],[],-1000.0,1000.0
+r_0748,,acoa[c] + h2o[c] <=> carbo[c] + coa[c],[],-1000.0,1000.0
+r_0749,,h2o[c] + trnaadn[c] <=> nh3[c] + trnahythi[c],[],-1000.0,1000.0
+r_0750,,amet[c] + rrna[c] <=> ahcys[c] + rrnan2me[c],[],-1000.0,1000.0
+r_0751,,ckdo[c] + tetdglu16d14bis[c] <=> 3ddol[c] + cmp[c],Lipopolysaccharide biosynthesis,-1000.0,1000.0
+r_0752,,atp[c] + lipidAds[c] --> adp[c] + tetdglu16d14bis[c],Lipopolysaccharide biosynthesis,0.0,1000.0
+r_0753,,2dh3dgal6p[c] <=> g3p[c] + pyr[c],Galactose metabolism,-1000.0,1000.0
+r_0754,,2.0 gtp[c] <=> 35cdigmp[c] + 2.0 ppi[c],[],-1000.0,1000.0
+r_0755,,35cdigmp[c] + h2o[c] <=> 5pg35pg[c],[],-1000.0,1000.0
+r_0756,,4hbz[c] + 5pg35pg[c] <=> 4h3pb[c] + ppi[c],Ubiquinone and other terpenoid-quinone biosynthesis,-1000.0,1000.0
+r_0757,,atp[c] + h[c] + hco3[c] + thr__L[c] --> h2o[c] + lthrcala[c] + ppi[c],Nucleic Acid Processing,0.0,1000.0
+r_0758,,chols[c] + h2o[c] <=> chol[c] + so4[c],Amine and Polyamine Degradation,-1000.0,1000.0
+r_0759,,acon_T[c] + amet[c] <=> ahcys[c] + e3me2en[c],[],-1000.0,1000.0
+r_0760,,2.0 h[c] + 2.0 sox[c] <=> h2o2[c] + o2[c],superoxide radicals degradation,-1000.0,1000.0
+r_0761,,blac[c] + h2o[c] <=> subbaa[c],[],-1000.0,1000.0
+r_0762,,adelgluladp[c] + pi[c] --> adp[c] + lgluadp[c],[],0.0,1000.0
+r_0763,,etfrd[c] + q[c] --> etfox[c] + qh2[c],[],0.0,1000.0
+r_0764,,aderna[c] + 2.0 amet[c] <=> 2.0 ahcys[c] + n6dirrna[c],[],-1000.0,1000.0
+r_0765,,h2o[c] + rscys[c] <=> gly[c] + sslcys[c],Glutathione Metabolism,-1000.0,1000.0
+r_0766,,detripp[c] <=> ppi[c],[],-1000.0,1000.0
+r_0767,,cdpdag_cho[c] + sng3p[c] <=> cmp[c] + pgp_cho[c],Glycerophospholipid metabolism,-1000.0,1000.0
+r_0768,,argtrna[c] + protein[c] <=> largp[c] + trnaarg[c],[],-1000.0,1000.0
+r_0769,,acacp[c] + pi[c] <=> ACP[c] + actp[c],[],-1000.0,1000.0
+r_0770,,dtpcudcpp[c] + udpg[c] <=> adgddu[c] + ump[c],[],-1000.0,1000.0
+r_0771,,accb[c] + atp[c] + btn[c] --> amp[c] + bccp[c] + ppi[c],[],0.0,1000.0
+r_0772,,largp[c] + leutrna[c] <=> lleuargp[c] + trnaleu[c],[],-1000.0,1000.0
+r_0773,,leutrna[c] + llysp[c] <=> lleullysp[c] + trnaleu[c],[],-1000.0,1000.0
+r_0774,,atp[c] + btnCCP[c] + hco3[c] --> adp[c] + carP[c] + pi[c],[],0.0,1000.0
+r_0775,,Sfglutth[c] + h2o[c] <=> for[c] + gthrd[c],Carbon metabolism,-1000.0,1000.0
+r_0776,,kdo8p[c] + pi[c] <=> ara5p[c] + h2o[c] + pep[c],Lipopolysaccharide biosynthesis,-1000.0,1000.0
+r_0777,,2.0 amet[c] + fscspc4f4s[c] + 8.0 h[c] + pn6ocllys[c] + 2.0 r2f2sf[c] <=> 2.0 dad_5[c] + 2.0 fdxo_22[c] + 4.0 fe2[c] + fscsp[c] + 2.0 h2s[c] + 2.0 met__L[c] + pn6rdillys[c],Lipoic acid metabolism,-1000.0,1000.0
+r_0778,,acnm[c] <=> acmana[c] + pyr[c],[],-1000.0,1000.0
+r_0779,,5dh4dglc[c] <=> 25dop[c] + co2[c] + h2o[c],Ascorbate and aldarate metabolism,-1000.0,1000.0
+r_0780,,3haACP[c] + u3dcga[c] <=> ACP[c] + u2n3ob3hdg[c],[],-1000.0,1000.0
+r_0781,,3haACP[c] + uacgam[c] <=> ACP[c] + u3o3r3hnadg[c],[],-1000.0,1000.0
+r_0782,,lx[c] + u23ga[c] <=> lipidAds[c] + udp[c],Lipopolysaccharide biosynthesis,-1000.0,1000.0
+r_0783,,chitob[c] + h2o[c] <=> 2.0 acgam[c],Amino sugar and nucleotide sugar metabolism,-1000.0,1000.0
+r_0784,,3rinct[c] + h2o[c] <=> pi[c] + ribbc[c],[],-1000.0,1000.0
+r_0785,,amet[c] + pliso[c] <=> ahcys[c] + plisome[c],[],-1000.0,1000.0
+r_0786,,ptpl180[c] <=> ptpl0[c],[],-1000.0,1000.0
+r_0787,,acgam1p[c] + utp[c] <=> ppi[c] + uacgam[c],Amino sugar and nucleotide sugar metabolism,-1000.0,1000.0
+r_0788,,rooh[c] + trdrd[c] <=> h2o[c] + roh[c] + trdox[c],[],-1000.0,1000.0
+r_0789,,anhm[c] + atp[c] + h2o[c] --> acmum6p[c] + adp[c],Amino sugar and nucleotide sugar metabolism,0.0,1000.0
+r_0790,,amet[c] + trna7am7c[c] <=> ade[c] + epqtrna[c] + met__L[c],[],-1000.0,1000.0
+r_0791,,preq1[c] + trnagua[c] <=> gua[c] + trna7am7c[c],[],-1000.0,1000.0
+r_0792,,h2o[c] + u23ga[c] <=> lx[c] + ump[c],Lipopolysaccharide biosynthesis,-1000.0,1000.0
+r_0793,,12dgr_TB[c] + atp[c] --> adp[c] + pa_cho[c],Glycerolipid metabolism,0.0,1000.0
+r_0794,,thrp[c] <=> applp[c] + co2[c],Porphyrin Metabolism,-1000.0,1000.0
+r_0795,,atp[c] + cobalt2[c] + h2o[c] + hgbam[c] --> adp[c] + cob2nda[c] + h[c] + pi[c],Porphyrin and Chlorophyll Metabolism,0.0,1000.0
+r_0796,,23dappa[c] + h2o[c] <=> 2.0 nh3[c] + pyr[c],[],-1000.0,1000.0
+r_0797,,fald[c] + gthrd[c] <=> HC02121[c],Carbon metabolism,-1000.0,1000.0
+r_0798,,h[c] + nadph[c] + qun[c] --> hqn[c] + nadp[c],Aminobenzoate degradation,0.0,1000.0
+r_0799,,alia[c] <=> h2o[c] + nt[c],[],-1000.0,1000.0
+r_0800,,dmpp[c] + trnaadn[c] <=> ppi[c] + trna6iso[c],Zeatin biosynthesis,-1000.0,1000.0
+r_0801,,5pdna[c] + nad[c] --> amp[c] + nmn[c],[],0.0,1000.0
+r_0802,,h2o[c] + u3o3r3hnadg[c] <=> ac[c] + u3dcga[c],[],-1000.0,1000.0
+r_0803,,2.0 ala__D[c] + atp[c] --> adp[c] + alaala[c] + pi[c],Peptidoglycan biosynthesis,0.0,1000.0
+r_0804,,nadp[c] + uamr[c] <=> h[c] + nadph[c] + uaccg[c],Amino sugar and nucleotide sugar metabolism,-1000.0,1000.0
+r_0805,,ala__L[c] + atp[c] + uamr[c] --> adp[c] + pi[c] + uama[c],Peptidoglycan biosynthesis,0.0,1000.0
+r_0806,,uaGgla[c] + uacgam[c] <=> uaaGgla[c] + udp[c],Peptidoglycan biosynthesis,-1000.0,1000.0
+r_0807,,atp[c] + glu__D[c] + uama[c] --> adp[c] + pi[c] + uamag[c],Peptidoglycan biosynthesis,0.0,1000.0
+r_0808,,dtpcudcpp[c] + uGgla[c] <=> uaGgla[c] + ump[c],Peptidoglycan biosynthesis,-1000.0,1000.0
+r_0809,,acmama[c] + h2o[c] <=> acmum[c] + ala__L[c],[],-1000.0,1000.0
+r_0810,,cati[c] + nad[c] --> dhcrn[c] + h[c] + nadh[c],[],0.0,1000.0
+r_0811,,atp[c] + glyc[c] --> adp[c] + sng3p[c],Glycerolipid metabolism,0.0,1000.0
+r_0812,,5hiu[c] + h2o[c] <=> 5houdic[c],Purine Metabolism,-1000.0,1000.0
+r_0813,,5houdic[c] <=> alltn[c] + co2[c],Purine Metabolism,-1000.0,1000.0
+r_0814,,ctp[c] + g1p[c] <=> cdpglc[c] + ppi[c],Amino sugar and nucleotide sugar metabolism,-1000.0,1000.0
+r_0815,,cdpglc[c] <=> cdp4dh6doglc[c] + h2o[c],Amino sugar and nucleotide sugar metabolism,-1000.0,1000.0
+r_0816,,46dd4odtdpglc[c] <=> dtdprham[c],Streptomycin biosynthesis,-1000.0,1000.0
+r_0817,,idt[c] + nad[c] --> h[c] + nadh[c] + srb__L[c],[],0.0,1000.0
+r_0818,,8aonn[c] + amet[c] <=> amob[c] + dann[c],Biotin metabolism,-1000.0,1000.0
+r_0819,,atp[c] + co2[c] + dann[c] --> adp[c] + dtbt[c] + pi[c],Biotin metabolism,0.0,1000.0
+r_0820,,ala__L[c] + pmcoa[c] <=> 8aonn[c] + co2[c] + coa[c],Biotin metabolism,-1000.0,1000.0
+r_0821,,2.0 amet[c] + dtbt[c] + 2.0 e[c] + 2.0 h[c] + sdo[c] <=> btn[c] + 2.0 dad_5[c] + 2.0 met__L[c],[],-1000.0,1000.0
+r_0822,,212e12diac[c] <=> 2oxpaccoa[c],Phenylalanine metabolism,-1000.0,1000.0
+r_0823,,atp[c] + coa[c] + pac[c] --> amp[c] + phaccoa[c] + ppi[c],Phenylalanine metabolism,0.0,1000.0
+r_0824,,h[c] + nadph[c] + o2[c] + phaccoa[c] --> 212e12diac[c] + h2o[c] + nadp[c],Phenylalanine metabolism,0.0,1000.0
+r_0825,,fald[c] + h2o[c] + nad[c] --> for[c] + h[c] + nadh[c],Carbon metabolism,0.0,1000.0
+r_0826,,h2o[c] + tre6p[c] <=> pi[c] + tre[c],Starch and sucrose metabolism,-1000.0,1000.0
+r_0827,,g6p[c] + udpg[c] <=> tre6p[c] + udp[c],[],-1000.0,1000.0
+r_0828,,amet[c] + pglumi[c] <=> ahcys[c] + pn5mlglu[c],[],-1000.0,1000.0
+r_0829,,pep[c] + phis__L[c] <=> pplhis[c] + pyr[c],[],-1000.0,1000.0
+r_0830,,2po6hy[c] + amet[c] <=> 2po6me[c] + ahcys[c],Ubiquinone and other terpenoid-quinone biosynthesis,-1000.0,1000.0
+r_0831,,3detlbq[c] + amet[c] <=> ahcys[c] + qh2[c],[],-1000.0,1000.0
+r_0832,,gam1p[c] <=> gam6p[c],Amino sugar and nucleotide sugar metabolism,-1000.0,1000.0
+r_0833,,5pdna[c] + atp[c] --> amp[c] + ppi[c],[],0.0,1000.0
+r_0834,,amylose[c] <=> starch[c],Starch and sucrose metabolism,-1000.0,1000.0
+r_0835,,orn__D[c] <=> co2[c] + ptrc[c],[],-1000.0,1000.0
+r_0836,,lys__D[c] <=> 15dap[c] + co2[c],[],-1000.0,1000.0
+r_0837,,xyl__D[c] <=> xylulo_D[c],[],-1000.0,1000.0
+r_0838,,atp[c] + xylu__D[c] --> adp[c] + xu5p__D[c],Pentose and glucuronate interconversions,0.0,1000.0
+r_0839,,copre6[c] + h[c] + nadh[c] --> codhpre6[c] + nad[c],Porphyrin Metabolism,0.0,1000.0
+r_0840,,amet[c] + dscl[c] <=> ahcys[c] + h[c] + pre3a[c],Porphyrin and Chlorophyll Metabolism,-1000.0,1000.0
+r_0841,,pre8[c] <=> hgbyr[c],Porphyrin and Chlorophyll Metabolism,-1000.0,1000.0
+r_0842,,4mlacac[c] <=> 4fumacac[c],Tyrosine metabolism,-1000.0,1000.0
+r_0843,,hgentis[c] + o2[c] <=> 4mlacac[c],Tyrosine metabolism,-1000.0,1000.0
+r_0844,,34hpp[c] + o2[c] <=> co2[c] + hgentis[c],Tyrosine metabolism,-1000.0,1000.0
+r_0845,,man6p[c] <=> f6p[c],[],-1000.0,1000.0
+r_0846,,qun[c] + sng3p[c] --> dhap[c] + hqn[c],[],0.0,1000.0
+r_0847,,h2o[c] + met__L[c] + trdox[c] <=> metox[c] + trdrd[c],[],-1000.0,1000.0
+r_0848,,h2o[c] + pep_met__L[c] + trdox[c] <=> pepmetox[c] + trdrd[c],[],-1000.0,1000.0
+r_0849,,nadp[c] + sng3p[c] --> dhap[c] + h[c] + nadph[c],Glycerophospholipid metabolism,0.0,1000.0
+r_0850,,nad[c] + sng3p[c] --> dhap[c] + h[c] + nadh[c],Glycerophospholipid metabolism,0.0,1000.0
+r_0851,,amet[c] + trnagua[c] <=> ahcys[c] + trnan1megu[c],[],-1000.0,1000.0
+r_0852,,atp[c] + h2o[c] + hemeO[c] --> adp[c] + hemeO[e] + pi[c],[],0.0,1000.0
+r_0853,,h2o[c] + ptyp[c] <=> pi[c] + pty[c],[],-1000.0,1000.0
+r_0854,,hthbp[c] <=> dhbpt[c] + h2o[c],[],-1000.0,1000.0
+r_0855,,catechol[c] + o2[c] <=> ccmuac[c],Benzoate degradation,-1000.0,1000.0
+r_0856,,bz[c] + h[c] + nadh[c] + o2[c] --> bz12diol[c] + nad[c],[],0.0,1000.0
+r_0857,,5odhf2a[c] + h2o[c] <=> 3oxoadp[c],Benzoate degradation,-1000.0,1000.0
+r_0858,,dhap[c] <=> mthgxl[c] + pi[c],Propanoate metabolism,-1000.0,1000.0
+r_0859,,4hthdp[c] + h[c] + nadh[c] <=> nad[c] + thdp[c],Lysine Biosynthesis,-1000.0,1000.0
+r_0860,,acgam6p[c] + lac__D[c] <=> acmum6p[c] + h2o[c],Amino sugar and nucleotide sugar metabolism,-1000.0,1000.0
+r_0861,,acgam6p[c] + h2o[c] <=> ac[c] + gam6p[c],Amino sugar and nucleotide sugar metabolism,-1000.0,1000.0
+r_0862,,h2o[c] + moaciami[c] <=> carbo[c] + nh3[c],[],-1000.0,1000.0
+r_0863,,dha[c] + pep[c] <=> dhap[c] + pyr[c],[],-1000.0,1000.0
+r_0864,,ctp[c] + kdo[c] <=> ckdo[c] + ppi[c],Lipopolysaccharide biosynthesis,-1000.0,1000.0
+r_0865,,acptr[c] + h2o[c] + trnaque[c] <=> epqtrna[c] + racptr[c],[],-1000.0,1000.0
+r_0866,,h2o[c] <=> h[c] + pi[c],Peptidoglycan biosynthesis,-1000.0,1000.0
+r_0867,,amet[c] + dmmq[c] <=> ahcys[c] + mql[c],[],-1000.0,1000.0
+r_0868,,2m6atp14b[c] + amet[c] <=> 6m3m2atp14b[c] + ahcys[c],[],-1000.0,1000.0
+r_0869,,gtp[c] + man1p[c] <=> gdpmann[c] + ppi[c],Amino sugar and nucleotide sugar metabolism,-1000.0,1000.0
+r_0870,,gdpmann[c] <=> gdpddman[c] + h2o[c],Amino sugar and nucleotide sugar metabolism,-1000.0,1000.0
+r_0871,,atp[c] + h2o[c] + k[c] --> adp[c] + k[e] + pi[c],[],0.0,1000.0
+r_0872,,2.0 frdp[c] <=> HC01118[c] + ppi[c],Sesquiterpenoid and triterpenoid biosynthesis,-1000.0,1000.0
+r_0873,,fad[c] + h2o[c] + sql[c] <=> fadh2[c] + hdsl[c],[],-1000.0,1000.0
+r_0874,,sql[c] <=> dptne[c],Sesquiterpenoid and triterpenoid biosynthesis,-1000.0,1000.0
+r_0875,,arsni[c] + trdrd[c] <=> aso3[c] + h2o[c] + trdox[c],[],-1000.0,1000.0
+r_0876,,arsni[c] + glutrd[c] <=> aso3[c] + flutox[c],[],-1000.0,1000.0
+r_0877,,accoa[c] + succoa[c] <=> coa[c] + oxadpcoa[c],Benzoate degradation,-1000.0,1000.0
+r_0878,,4cml[c] <=> 5odhf2a[c] + co2[c],Benzoate degradation,-1000.0,1000.0
+r_0879,,34dhbz[c] + o2[c] <=> CCbuttc[c],Benzoate degradation,-1000.0,1000.0
+r_0880,,4cml[c] <=> CCbuttc[c],Benzoate degradation,-1000.0,1000.0
+r_0881,,3hmp[c] + nad[c] --> 2mop[c] + h[c] + nadh[c],[],0.0,1000.0
+r_0882,,4h2kpi[c] <=> pyr[c] + sucsal[c],[],-1000.0,1000.0
+r_0883,,34dhpacet[c] + o2[c] <=> 5cmhmsa[c],Tyrosine metabolism,-1000.0,1000.0
+r_0884,,mana[c] <=> 2ddglcn[c] + h2o[c],Pentose and glucuronate interconversions,-1000.0,1000.0
+r_0885,,atp[c] + pty[c] --> adp[c] + e[c] + ptyp[c],[],0.0,1000.0
+r_0886,,g1p[c] + utp[c] <=> ppi[c] + udpg[c],Pentose and glucuronate interconversions,-1000.0,1000.0
+r_0887,,5dh4dglcn[c] <=> 46dh25dohxn[c],Pentose and glucuronate interconversions,-1000.0,1000.0
+r_0888,,2ddglcn[c] + nad[c] --> 46dh25dohxn[c] + h[c] + nadh[c],Pentose and glucuronate interconversions,0.0,1000.0
+r_0889,,uacgam[c] <=> h2o[c] + udp2aca26ddarah4[c],Amino sugar and nucleotide sugar metabolism,-1000.0,1000.0
+r_0890,,24b246tbap[c] + h2o[c] + pep[c] <=> pi[c] + psea[c],Amino sugar and nucleotide sugar metabolism,-1000.0,1000.0
+r_0891,,accoa[c] + u4a46dnabla[c] <=> coa[c] + u24b246tbla[c],Amino sugar and nucleotide sugar metabolism,-1000.0,1000.0
+r_0892,,ctp[c] + psea[c] <=> cmppsea[c] + ppi[c],Amino sugar and nucleotide sugar metabolism,-1000.0,1000.0
+r_0893,,akg[c] + u4a46dnabla[c] <=> glu__L[c] + udp2aca26ddarah4[c],Amino sugar and nucleotide sugar metabolism,-1000.0,1000.0
+r_0894,,h2o[c] + rpntp[c] <=> ppi[c] + prpmn[c],Phosphonate and phosphinate metabolism,-1000.0,1000.0
+r_0895,,h2o2[c] + racptr[c] <=> acptr[c] + 2.0 h2o[c],[],-1000.0,1000.0
+r_0896,,1pqq[c] + 3.0 o2[c] <=> 2.0 h2o2[c] + 2.0 h2o[c] + pqq[c],[],-1000.0,1000.0
+r_0897,,atp[c] + ru5p__D[c] --> adp[c] + rb15bp[c],Carbon metabolism,0.0,1000.0
+r_0898,,atp[c] + h2o[c] + mg2[c] --> adp[c] + h[c] + mg2[e] + pi[c],[],0.0,1000.0
+r_0901,,fmn[c] + h[c] + nadh[c] <=> fmnh2[c] + nad[c],Riboflavin Metabolism,-1000.0,1000.0
+r_0902,,pl[c] <=> ,Transport,-1000.0,1000.0
+r_0903,,thbpt[c] <=> ,Transport,-1000.0,1000.0
+r_0904,,nad[c] + pphn[c] <=> 34hpp[c] + co2[c] + h[c] + nadh[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,-1000.0,1000.0
+r_0905,,Largn[c] + oaa[c] <=> asp__L[c] + pphn[c],Phenylalanine Tyrosine Tryptophan Biosynthesis,-1000.0,1000.0
+r_0906,,nadp[c] + pre6b[c] <=> h[c] + nadph[c] + pre6a[c],Porphyrin and Chlorophyll Metabolism,-1000.0,1000.0
+r_0907,,2.0 amet[c] + pre6b[c] <=> 2.0 ahcys[c] + co2[c] + pre8[c],Porphyrin and Chlorophyll Metabolism,-1000.0,1000.0
+r_0908,,2.0 atp[c] + 2.0 gln__L[c] + 2.0 h2o[c] + hgbyr[c] <=> 2.0 adp[c] + 2.0 glu__L[c] + hgbam[c] + 2.0 pi[c],Porphyrin and Chlorophyll Metabolism,-1000.0,1000.0
+r_0909,,cobalt2[c] <=> ,Transport,-1000.0,1000.0
+r_0910,,cob2nda[c] --> ,Transport,0.0,1000.0
+r_0911,,4adcho[c] <=> 4abz[c] + pyr[c],Folate Biosynthesis,-1000.0,1000.0
+r_0912,,cpmp[c] --> ,Transport,0.0,1000.0
+r_0913,,preq1[c] --> ,Transport,0.0,1000.0
+r_0914,,h2o[c] + u24b246tbla[c] <=> 24b246tbap[c] + udp[c],Amino sugar and nucleotide sugar metabolism,-1000.0,1000.0
+r_0915,,cmppsea[c] --> ,Transport,0.0,1000.0
+r_0916,,uamr[c] --> ,Transport,0.0,1000.0
+r_0917,,accoa[c] + gam1p[c] <=> acgam1p[c] + coa[c],Amino sugar and nucleotide sugar metabolism,-1000.0,1000.0
+r_0918,,acgam[c] + atp[c] <=> acgam6p[c] + adp[c],Amino sugar and nucleotide sugar metabolism,-1000.0,1000.0
+r_0919,,chitob[c] --> ,Transport,0.0,1000.0
+r_0921,,cys__L[c] + so3[c] <=> Lcyst[c] + h2s[c],Cysteine and Methionine Metabolism,-1000.0,1000.0
+r_0922,,3sulac[c] <=> hso3[c] + pyr[c],Cysteine and Methionine Metabolism,-1000.0,1000.0
+r_0923,,Lcyst[c] + h2o[c] <=> h[c] + hso3[c] + nh3[c] + pyr[c],Cysteine and Methionine Metabolism,-1000.0,1000.0
+r_0924,,glu[c] --> ,Transport,0.0,1000.0
+r_0925,,dms[c] --> ,Transport,0.0,1000.0
+r_0926,,nalhsrln[c] --> ,Transport,0.0,1000.0
+r_0927,,5mtr[c] --> ,Transport,0.0,1000.0
+r_0928,,5a4icam[c] --> ,Transport,0.0,1000.0
+r_0929,,dgtp[c] <=> dna[c],Purine Metabolism,-1000.0,1000.0
+r_0930,,dztp[c] <=> dna[c],Purine Metabolism,-1000.0,1000.0
+r_0931,,asp__L[c] + atp[c] + dgmp[c] <=> adp[c] + dsmp[c] + pi[c],Purine Metabolism,-1000.0,1000.0
+r_0932,,h2o[c] + o2[c] + urate[c] <=> 5hiu[c] + h2o2[c],Purine Metabolism,-1000.0,1000.0
+r_0934,,alla[c] + h2o[c] <=> co2[c] + nh3[c] + urdgci[c],Purine Metabolism,-1000.0,1000.0
+r_0935,,dmgly[c] --> ,Transport,0.0,1000.0
+r_0936,,dhlpyprot[c] + nad[c] <=> h[c] + lprot[c] + nadh[c],"Glycine, Serine, and Threonine Metabolism",-1000.0,1000.0
+r_0937,,athr__L[c] + nadp[c] --> 2aobut[c] + h[c] + nadph[c],"Glycine, Serine, and Threonine Metabolism",0.0,1000.0
+r_0938,,24dab[c] --> ,Transport,0.0,1000.0
+r_0939,,aspsa[c] + glu__L[c] <=> 24dab[c] + akg[c],"Glycine, Serine, and Threonine Metabolism",-1000.0,1000.0
+r_0940,,ecto__L[c] <=> ,Transport,-1000.0,1000.0
+r_0941,,ptcys[c] --> ,Transport,0.0,1000.0
+r_0942,,pap[c] --> ,Transport,0.0,1000.0
+r_0943,,atp[c] + pnto__R[c] <=> 4ppan[c] + adp[c],Pantothenate and CoA Biosynthesis,-1000.0,1000.0
+r_0944,,h[c] + pi[c] + uri[c] <=> r1p[c] + ura[c],Pyrimidine Metabolism,-1000.0,1000.0
+r_0945,,5mcsn[c] <=> ,Transport,-1000.0,1000.0
+r_0946,,3aib__D[c] --> ,Transport,0.0,1000.0
+r_0947,,scp[c] --> ,Transport,0.0,1000.0
+r_0948,,2c4mthzep[c] <=> cthzp[c],Thiamine Metabolism,-1000.0,1000.0
+r_0949,,4hba[c] --> ,Transport,0.0,1000.0
+r_0950,,thmtp[c] --> ,Transport,0.0,1000.0
+r_0951,,15gl[c] + h2o[c] <=> glcn[c] + h[c],Pentose phosphate pathway,-1000.0,1000.0
+r_0952,,fe3[c] --> ,Transport,0.0,1000.0
+r_0953,,hmbil[c] <=> uppg1[c],spontaneous,-1000.0,1000.0
+r_0954,,cpppg1[c] --> ,Transport,0.0,1000.0
+r_0955,,sheme[c] --> ,Transport,0.0,1000.0
+r_0956,,cbi[c] <=> ,Transport,-1000.0,1000.0
+r_0957,,prf2[c] --> ,Transport,0.0,1000.0
+r_0958,,hthbp[c] --> ,Transport,0.0,1000.0
+r_0959,,0.2614 ade[c] + 0.706188 ala__L[c] + 0.431004 arg__L[c] + 0.155232 asn__L[c] + 0.312228 asp__L[c] + 0.3586 csn[c] + 0.054684 cys__L[c] + 0.17052 gln__L[c] + 0.343392 glu__L[c] + 0.497448 gly[c] + 0.05 glycogen[c] + 0.3586 gua[c] + 0.124068 his__L[c] + 0.322224 ile__L[c] + 0.599172 leu__L[c] + 0.18816 lys__L[c] + 0.143472 met__L[c] + 0.39 pe_hs[c] + 4.86 phb[c] + 0.231672 phe__L[c] + 0.295764 pro__L[c] + 0.01 ptrc[c] + 0.3586 rna[c] + 0.34104 ser__L[c] + 0.30282 thr__L[c] + 0.0722 thym[c] + 0.081144 trp__L[c] + 0.134652 tyr__L[c] + 0.1892 ura[c] + 0.445704 val__L[c] --> biomass[c],Biomass,0.0,1000.0
+r_0960,,biomass[c] --> ,Transport,0.0,1000.0
+r_0961,,pgp_cho[c] <=> ,Transport,-1.0,1000.0
+r_0962,,tre6p[c] <=> tre6p[e],Transport,-1000.0,1000.0
+r_0963,,tre6p[e] --> ,Exchange,0.0,1000.0
+r_0964,,acgam[c] <=> acgam[e],Transport,-1000.0,1000.0
+r_0965,,acgam[e] --> ,Exchange,0.0,1000.0
+r_0966,,asp__L[c] <=> asp__L[e],Transport,-1000.0,1000.0
+r_0968,,akg[c] <=> akg[e],Transport,-1000.0,1000.0
+r_0969,,akg[e] --> ,Exchange,0.0,1000.0
+r_0970,,ac[c] <=> ac[e],Transport,-1000.0,1000.0
+r_0971,,ac[e] --> ,Exchange,0.0,1000.0
+r_0972,,for[c] <=> for[e],Transport,-1000.0,1000.0
+r_0973,,for[e] --> ,Exchange,0.0,1000.0
+r_0974,,malt__D[c] + 2.0 pi[c] --> 2.0 g1p[c] + h2o[c],,0.0,1000.0
+r_0975,,malt__D[c] <=> malt__D[e],Transport,-1000.0,1000.0
+r_0976,,malt__D[e] --> ,Exchange,0.0,1000.0
+r_0977,,cellb[c] + h2o[c] --> 2.0 glc__aD[c],,0.0,1000.0
+r_0978,,atp[c] + glc__aD[c] --> adp[c] + g6p[c] + h[c],,0.0,1000.0
+r_0979,,glc__aD[c] <=> glc__aD[e],Transport,-1000.0,1000.0
+r_0980,,glc__aD[e] --> ,Exchange,0.0,1000.0
+r_0981,,cellb[c] <=> cellb[e],Transport,-1000.0,1000.0
+r_0982,,cellb[e] --> ,Exchange,0.0,1000.0
+r_0983,,atp[c] + fru[c] --> adp[c] + f6p[c] + h[c],,0.0,1000.0
+r_0984,,fru[c] <=> fru[e],Transport,-1000.0,1000.0
+r_0985,,fru[e] --> ,Exchange,0.0,1000.0
+r_0986,,pi[c] + sucr[c] --> fru[c] + g1p[c],,0.0,1000.0
+r_0987,,sucr[c] <=> sucr[e],Transport,-1000.0,1000.0
+r_0988,,sucr[e] --> ,Exchange,0.0,1000.0
+r_0989,,atp[c] + gal[c] --> adp[c] + gal1p[c] + h[c],,0.0,1000.0
+r_0990,,gal1p[c] + utp[c] <=> ppi[c] + udpgal[c],,-1000.0,1000.0
+r_0991,,gal[c] + h[c] <=> gal[e] + h[e],Transport,-1000.0,1000.0
+r_0992,,gal[e] --> ,Exchange,0.0,1000.0
+r_0993,,h2o[c] + raffin[c] --> gal[c] + sucr[c],,0.0,1000.0
+r_0994,,h[c] + raffin[c] <=> h[e] + raffin[e],Transport,-1000.0,1000.0
+r_0995,,raffin[e] --> ,Exchange,0.0,1000.0
+r_0996,,h2o[c] + lcts[c] --> gal[c] + glc__aD[c],,0.0,1000.0
+r_0997,,lcts[c] <=> lcts[e],Transport,-1000.0,1000.0
+r_0998,,lcts[e] --> ,Exchange,0.0,1000.0
+r_0999,,h2o[c] + melib[c] --> gal[c] + glc__aD[c],,0.0,1000.0
+r_1000,,melib[c] <=> melib[e],Transport,-1000.0,1000.0
+r_1001,,melib[e] --> ,Exchange,0.0,1000.0
+r_1002,,atp[c] + man[c] --> adp[c] + h[c] + man6p[c],,0.0,1000.0
+r_1003,,man[c] <=> man[e],Transport,-1000.0,1000.0
+r_1004,,man[e] --> ,Exchange,0.0,1000.0
+r_1005,,nadp[c] + sbt__D[c] <=> glc__aD[c] + h[c] + nadph[c],,-1000.0,1000.0
+r_1006,,sbt__D[c] <=> sbt__D[e],Transport,-1000.0,1000.0
+r_1007,,sbt__D[e] --> ,Exchange,0.0,1000.0
+r_1008,,mnl[c] + nad[c] <=> fru[c] + h[c] + nadh[c],,-1000.0,1000.0
+r_1009,,mnl[c] <=> mnl[e],Transport,-1000.0,1000.0
+r_1010,,mnl[e] --> ,Exchange,0.0,1000.0
+r_1011,,abt__D[c] + nad[c] <=> h[c] + nadh[c] + rbl__D[c],,-1000.0,1000.0
+r_1012,,abt__D[c] <=> abt__D[e],Transport,-1000.0,1000.0
+r_1013,,abt__D[e] --> ,Exchange,0.0,1000.0
+r_1014,,atp[c] + rbl__D[c] --> adp[c] + h[c] + ru5p__D[c],,0.0,1000.0
+r_1015,,glyc[c] <=> glyc[e],Transport,-1000.0,1000.0
+r_1016,,glyc[e] --> ,Exchange,0.0,1000.0
+r_1017,,f6p[c] <=> f6p[e],Transport,-1000.0,1000.0
+r_1018,,f6p[e] --> ,Exchange,0.0,1000.0
+r_1019,,arg__L[c] <=> arg__L[e],Transport,-1000.0,1000.0
+r_1020,,arg__L[e] --> ,Exchange,0.0,1000.0
+r_1021,,nad[c] + quin[c] <=> 3dhq[c] + h[c] + nadh[c],,-1000.0,1000.0
+r_1022,,quin[c] <-- quin[e],Transport,-1000.0,0.0
+r_1023,,quin[e] --> ,Exchange,0.0,1000.0
+r_1024,,lac__L[c] + nad[c] <=> h[c] + nadh[c] + pyr[c],,-1000.0,1000.0
+r_1025,,lac__L[c] <=> lac__L[e],Transport,-1000.0,1000.0
+r_1026,,lac__L[e] --> ,Exchange,0.0,1000.0
+r_1027,,4abut[c] <=> 4abut[e],Transport,-1000.0,1000.0
+r_1028,,4abut[e] --> ,Exchange,0.0,1000.0
+r_1029,,galctn__L[c] + nadp[c] <=> galur[c] + h[c] + nadph[c],,-1000.0,1000.0
+r_1030,,galctn__L[c] --> 2dh3dgal[c] + h2o[c],,0.0,1000.0
+r_1031,,2dh3dgal[c] <=> glycs[c] + pyr[c],,-1000.0,1000.0
+r_1032,,glycs[c] + h[c] + nadph[c] <=> glyc[c] + nadp[c],,-1000.0,1000.0
+r_1033,,galur[c] <=> galur[e],Transport,-1000.0,1000.0
+r_1034,,galur[e] --> ,Exchange,0.0,1000.0
+r_1035,,galctn__L[c] <=> galctn__L[e],Transport,-1000.0,1000.0
+r_1036,,galctn__L[e] --> ,Exchange,0.0,1000.0
+r_1037,,fuc__L[c] <=> fcl__L[c],,-1000.0,1000.0
+r_1038,,atp[c] + fcl__L[c] --> adp[c] + fc1p[c] + h[c],,0.0,1000.0
+r_1039,,fc1p[c] <=> dhap[c] + lald__L[c],,-1000.0,1000.0
+r_1040,,h2o[c] + lald__L[c] + nad[c] <=> 2.0 h[c] + lac__L[c] + nadh[c],,-1000.0,1000.0
+r_1041,,fuc__L[c] + h[c] <=> fuc__L[e] + h[e],Transport,-1000.0,1000.0
+r_1042,,fuc__L[e] --> ,Exchange,0.0,1000.0
+r_1043,,pep[c] + rbl_B[c] <=> pyr[c] + salcn6p[c],,-1000.0,1000.0
+r_1044,,h2o[c] + salcn6p[c] --> g6p[c] + slgn[c],,0.0,1000.0
+r_1045,,slgn[c] --> ,Transport,0.0,1000.0
+r_1046,,h[c] + rbl_B[c] <=> h[e] + rbl_B[e],Transport,-1000.0,1000.0
+r_1047,,rbl_B[e] --> ,Exchange,0.0,1000.0
+r_1048,,rmn[c] <=> rml[c],,-1000.0,1000.0
+r_1049,,atp[c] + rml[c] --> adp[c] + h[c] + rml1p[c],,0.0,1000.0
+r_1050,,rml1p[c] <=> dhap[c] + lald__L[c],,-1000.0,1000.0
+r_1051,,rmn[c] <=> rmn[e],Transport,-1000.0,1000.0
+r_1052,,rmn[e] --> ,Exchange,0.0,1000.0
+r_1053,,34hpp[c] + h[c] <=> 34hpp[e] + h[e],Transport,-1000.0,1000.0
+r_1054,,34hpp[e] --> ,Exchange,0.0,1000.0
+r_1055,,acgala[c] + pplhis[c] --> acgal6p[c] + phis__L[c],,0.0,1000.0
+r_1056,,acgal6p[c] + h2o[c] <=> ac[c] + galam6p[c],,-1000.0,1000.0
+r_1057,,galam6p[c] + h2o[c] --> nh3[c] + tag6p__D[c],,0.0,1000.0
+r_1058,,tag6p__D[c] <=> f6p[c],,-1000.0,1000.0
+r_1059,,acgala[c] <=> acgala[e],Transport,-1000.0,1000.0
+r_1060,,acgala[e] --> ,Exchange,0.0,1000.0
+r_1061,,gam6p[c] + h2o[c] <=> f6p[c] + h[c] + nh3[c],,-1000.0,1000.0
+r_1062,,4fumacac[c] + h2o[c] --> acac[c] + fum[c] + h[c],,0.0,1000.0
+r_1064,,24dab[c] + accoa[c] --> coa[c] + n4acld[c],,0.0,1000.0
+r_1065,,n4acld[c] --> ecto__L[c] + h2o[c] + h[c],,0.0,1000.0
+r_1068,,acald[c] + thmpp[c] <=> 2ahethmpp[c],,-1000.0,1000.0
+r_1070,,asp__L[c] + phpyr[c] <=> oaa[c] + phe__L[c],,-1000.0,1000.0
