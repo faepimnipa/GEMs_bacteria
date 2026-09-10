@@ -1,0 +1,58 @@
+Species,Environment,Fraction,Growth_rate,N2_rate_mmol_gDW_h
+Sinorhizobium meliloti,Bulk soil,0.0,0.0,0.0
+Sinorhizobium meliloti,Bulk soil,0.05,0.0810692096415036,1.7623090719648817e-20
+Sinorhizobium meliloti,Bulk soil,0.1,0.1621384192830072,0.0
+Sinorhizobium meliloti,Bulk soil,0.15,0.2432076289245108,0.0
+Sinorhizobium meliloti,Bulk soil,0.2,0.3242768385660144,0.0
+Sinorhizobium meliloti,Bulk soil,0.25,0.405346048207518,0.0
+Sinorhizobium meliloti,Bulk soil,0.3,0.4864152578490216,0.0
+Sinorhizobium meliloti,Bulk soil,0.35,0.5674844674905252,0.0
+Sinorhizobium meliloti,Bulk soil,0.4,0.6485536771320288,0.0
+Sinorhizobium meliloti,Bulk soil,0.45,0.7296228867735325,0.0
+Sinorhizobium meliloti,Bulk soil,0.5,0.810692096415036,0.0
+Sinorhizobium meliloti,Bulk soil,0.55,0.8917613060565397,0.0
+Sinorhizobium meliloti,Bulk soil,0.6,0.9728305156980432,0.0
+Sinorhizobium meliloti,Bulk soil,0.65,1.0538997253395468,0.0
+Sinorhizobium meliloti,Bulk soil,0.7,1.1349689349810503,0.0
+Sinorhizobium meliloti,Bulk soil,0.75,1.216038144622554,0.0
+Sinorhizobium meliloti,Bulk soil,0.8,1.2971073542640577,0.0
+Sinorhizobium meliloti,Bulk soil,0.85,1.3781765639055612,0.0
+Sinorhizobium meliloti,Bulk soil,0.9,1.459245773547065,0.0
+Sinorhizobium meliloti,Rhizosphere,0.0,0.0,3.54092272706422
+Sinorhizobium meliloti,Rhizosphere,0.05,0.08230966014814906,3.3638765907110035
+Sinorhizobium meliloti,Rhizosphere,0.1,0.1646193202962981,3.1868304543577963
+Sinorhizobium meliloti,Rhizosphere,0.15,0.24692898044444717,3.0097843180045696
+Sinorhizobium meliloti,Rhizosphere,0.2,0.3292386405925962,2.832738181651358
+Sinorhizobium meliloti,Rhizosphere,0.25,0.4115483007407453,2.6556920452981414
+Sinorhizobium meliloti,Rhizosphere,0.3,0.49385796088889433,2.478645908944942
+Sinorhizobium meliloti,Rhizosphere,0.35,0.5761676210370433,2.30159977259172
+Sinorhizobium meliloti,Rhizosphere,0.4,0.6584772811851924,2.124553636238514
+Sinorhizobium meliloti,Rhizosphere,0.45,0.7407869413333416,1.9475074998853144
+Sinorhizobium meliloti,Rhizosphere,0.5,0.8230966014814906,1.7704613635320825
+Sinorhizobium meliloti,Rhizosphere,0.55,0.9054062616296397,1.593415227178892
+Sinorhizobium meliloti,Rhizosphere,0.6,0.9877159217777887,1.4163690908256839
+Sinorhizobium meliloti,Rhizosphere,0.65,1.0700255819259377,1.2393229544724713
+Sinorhizobium meliloti,Rhizosphere,0.7,1.1523352420740867,1.0622768181192446
+Sinorhizobium meliloti,Rhizosphere,0.75,1.2346449022222359,0.8852306817660579
+Sinorhizobium meliloti,Rhizosphere,0.8,1.3169545623703849,0.7081845454128433
+Sinorhizobium meliloti,Rhizosphere,0.85,1.3992642225185339,0.531138409059645
+Sinorhizobium meliloti,Rhizosphere,0.9,1.481573882666683,0.3540922727064228
+Sinorhizobium meliloti,Nodule,0.0,0.0,0.32975757964781643
+Sinorhizobium meliloti,Nodule,0.05,0.007783849850685122,0.3150563730851725
+Sinorhizobium meliloti,Nodule,0.1,0.015567699701370244,0.30035515553051384
+Sinorhizobium meliloti,Nodule,0.15,0.023351549552055366,0.28565331742629924
+Sinorhizobium meliloti,Nodule,0.2,0.031135399402740488,0.27095189668579145
+Sinorhizobium meliloti,Nodule,0.25,0.03891924925342561,0.2556694003347153
+Sinorhizobium meliloti,Nodule,0.3,0.04670309910411073,0.24012457560455935
+Sinorhizobium meliloti,Nodule,0.35,0.054486948954795854,0.22457975087440707
+Sinorhizobium meliloti,Nodule,0.4,0.062270798805480976,0.20903492614425506
+Sinorhizobium meliloti,Nodule,0.45,0.0700546486561661,0.19349010141410022
+Sinorhizobium meliloti,Nodule,0.5,0.07783849850685122,0.1779452766839474
+Sinorhizobium meliloti,Nodule,0.55,0.08562234835753635,0.16240045195379768
+Sinorhizobium meliloti,Nodule,0.6,0.09340619820822146,0.1468255634455087
+Sinorhizobium meliloti,Nodule,0.65,0.10119004805890659,0.12847236801481532
+Sinorhizobium meliloti,Nodule,0.7,0.10897389790959171,0.11011917258412876
+Sinorhizobium meliloti,Nodule,0.75,0.11675774776027684,0.09176597715343841
+Sinorhizobium meliloti,Nodule,0.8,0.12454159761096195,0.07341278172275471
+Sinorhizobium meliloti,Nodule,0.85,0.13232544746164707,0.05505958629206318
+Sinorhizobium meliloti,Nodule,0.9,0.1401092973123322,0.03670639086137387

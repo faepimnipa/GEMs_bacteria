@@ -1,0 +1,58 @@
+Species,Environment,Fraction,Growth_rate,N2_rate_mmol_gDW_h
+Sinorhizobium fredii,Bulk soil,0.0,0.0,419.2162226330942
+Sinorhizobium fredii,Bulk soil,0.05,0.0,419.2162226330942
+Sinorhizobium fredii,Bulk soil,0.1,0.0,419.2162226330942
+Sinorhizobium fredii,Bulk soil,0.15,0.0,419.2162226330942
+Sinorhizobium fredii,Bulk soil,0.2,0.0,419.2162226330942
+Sinorhizobium fredii,Bulk soil,0.25,0.0,419.2162226330942
+Sinorhizobium fredii,Bulk soil,0.3,0.0,419.2162226330942
+Sinorhizobium fredii,Bulk soil,0.35,0.0,419.2162226330942
+Sinorhizobium fredii,Bulk soil,0.4,0.0,419.2162226330942
+Sinorhizobium fredii,Bulk soil,0.45,0.0,419.2162226330942
+Sinorhizobium fredii,Bulk soil,0.5,0.0,419.2162226330942
+Sinorhizobium fredii,Bulk soil,0.55,0.0,419.2162226330942
+Sinorhizobium fredii,Bulk soil,0.6,0.0,419.2162226330942
+Sinorhizobium fredii,Bulk soil,0.65,0.0,419.2162226330942
+Sinorhizobium fredii,Bulk soil,0.7,0.0,419.2162226330942
+Sinorhizobium fredii,Bulk soil,0.75,0.0,419.2162226330942
+Sinorhizobium fredii,Bulk soil,0.8,0.0,419.2162226330942
+Sinorhizobium fredii,Bulk soil,0.85,0.0,419.2162226330942
+Sinorhizobium fredii,Bulk soil,0.9,0.0,419.2162226330942
+Sinorhizobium fredii,Rhizosphere,0.0,0.0,419.2445261351178
+Sinorhizobium fredii,Rhizosphere,0.05,5.274780504618403,411.4836636154518
+Sinorhizobium fredii,Rhizosphere,0.1,10.549561009236806,403.66633695531476
+Sinorhizobium fredii,Rhizosphere,0.15,15.824341513855208,395.84901029517164
+Sinorhizobium fredii,Rhizosphere,0.2,21.09912201847361,388.03168363502846
+Sinorhizobium fredii,Rhizosphere,0.25,26.373902523092013,380.21435697488926
+Sinorhizobium fredii,Rhizosphere,0.3,31.648683027710415,372.3970303147459
+Sinorhizobium fredii,Rhizosphere,0.35,36.92346353232882,360.7683983735826
+Sinorhizobium fredii,Rhizosphere,0.4,42.19824403694722,341.937845287661
+Sinorhizobium fredii,Rhizosphere,0.45,47.47302454156563,323.10729220174255
+Sinorhizobium fredii,Rhizosphere,0.5,52.74780504618403,304.276739115827
+Sinorhizobium fredii,Rhizosphere,0.55,58.02258555080243,285.4461860299087
+Sinorhizobium fredii,Rhizosphere,0.6,63.29736605542083,266.6156329439922
+Sinorhizobium fredii,Rhizosphere,0.65,68.57214656003924,247.78507985807158
+Sinorhizobium fredii,Rhizosphere,0.7,73.84692706465763,228.92193210257
+Sinorhizobium fredii,Rhizosphere,0.75,79.12170756927604,209.91762385400497
+Sinorhizobium fredii,Rhizosphere,0.8,84.39648807389445,190.60834880015267
+Sinorhizobium fredii,Rhizosphere,0.85,89.67126857851284,167.8631731584524
+Sinorhizobium fredii,Rhizosphere,0.9,94.94604908313126,142.012537805076
+Sinorhizobium fredii,Nodule,0.0,0.0,375.23955000000035
+Sinorhizobium fredii,Nodule,0.05,0.024147755906689883,375.108281381607
+Sinorhizobium fredii,Nodule,0.1,0.048295511813379766,374.97701276316025
+Sinorhizobium fredii,Nodule,0.15,0.07244326772006965,374.8457441447368
+Sinorhizobium fredii,Nodule,0.2,0.09659102362675953,374.7144755263158
+Sinorhizobium fredii,Nodule,0.25,0.12073877953344941,374.5832069078968
+Sinorhizobium fredii,Nodule,0.3,0.1448865354401393,374.45193828947464
+Sinorhizobium fredii,Nodule,0.35,0.16903429134682918,374.32066967104976
+Sinorhizobium fredii,Nodule,0.4,0.19318204725351906,374.18940105263215
+Sinorhizobium fredii,Nodule,0.45,0.21732980316020895,374.0581324342101
+Sinorhizobium fredii,Nodule,0.5,0.24147755906689883,373.92686381579165
+Sinorhizobium fredii,Nodule,0.55,0.2656253149735887,373.79559519736705
+Sinorhizobium fredii,Nodule,0.6,0.2897730708802786,373.66432657894705
+Sinorhizobium fredii,Nodule,0.65,0.3139208267869685,373.5330579605268
+Sinorhizobium fredii,Nodule,0.7,0.33806858269365836,373.40178934210456
+Sinorhizobium fredii,Nodule,0.75,0.36221633860034824,373.2705207236841
+Sinorhizobium fredii,Nodule,0.8,0.3863640945070381,373.139252105264
+Sinorhizobium fredii,Nodule,0.85,0.410511850413728,373.00798348684157
+Sinorhizobium fredii,Nodule,0.9,0.4346596063204179,372.8767148684228
